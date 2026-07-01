@@ -231,6 +231,11 @@ main {
     background: rgba(52, 152, 219, 0.05);
     border-left: 3px solid var(--tech-color);
     border-radius: 4px;
+    /* 限制摘要最多显示 4 行，超出显示省略号 */
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 /* 锐评样式 */

@@ -198,17 +198,27 @@ def fetch_rss_feed(source_name, url, max_items=30):
 
 
 def _clean_summary(summary, source_name=""):
-    """清理 RSS 描述文本：移除 HTML 标签、HN 元数据等"""
+    """
+    清理 RSS 描述文本：移除 HTML 标签、HN 元数据等。
+    返回清理后的文本；如果清理后无实际内容，返回空字符串。
+    """
     if not summary:
         return ""
-    # 对于 Hacker News，移除元数据行
+
+    # 对于 Hacker News (hnrss.org)，描述字段混合了内容摘要 + 元数据行
     if "Hacker News" in source_name or "hnrss" in source_name.lower():
-        summary = re.sub(r'Article URL:\s*\S+', '', summary)
-        summary = re.sub(r'Comments URL:\s*\S+', '', summary)
+        # 先去掉固定的元数据行（含完整 URL）
+        summary = re.sub(r'Article URL:\s*https?://\S+', '', summary)
+        summary = re.sub(r'Comments URL:\s*https?://\S+', '', summary)
         summary = re.sub(r'Points:\s*\d+', '', summary)
-        summary = re.sub(r'# Comments:\s*\d+', '', summary)
+        summary = re.sub(r'#\s*Comments:\s*\d+', '', summary)
+        # 如果清理后只剩 URL 或元数据关键词，视为空
+        if summary.strip() and re.match(r'^\s*(Article URL|Comments URL|https?://)', summary.strip()):
+            return ""
+
     # 移除 HTML 标签
     summary = re.sub(r"<[^>]+>", " ", summary)
+    # 合并多余空白
     summary = re.sub(r"\s+", " ", summary).strip()
     return summary[:500]
 
@@ -226,6 +236,9 @@ def _fetch_rss_with_feedparser(source_name, url, max_items):
         title = item.get("title", "").strip()
         summary = item.get("summary", "") or item.get("description", "")
         summary = _clean_summary(summary, source_name)
+        # HNRSS 描述可能只有元数据，清理后为空则用 title 兜底
+        if not summary:
+            summary = title
 
         link = item.get("link", "")
         # 有些 feed 的 link 是 dict
@@ -283,8 +296,9 @@ def _fetch_rss_with_etree(source_name, url, max_items):
         for item in items[:max_items]:
             title = _get_xml_text(item, "title")
             summary = _get_xml_text(item, "description")
-            summary = re.sub(r"<[^>]+>", " ", summary).strip()
-            summary = re.sub(r"\s+", " ", summary)[:500]
+            summary = _clean_summary(summary, source_name)
+            if not summary:
+                summary = title
             link = _get_xml_text(item, "link")
             pub_date_str = _get_xml_text(item, "pubDate")
             pub_date = parse_rss_date(pub_date_str) or datetime.now(timezone.utc)
@@ -309,8 +323,9 @@ def _fetch_rss_with_etree(source_name, url, max_items):
             summary = (_get_xml_text(item, "summary") or
                        _get_xml_text(item, "content") or
                        _get_xml_text(item, "{http://www.w3.org/2005/Atom}summary") or "")
-            summary = re.sub(r"<[^>]+>", " ", summary).strip()
-            summary = re.sub(r"\s+", " ", summary)[:500]
+            summary = _clean_summary(summary, source_name)
+            if not summary:
+                summary = title
 
             link_elem = item.find("link") or item.find("{http://www.w3.org/2005/Atom}link")
             link = link_elem.get("href", "") if link_elem is not None else ""

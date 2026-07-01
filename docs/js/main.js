@@ -67,7 +67,8 @@ function createNewsCard(item, index) {
 
     // 使用中文标题（如果有），否则使用英文
     const displayTitle = item.title_cn || item.title;
-    const displaySummary = item.summary_cn || item.summary;
+    const displaySummary = item.summary_cn || item.summary || '';
+    const hasSummary = displaySummary && displaySummary.length > 0;
 
     card.innerHTML = `
         <div class="news-card-header">
@@ -78,9 +79,9 @@ function createNewsCard(item, index) {
             <a href="${item.url}" target="_blank" rel="noopener">${displayTitle}</a>
         </h3>
         ${item.title_cn && item.title ? `<p class="news-card-title-en" style="font-size:0.85rem;color:#999;margin-bottom:8px;">${item.title}</p>` : ''}
-        <div class="news-card-summary-cn">
-            ${displaySummary}
-        </div>
+        ${hasSummary ? `
+        <div class="news-card-summary-cn">${displaySummary}</div>
+        ` : ''}
         ${item.comment ? `
         <div class="comment-section">
             <div class="comment-label">犀利锐评</div>
