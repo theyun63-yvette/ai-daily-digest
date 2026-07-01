@@ -27,7 +27,7 @@
       "title_cn": "内省耦合：自我解释培训追踪固定监督下的行为变化",
       "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs a...",
       "summary_cn": "何时训练语言模型（ LM ）以生成对其预测的解释会产生忠实的内省，而不是肤浅的模仿？我们研究了经过培训的LM ，以解释其输入的哪些特征影响了他们的行为，使用模型在修改输入上的反事实行为a...",
-      "comment": "Meta/Llama系又放大招，社区狂欢，不过实际部署成本您考虑过吗？",
+      "comment": "开源阵营再下一城，但光看参数没用，能不能跑起来、好不好用才是关键。",
       "url": "http://arxiv.org/abs/2606.32038v1",
       "date": "2026-07-01"
     },
@@ -37,7 +37,7 @@
       "title_cn": "QVal ：廉价评估长期LLM专员的密集监督信号",
       "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve ...",
       "summary_cn": "LLM代理越来越多地在长远的视野中行动，其中单个轨迹可以包含数百或数千个行动。在这些情况下，仅限结果的奖励提供的指导过于稀疏，无法让模型了解中间行动的好处。密集的监督方法旨在解决...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "AI模型迭代快得飞起，但有几个真正解决了实际问题？等落地案例。",
       "url": "http://arxiv.org/abs/2606.32034v1",
       "date": "2026-07-01"
     },
@@ -47,7 +47,7 @@
       "title_cn": "使用元认知反馈的强化学习在LLM中引发忠实的不确定性表达",
       "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misreprese...",
       "summary_cn": "元认知是智力的一个关键组成部分，它描述了监控和调节自己认知过程的能力。然而，法学硕士在关键元认知能力方面表现出系统性缺陷：他们高度自信地产生幻觉，未能识别知识界限，并误解...",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
       "url": "http://arxiv.org/abs/2606.32032v1",
       "date": "2026-07-01"
     },
@@ -67,7 +67,7 @@
       "title_cn": "GPT-4o Mini - OpenAI的成本效益模型",
       "summary": "OpenAI launches GPT-4o Mini, offering high performance at lower cost.",
       "summary_cn": "OpenAI推出GPT-4o Mini ，以更低的成本提供高性能。",
-      "comment": "商业模型再升级，功能看着牛，钱包要捂紧，按量付费伤不起。",
+      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
       "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
       "date": "2026-07-01"
     },
@@ -77,7 +77,7 @@
       "title_cn": "Gemini 1.5 Flash -谷歌的快速模型",
       "summary": "Google releases Gemini 1.5 Flash for faster inference and lower cost.",
       "summary_cn": "谷歌发布了Gemini 1.5 Flash ，以实现更快的推理和更低的成本。",
-      "comment": "新模型发布，效果先观望，价格先准备好——按token计费的玩法，用得起吗？",
+      "comment": "又是一个'史上最强'，基准测试刷得飞起，实际应用场景待检验。",
       "url": "https://deepmind.google/technologies/gemini/flash/",
       "date": "2026-07-01"
     },
@@ -87,7 +87,7 @@
       "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
       "summary": "European Union implements AI Act, setting global standard for AI regulation.",
       "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
-      "comment": "AI领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "新趋势值得注意，但别盲目跟风，适合自己的才是最好的。",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "date": "2026-07-01"
     },
