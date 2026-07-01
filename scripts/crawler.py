@@ -197,6 +197,22 @@ def fetch_rss_feed(source_name, url, max_items=30):
     return entries
 
 
+def _clean_summary(summary, source_name=""):
+    """清理 RSS 描述文本：移除 HTML 标签、HN 元数据等"""
+    if not summary:
+        return ""
+    # 对于 Hacker News，移除元数据行
+    if "Hacker News" in source_name or "hnrss" in source_name.lower():
+        summary = re.sub(r'Article URL:\s*\S+', '', summary)
+        summary = re.sub(r'Comments URL:\s*\S+', '', summary)
+        summary = re.sub(r'Points:\s*\d+', '', summary)
+        summary = re.sub(r'# Comments:\s*\d+', '', summary)
+    # 移除 HTML 标签
+    summary = re.sub(r"<[^>]+>", " ", summary)
+    summary = re.sub(r"\s+", " ", summary).strip()
+    return summary[:500]
+
+
 def _fetch_rss_with_feedparser(source_name, url, max_items):
     """使用 feedparser 库解析 RSS/Atom"""
     entries = []
@@ -209,9 +225,7 @@ def _fetch_rss_with_feedparser(source_name, url, max_items):
     for item in feed.entries[:max_items]:
         title = item.get("title", "").strip()
         summary = item.get("summary", "") or item.get("description", "")
-        # 清理 HTML 标签
-        summary = re.sub(r"<[^>]+>", " ", summary).strip()
-        summary = re.sub(r"\s+", " ", summary)[:500]
+        summary = _clean_summary(summary, source_name)
 
         link = item.get("link", "")
         # 有些 feed 的 link 是 dict
@@ -333,10 +347,10 @@ def _get_xml_text(element, tag):
 # 翻译
 # ============================================================
 
-def translate_to_chinese(text, max_retries=3):
+def translate_to_chinese(text, max_retries=2):
     """
     使用免费翻译 API 将文本翻译为中文。
-    优先使用 Google Translate，fallback 到 MyMemory。
+    优先使用 MyMemory（免费额度更慷慨），fallback 到 Google Translate。
     """
     if not text or text == "No description available":
         return "暂无描述"
@@ -345,32 +359,7 @@ def translate_to_chinese(text, max_retries=3):
     if len(text) < 5:
         return text
 
-    # 方案1：Google Translate 免费接口
-    for attempt in range(max_retries):
-        try:
-            url = "https://translate.googleapis.com/translate_a/single"
-            params = {
-                "client": "gtx",
-                "sl": "en",
-                "tl": "zh-CN",
-                "dt": "t",
-                "q": text[:500]
-            }
-            resp = requests.get(url, params=params, timeout=10)
-            resp.raise_for_status()
-            result = resp.json()
-            translated = ""
-            for item in result[0]:
-                if item and item[0]:
-                    translated += item[0]
-            if translated and translated != text:
-                return sanitize_text(translated)
-        except Exception as e:
-            print(f"翻译失败 (Google, 尝试 {attempt + 1}): {e}")
-            if attempt < max_retries - 1:
-                time.sleep(1)
-
-    # 方案2：MyMemory Translation API
+    # 方案1：MyMemory Translation API（免费，每天 5000 字符，更不容易限流）
     for attempt in range(max_retries):
         try:
             url = "https://api.mymemory.translated.net/get"
@@ -386,7 +375,31 @@ def translate_to_chinese(text, max_retries=3):
                 if translated and translated != text:
                     return sanitize_text(translated)
         except Exception as e:
-            print(f"翻译失败 (MyMemory, 尝试 {attempt + 1}): {e}")
+            if attempt < max_retries - 1:
+                time.sleep(1)
+
+    # 方案2：Google Translate 免费接口（可能被限流）
+    for attempt in range(max_retries):
+        try:
+            url = "https://translate.googleapis.com/translate_a/single"
+            params = {
+                "client": "gtx",
+                "sl": "en",
+                "tl": "zh-CN",
+                "dt": "t",
+                "q": text[:500]
+            }
+            time.sleep(0.5)  # 避免触发 Google 限流
+            resp = requests.get(url, params=params, timeout=10)
+            resp.raise_for_status()
+            result = resp.json()
+            translated = ""
+            for item in result[0]:
+                if item and item[0]:
+                    translated += item[0]
+            if translated and translated != text:
+                return sanitize_text(translated)
+        except Exception as e:
             if attempt < max_retries - 1:
                 time.sleep(1)
 
@@ -914,15 +927,18 @@ def update_index(current_date):
 def main():
     """主函数"""
     print("=" * 60)
-    print("  每日AI资讯日报 — 爬虫 v2.0")
+    print("  每日AI资讯日报 -- 爬虫 v2.0")
     print(f"  运行时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"  feedparser: {'已安装' if HAS_FEEDPARSER else '未安装 (fallback xml.etree)'}")
     print("=" * 60)
 
     report = generate_daily_report()
     save_report(report)
-    print("\n✅ 报告生成完成！")
+    print("\n[OK] 报告生成完成！")
 
 
 if __name__ == "__main__":
+    # 强制使用 UTF-8 输出，避免 Windows GBK 编码问题
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8') if hasattr(sys.stdout, 'reconfigure') else None
     main()
