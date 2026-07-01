@@ -27,7 +27,7 @@
 
 ## 🚀 在线访问
 
-**GitHub Pages**: [https://zhouyvette567-stack.github.io/ai-daily-digest/](https://zhouyvette567-stack.github.io/ai-daily-digest/)
+**GitHub Pages**: [https://theyun63-yvette.github.io/ai-daily-digest/](https://theyun63-yvette.github.io/ai-daily-digest/)
 
 ## 📊 技术栈
 
@@ -42,7 +42,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/zhouyvette567-stack/ai-daily-digest.git
+git clone https://github.com/theyun63-yvette/ai-daily-digest.git
 cd ai-daily-digest
 ```
 

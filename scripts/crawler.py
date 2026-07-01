@@ -367,7 +367,7 @@ def generate_daily_report():
         {
             "title": "AI Chip Market Competition Intensifies",
             "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
-            "url": "https://example.com/ai-chip-market-2026"
+            "url": "https://www.reuters.com/technology/artificial-intelligence/"
         }
     ]
 

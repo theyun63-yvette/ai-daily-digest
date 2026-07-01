@@ -61,14 +61,14 @@
       "category": "行业热点",
       "title": "AI 芯片市场竞争加剧 - NVIDIA vs AMD",
       "summary": "随着 AI 需求持续增长，NVIDIA 和 AMD 在 AI 芯片市场的竞争愈发激烈，新产品发布节奏加快。",
-      "url": "https://example.com/ai-chip-market",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
       "date": "2024-01-15"
     },
     {
       "category": "行业热点",
       "title": "欧盟 AI Act 正式生效",
       "summary": "欧盟人工智能法案正式生效，对高风险 AI 系统提出严格要求，全球 AI 监管进入新阶段。",
-      "url": "https://example.com/eu-ai-act",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "date": "2024-01-15"
     }
   ]
