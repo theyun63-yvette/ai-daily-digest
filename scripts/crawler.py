@@ -205,16 +205,23 @@ def _clean_summary(summary, source_name=""):
     if not summary:
         return ""
 
-    # 对于 Hacker News (hnrss.org)，描述字段混合了内容摘要 + 元数据行
-    if "Hacker News" in source_name or "hnrss" in source_name.lower():
-        # 去掉元数据行：用 .+? 匹配到下一个元数据字段或行尾（比 \S+ 更宽，兼容各类 URL）
+    # 无差别清理 HNRSS 风格元数据（Article URL / Comments URL / Points / # Comments）
+    # 使用 .+? 匹配完整 URL，兼容各类特殊字符
+    if "Article URL:" in summary or "Comments URL:" in summary:
         summary = re.sub(r'Article URL:\s*.+?(?=\s*(?:Comments URL:|Points:|#\s*Comments:|$))', '', summary)
         summary = re.sub(r'Comments URL:\s*.+?(?=\s*(?:Points:|#\s*Comments:|$))', '', summary)
         summary = re.sub(r'Points:\s*\d+', '', summary)
         summary = re.sub(r'#\s*Comments:\s*\d+', '', summary)
-        # 如果清理后全是空白或只剩元数据关键词 → 视为空
-        if not summary.strip() or re.match(r'^\s*(Article URL|Comments URL|Points:|#\s*Comments:|https?://)', summary.strip()):
-            return ""
+
+    # 移除 HTML 标签
+    summary = re.sub(r"<[^>]+>", " ", summary)
+    # 合并多余空白
+    summary = re.sub(r"\s+", " ", summary).strip()
+
+    # 清理后若只剩 URL 或无意义内容 → 返回空（让调用方 fallback 到 title）
+    if summary and re.match(r'^\s*(https?://|Article URL|Comments URL|Points:|#\s*Comments:)\s*$', summary):
+        return ""
+    return summary[:500]
 
     # 移除 HTML 标签
     summary = re.sub(r"<[^>]+>", " ", summary)
