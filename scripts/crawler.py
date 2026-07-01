@@ -205,21 +205,35 @@ def _clean_summary(summary, source_name=""):
     if not summary:
         return ""
 
-    # 无差别清理 HNRSS 风格元数据（Article URL / Comments URL / Points / # Comments）
-    # 使用 .+? 匹配完整 URL，兼容各类特殊字符
+    # 如果含有 HNRSS 元数据标记，强行清理
     if "Article URL:" in summary or "Comments URL:" in summary:
-        summary = re.sub(r'Article URL:\s*.+?(?=\s*(?:Comments URL:|Points:|#\s*Comments:|$))', '', summary)
-        summary = re.sub(r'Comments URL:\s*.+?(?=\s*(?:Points:|#\s*Comments:|$))', '', summary)
-        summary = re.sub(r'Points:\s*\d+', '', summary)
-        summary = re.sub(r'#\s*Comments:\s*\d+', '', summary)
+        # 方案A：用正则精确匹配
+        cleaned = re.sub(r'Article URL:\s*.+?(?=\s*(?:Comments URL:|Points:|#\s*Comments:|$))', '', summary)
+        cleaned = re.sub(r'Comments URL:\s*.+?(?=\s*(?:Points:|#\s*Comments:|$))', '', cleaned)
+        cleaned = re.sub(r'Points:\s*\d+', '', cleaned)
+        cleaned = re.sub(r'#\s*Comments:\s*\d+', '', cleaned)
+
+        # 方案B：正则没命中则用字符串分割兜底
+        if "Article URL:" in cleaned or "Comments URL:" in cleaned:
+            for marker in ["Article URL:", "Comments URL:", "Points:", "# Comments:"]:
+                idx = cleaned.find(marker)
+                if idx >= 0:
+                    cleaned = cleaned[:idx]
+            # 去掉末尾可能残留的数字
+            cleaned = re.sub(r'\s*\d+\s*$', '', cleaned)
+
+        summary = cleaned
 
     # 移除 HTML 标签
     summary = re.sub(r"<[^>]+>", " ", summary)
     # 合并多余空白
     summary = re.sub(r"\s+", " ", summary).strip()
 
-    # 清理后若只剩 URL 或无意义内容 → 返回空（让调用方 fallback 到 title）
-    if summary and re.match(r'^\s*(https?://|Article URL|Comments URL|Points:|#\s*Comments:)\s*$', summary):
+    # 如果清理后只剩无意义内容，返回空（让调用方 fallback 到 title）
+    if summary and re.match(r'^\s*(https?://|\d+)\s*$', summary):
+        return ""
+    # 清理后少于10个有效字符大概率不是真正的摘要
+    if summary and len(summary) < 10:
         return ""
     return summary[:500]
 
