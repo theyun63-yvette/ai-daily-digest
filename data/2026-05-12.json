@@ -1,4 +1,4 @@
-{
+﻿{
   "date": "2026-05-12",
   "items": [
     {
@@ -37,7 +37,7 @@
       "title_cn": "宪法AI：基于AI反馈的无害化训练",
       "summary": "Training AI systems to be helpful, harmless, and honest using AI feedback instead of human feedback.",
       "summary_cn": "使用AI反馈而非人类反馈训练AI系统，使其更有帮助、更无害、更诚实。",
-      "comment": "Anthropic的宪法AI思路很好，但谁来定义"宪法"？价值观对齐问题不是技术问题，是哲学问题。",
+      "comment": "Anthropic的宪法AI思路很好，但谁来定义「宪法」？价值观对齐问题不是技术问题，是哲学问题。",
       "url": "https://arxiv.org/abs/2212.08073",
       "date": "2026-05-12"
     },

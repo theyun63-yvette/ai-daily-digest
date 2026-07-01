@@ -83,6 +83,22 @@ def translate_to_chinese(text, max_retries=3):
     return text
 
 
+def sanitize_text(text):
+    """
+    清理文本中的特殊字符，防止JSON解析错误。
+    将ASCII双引号替换为中文书名号，避免与JSON字符串定界符冲突。
+    """
+    if not text:
+        return text
+    # 替换ASCII双引号为中文引号
+    text = text.replace('"', '“').replace('"', '”')
+    # 如果存在成对的双引号，用中文引号替换
+    import re
+    # 匹配 "xxx" 模式并替换为「xxx」
+    text = re.sub(r'"([^"]*)"', r'「\1」', text)
+    return text
+
+
 def generate_comment_with_ai(title, description):
     """
     使用AI生成针对性犀利锐评
@@ -110,12 +126,12 @@ def generate_comment_with_ai(title, description):
             result = response.json()
             comment = result.get("choices", [{}])[0].get("message", {}).get("content", "")
             if comment and len(comment) > 5:
-                return comment.strip()
+                return sanitize_text(comment.strip())
     except Exception as e:
         print(f"DeepSeek API调用失败: {e}")
 
     # 方案2：使用智能模板生成（基于内容分析）
-    return generate_smart_comment(title, description)
+    return sanitize_text(generate_smart_comment(title, description))
 
 
 def generate_smart_comment(title, description):
