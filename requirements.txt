@@ -3,5 +3,6 @@
 # HTTP请求库
 requests>=2.31.0
 
-# XML解析（Python内置，无需安装）
-# xml.etree.ElementTree
+# RSS/Atom feed 解析（推荐，解析更健壮）
+# 如果未安装，脚本会自动 fallback 到 xml.etree
+feedparser>=6.0.0
