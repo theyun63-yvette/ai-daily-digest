@@ -17,7 +17,7 @@
       "title_cn": "LLM从头开始",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "date": "2026-07-01"
     },
@@ -27,7 +27,7 @@
       "title_cn": "内省耦合：自我解释培训追踪固定监督下的行为变化",
       "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs a...",
       "summary_cn": "何时训练语言模型（ LM ）以生成对其预测的解释会产生忠实的内省，而不是肤浅的模仿？我们研究了经过培训的LM ，以解释其输入的哪些特征影响了他们的行为，使用模型在修改输入上的反事实行为a...",
-      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "comment": "开源阵营再下一城，光看参数没用，能跑起来、好不好用才是关键。",
       "url": "http://arxiv.org/abs/2606.32038v1",
       "date": "2026-07-01"
     },
@@ -37,7 +37,7 @@
       "title_cn": "QVal ：廉价评估长期LLM专员的密集监督信号",
       "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve ...",
       "summary_cn": "LLM代理越来越多地在长远的视野中行动，其中单个轨迹可以包含数百或数千个行动。在这些情况下，仅限结果的奖励提供的指导过于稀疏，无法让模型了解中间行动的好处。密集的监督方法旨在解决...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
       "url": "http://arxiv.org/abs/2606.32034v1",
       "date": "2026-07-01"
     },
@@ -47,7 +47,7 @@
       "title_cn": "使用元认知反馈的强化学习在LLM中引发忠实的不确定性表达",
       "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misreprese...",
       "summary_cn": "元认知是智力的一个关键组成部分，它描述了监控和调节自己认知过程的能力。然而，法学硕士在关键元认知能力方面表现出系统性缺陷：他们高度自信地产生幻觉，未能识别知识界限，并误解...",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
       "url": "http://arxiv.org/abs/2606.32032v1",
       "date": "2026-07-01"
     },
@@ -57,7 +57,7 @@
       "title_cn": "威尼斯人工智能成为独角兽， $ 6500万系列A作为其隐私优先的人工智能平台起飞",
       "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
       "summary_cn": "首席执行官埃里克·沃希斯（ Erik Voorhees ）表示，威尼斯人工智能已经盈利，年化运行率收入超过7000万美元（ $ ）。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -68,7 +68,7 @@
       "title_cn": "Google的代理助理Gemini Spark现已在Mac上推出",
       "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
       "summary_cn": "谷歌的24/7代理助手Gemini Spark与实时跟踪和支持更多应用程序等其他改进一起加入了Mac。",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -79,7 +79,7 @@
       "title_cn": "像SpaceX一样， Meta希望将多余的人工智能计算转化为现金",
       "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
       "summary_cn": "Meta正在制定云基础设施业务计划，出售人工智能计算能力和模型的访问权限。此举将使其与亚马逊网络服务、谷歌云和微软Azure等大型云提供商竞争。",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
       "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -90,7 +90,7 @@
       "title_cn": "启动HN ： Parsewise (YC P25) –使用API跨文档的原因",
       "summary": "Hi all, it’s Greg and Max, founders of Parsewise here Parsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents. Imagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know both the system limitations (number of files, type of inputs, cost, latency) but also the human-facing challenge of having no way to validate the results quickly. We solve both. We help tech teams simpli",
       "summary_cn": "大家好，我是Greg和Max ， Parsewise HERE的创始人Parsewise将一组非结构化数据转换为符合架构的数据，保留了跨文档解析的值的沿袭。想象一下，给Claude一堆文件并要求CSV或JSON输出。如果您已经尝试过，那么您既知道系统限制（文件数量、输入类型、成本、延迟） ，也知道无法快速验证结果的人性化挑战。我们两者都能解决。我们帮助技术团队简化",
-      "comment": "社区狂欢，实际部署成本你考虑过吗？",
+      "comment": "开源阵营再下一城，光看参数没用，能跑起来、好不好用才是关键。",
       "url": "https://news.ycombinator.com/item?id=48746752",
       "source": "Hacker News",
       "date": "2026-07-01"
