@@ -207,13 +207,13 @@ def _clean_summary(summary, source_name=""):
 
     # 对于 Hacker News (hnrss.org)，描述字段混合了内容摘要 + 元数据行
     if "Hacker News" in source_name or "hnrss" in source_name.lower():
-        # 先去掉固定的元数据行（含完整 URL）
-        summary = re.sub(r'Article URL:\s*https?://\S+', '', summary)
-        summary = re.sub(r'Comments URL:\s*https?://\S+', '', summary)
+        # 去掉元数据行：用 .+? 匹配到下一个元数据字段或行尾（比 \S+ 更宽，兼容各类 URL）
+        summary = re.sub(r'Article URL:\s*.+?(?=\s*(?:Comments URL:|Points:|#\s*Comments:|$))', '', summary)
+        summary = re.sub(r'Comments URL:\s*.+?(?=\s*(?:Points:|#\s*Comments:|$))', '', summary)
         summary = re.sub(r'Points:\s*\d+', '', summary)
         summary = re.sub(r'#\s*Comments:\s*\d+', '', summary)
-        # 如果清理后只剩 URL 或元数据关键词，视为空
-        if summary.strip() and re.match(r'^\s*(Article URL|Comments URL|https?://)', summary.strip()):
+        # 如果清理后全是空白或只剩元数据关键词 → 视为空
+        if not summary.strip() or re.match(r'^\s*(Article URL|Comments URL|Points:|#\s*Comments:|https?://)', summary.strip()):
             return ""
 
     # 移除 HTML 标签
