@@ -1,5 +1,39 @@
 # 修改日志
 
+## 2026-07-02 — 企业微信机器人推送 🎉
+
+### ✨ 新增
+
+#### 1. 企业微信机器人每日推送
+
+每天自动将 AI 资讯日报推送到企业微信群机器人，支持 Markdown 格式消息。
+
+**新增文件**：
+- `scripts/notifier.py` — 企业微信推送模块
+  - `send_to_wecom(report)` — 将日报推送至企业微信群
+  - `_build_markdown_content(report)` — 构建紧凑 Markdown 消息，自适应 4096 字节限制
+  - 带重试机制（最多 2 次，间隔 2 秒）
+  - 完善的错误处理：超时、连接失败、API 错误码
+- `.env.example` — 新增 `WECOM_WEBHOOK_URL` 和 `DEEPSEEK_API_KEY` 配置项
+
+**修改文件**：
+- `scripts/crawler.py`
+  - 顶部新增 `python-dotenv` 加载（`load_dotenv()`）
+  - `main()` 流程末尾自动调用 `send_to_wecom(report)`
+  - 未配置时优雅跳过，不中断主流程
+- `.github/workflows/daily-update.yml`
+  - 定时调整为每天北京时间 9:00（UTC 1:00）
+  - 新增环境变量：`WECOM_WEBHOOK_URL`、`DEEPSEEK_API_KEY`（从 GitHub Secrets 读取）
+  - 新增 `PYTHONPATH` 确保能导入 `notifier` 模块
+- `requirements.txt` — 新增 `python-dotenv>=1.0.0`
+
+**使用方式**：
+1. 在 GitHub Secrets 中添加 `WECOM_WEBHOOK_URL` 和 `DEEPSEEK_API_KEY`
+2. 本地开发：`cp .env.example .env` 并填入真实值
+3. 每天 9:00 自动推送，或手动触发 Actions 测试
+
+---
+
 ## 2026-07-02 — 修复 Pages 部署 & 优化 GitHub Trending 抓取
 
 ### 🐛 修复
