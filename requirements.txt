@@ -6,3 +6,6 @@ requests>=2.31.0
 # RSS/Atom feed 解析（推荐，解析更健壮）
 # 如果未安装，脚本会自动 fallback 到 xml.etree
 feedparser>=6.0.10
+
+# 环境变量管理（从 .env 文件加载）
+python-dotenv>=1.0.0
