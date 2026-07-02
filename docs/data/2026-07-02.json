@@ -3,22 +3,22 @@
   "items": [
     {
       "category": "技术动态",
-      "title": "prompts.chat",
-      "title_cn": "提示.聊天",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary_cn": "f.k.a. Awesome ChatGPT提示。分享、发现和收集社区提示。免费开源--为您的组织提供完全隐私的自助出租服务。",
-      "comment": "开源阵营再下一城，光看参数没用，能跑起来、好不好用才是关键。",
-      "url": "https://github.com/f/prompts.chat",
+      "title": "reality-engine",
+      "title_cn": "现实引擎",
+      "summary": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "summary_cn": "2026年顶级动态人工智能世界模拟和讲故事工具",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "date": "2026-07-02"
     },
     {
       "category": "技术动态",
-      "title": "LLMs-from-scratch",
-      "title_cn": "LLM从头开始",
-      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "title": "ESEILANE",
+      "title_cn": "埃塞兰",
+      "summary": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
+      "summary_cn": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
+      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
+      "url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "date": "2026-07-02"
     },
     {
@@ -27,7 +27,7 @@
       "title_cn": "衡量人类研究理念与法学硕士研究理念之间的差距",
       "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f...",
       "summary_cn": "LLM越来越多地被用来头脑风暴研究想法，但现有的评估主要通过新颖性、可行性或专家偏好来判断个人想法。相反，我们会问：当前法学硕士产生的想法与人类研究人员的距离有多远？为了表征这一差距，我们构建了一个大规模的评估...",
-      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
       "url": "http://arxiv.org/abs/2607.01233v1",
       "date": "2026-07-02"
     },
@@ -47,7 +47,7 @@
       "title_cn": "AutoMem ：将记忆作为一种认知技能的自动学习",
       "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me...",
       "summary_cn": "记忆专业知识是一种学到的技能：知道编码什么、何时检索以及如何组织知识--在认知科学中被称为元记忆的能力。我们通过将记忆管理视为一种可培训的技能，将这种观点带给LLM。我们向一流的我推广文件系统操作...",
-      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
       "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
@@ -68,7 +68,7 @@
       "title_cn": "WhatsApp用户名已经引发了冒充危险信号",
       "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
       "summary_cn": "Meta表示，用户名可以改善隐私，但批评者质疑其保护措施是否可以防止模仿。",
-      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
       "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -79,7 +79,7 @@
       "title_cn": "研究人员声称， Apple的“隐藏我的电子邮件”功能存在一个漏洞，该漏洞会暴露真实的电子邮件地址",
       "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
       "summary_cn": "研究似乎揭示了一个错误，可能会使该功能实际上毫无用处。",
-      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
       "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -101,7 +101,7 @@
       "title_cn": "老油条身上掉下来的骨肉。",
       "summary": "Chip Off The Old Block",
       "summary_cn": "老油条身上掉下来的骨肉。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
       "source": "Hacker News",
       "date": "2026-07-01"
