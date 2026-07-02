@@ -12,6 +12,7 @@
 """
 
 import json
+import os
 import re
 import requests
 import time
@@ -567,16 +568,34 @@ def generate_smart_comment(title, description):
 # ============================================================
 
 def fetch_tech_news():
-    """获取 GitHub Trending AI 项目"""
+    """
+    获取 GitHub 最近 7 天新建的 AI/ML 热门仓库。
+    使用 created:> 动态日期过滤，确保每次运行返回不同的时效性内容。
+    """
     try:
+        # 动态计算最近 7 天的日期（格式 YYYY-MM-DD）
+        date_7_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+
         url = "https://api.github.com/search/repositories"
         params = {
-            "q": "topic:ai topic:machine-learning",
+            "q": f"topic:ai topic:machine-learning created:>{date_7_days_ago}",
             "sort": "stars",
             "order": "desc",
             "per_page": 10
         }
+
+        # 构建请求头：优先使用 GITHUB_TOKEN 提升 API 限额（60→5000 次/小时）
         headers = {"Accept": "application/vnd.github.v3+json"}
+        try:
+            github_token = os.getenv("GITHUB_TOKEN")
+            if github_token:
+                headers["Authorization"] = f"token {github_token}"
+                print(f"[INFO] GitHub API: 使用 GITHUB_TOKEN 认证 (created:>{date_7_days_ago})")
+            else:
+                print(f"[INFO] GitHub API: 未配置 GITHUB_TOKEN，使用未认证请求 (created:>{date_7_days_ago})")
+        except Exception:
+            print(f"[INFO] GitHub API: 读取 GITHUB_TOKEN 失败，降级为未认证请求")
+
         resp = requests.get(url, params=params, headers=headers, timeout=10)
         resp.raise_for_status()
         data = resp.json()
@@ -601,6 +620,7 @@ def fetch_tech_news():
             })
             time.sleep(2)
 
+        print(f"[OK] GitHub Tech News: 获取到 {len(results)} 条 (created:>{date_7_days_ago})")
         return results
     except Exception as e:
         print(f"GitHub Trending 抓取失败: {e}")
