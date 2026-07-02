@@ -9,6 +9,9 @@ venv/
 .venv/
 env/
 
+# Environment
+.env
+
 # IDE
 .vscode/
 .idea/
