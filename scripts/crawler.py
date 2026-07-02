@@ -22,6 +22,18 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 # ============================================================
+# 加载 .env 环境变量
+# ============================================================
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+    HAS_DOTENV = True
+except ImportError:
+    HAS_DOTENV = False
+    print("[WARN] python-dotenv 未安装，无法自动加载 .env 文件")
+    print("       建议: pip install python-dotenv")
+
+# ============================================================
 # 可选依赖：feedparser（更健壮的 RSS 解析）
 # ============================================================
 try:
@@ -1021,11 +1033,22 @@ def main():
     print("  每日AI资讯日报 -- 爬虫 v2.0")
     print(f"  运行时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"  feedparser: {'已安装' if HAS_FEEDPARSER else '未安装 (fallback xml.etree)'}")
+    print(f"  dotenv:     {'已加载' if HAS_DOTENV else '未安装'}")
     print("=" * 60)
 
     report = generate_daily_report()
     save_report(report)
     print("\n[OK] 报告生成完成！")
+
+    # 推送到企业微信
+    print("\n--- 企业微信推送 ---")
+    try:
+        from notifier import send_to_wecom
+        send_to_wecom(report)
+    except ImportError:
+        print("[WARN] notifier 模块未找到，跳过企业微信推送")
+    except Exception as e:
+        print(f"[ERROR] 企业微信推送异常: {e}")
 
 
 if __name__ == "__main__":
