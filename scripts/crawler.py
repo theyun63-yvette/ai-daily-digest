@@ -143,18 +143,45 @@ def parse_rss_date(date_str):
 
 
 def filter_last_7_days(entries):
-    """只保留最近 7 天内的条目"""
+    """只保留最近 7 天内的条目。兼容 datetime / time.struct_time / 字符串。"""
     cutoff = datetime.now(timezone.utc) - timedelta(days=7)
     filtered = []
     for entry in entries:
         pub_date = entry.get("published_parsed") or entry.get("date")
-        if pub_date and isinstance(pub_date, datetime):
-            if pub_date.replace(tzinfo=timezone.utc) >= cutoff:
+        dt = _to_datetime(pub_date)
+        if dt:
+            if dt.replace(tzinfo=timezone.utc) >= cutoff:
                 filtered.append(entry)
         else:
-            # 无法解析日期时保留该条目（不过滤）
+            # 无法解析日期时保留该条目（不过滤），打 warning 日志以免丢数据
+            print(f"[WARN] 无法解析日期，保留条目: {entry.get('title','?')[:50]}")
             filtered.append(entry)
     return filtered
+
+
+def _to_datetime(value):
+    """将多种日期类型统一转换为 offset-aware datetime (UTC)。失败返回 None。"""
+    if value is None:
+        return None
+    if isinstance(value, datetime):
+        return value
+    # feedparser 的 published_parsed 是 time.struct_time
+    if isinstance(value, time.struct_time):
+        try:
+            return datetime(*value[:6], tzinfo=timezone.utc)
+        except Exception:
+            return None
+    # 字符串类型尝试解析
+    if isinstance(value, str):
+        parsed = parse_rss_date(value)
+        if parsed:
+            return parsed
+        # 尝试 ISO 格式
+        try:
+            return datetime.fromisoformat(value).replace(tzinfo=timezone.utc)
+        except Exception:
+            return None
+    return None
 
 
 def deduplicate_entries(entries, threshold=0.75):
@@ -238,11 +265,6 @@ def _clean_summary(summary, source_name=""):
         return ""
     return summary[:500]
 
-    # 移除 HTML 标签
-    summary = re.sub(r"<[^>]+>", " ", summary)
-    # 合并多余空白
-    summary = re.sub(r"\s+", " ", summary).strip()
-    return summary[:500]
 
 
 def _fetch_rss_with_feedparser(source_name, url, max_items):
@@ -736,8 +758,9 @@ def fetch_product_news():
         comment = generate_comment_with_ai(title, summary)
 
         pub_date = entry.get("date")
-        if isinstance(pub_date, datetime):
-            date_str = pub_date.strftime("%Y-%m-%d")
+        dt = _to_datetime(pub_date)
+        if dt:
+            date_str = dt.strftime("%Y-%m-%d")
         else:
             date_str = datetime.now().strftime("%Y-%m-%d")
 
@@ -847,8 +870,9 @@ def fetch_hotspot_news():
         comment = generate_comment_with_ai(title, summary)
 
         pub_date = entry.get("date")
-        if isinstance(pub_date, datetime):
-            date_str = pub_date.strftime("%Y-%m-%d")
+        dt = _to_datetime(pub_date)
+        if dt:
+            date_str = dt.strftime("%Y-%m-%d")
         else:
             date_str = datetime.now().strftime("%Y-%m-%d")
 

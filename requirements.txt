@@ -5,4 +5,4 @@ requests>=2.31.0
 
 # RSS/Atom feed 解析（推荐，解析更健壮）
 # 如果未安装，脚本会自动 fallback 到 xml.etree
-feedparser>=6.0.0
+feedparser>=6.0.10
