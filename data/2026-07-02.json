@@ -7,7 +7,7 @@
       "title_cn": "现实引擎",
       "summary": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
       "summary_cn": "2026年顶级动态人工智能世界模拟和讲故事工具",
-      "comment": "号称“动态世界模拟+故事引擎”，本质仍是高级剧本生成器，离真正的“世界模拟”还差一个物理引擎的距离。",
+      "comment": "号称动态世界模拟神器，但若底层逻辑仍依赖预设脚本，终究只是高级“剧本杀”生成器，离真正涌现式叙事还很远。",
       "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "date": "2026-07-02"
     },
@@ -17,7 +17,7 @@
       "title_cn": "埃塞兰",
       "summary": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
       "summary_cn": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
-      "comment": "说是知识图谱引擎，其实就是给大模型搭了张“关系网”，让AI不再瞎猜，而是能精准溯源——但前提是你得先有足够干净的数据喂进去。",
+      "comment": "号称“下一代知识图谱引擎”，实际不过是给大模型喂数据时多搭了条高速路——解决的是检索慢、幻觉多，但别指望它让AI突然学会“理解”。",
       "url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "date": "2026-07-02"
     },
@@ -27,7 +27,7 @@
       "title_cn": "衡量人类研究理念与法学硕士研究理念之间的差距",
       "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f...",
       "summary_cn": "LLM越来越多地被用来头脑风暴研究想法，但现有的评估主要通过新颖性、可行性或专家偏好来判断个人想法。相反，我们会问：当前法学硕士产生的想法与人类研究人员的距离有多远？为了表征这一差距，我们构建了一个大规模的评估...",
-      "comment": "AI自嗨式“创新”终于被拉回现实：与其空谈论文产出，不如先承认LLM至今仍是一台高级文献缝合机，连人类科研最基础的直觉盲区都摸不到边。",
+      "comment": "所谓“测距”不过是把科研创意流水线化，真正痛点在于它只量化了“差距”却回避了“灵感”的不可复制性——LLM能填平低端重复劳动，却永远补不上人类那点“不讲道理”的直觉。",
       "url": "http://arxiv.org/abs/2607.01233v1",
       "date": "2026-07-02"
     },
@@ -37,7 +37,7 @@
       "title_cn": "从次优演示中学习语言批判性模仿",
       "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about ta...",
       "summary_cn": "先前从次优演示中模仿学习的工作通常依赖于压缩的监督信号，如置信度估计、鉴别器分数或重要性权重。这些标量信号本质上是有限的，因为它们不能明确表达关于...",
-      "comment": "用语言模型直接输出中间推理反馈，比传统标量信号更直观，但依赖“次优”数据本身的质量，可能只是把模糊判断换成了更漂亮的废话。",
+      "comment": "用语言模型替代标量信号来指导模仿学习，相当于给AI装了“嘴替”来骂人——终于能从低质量示范里挑出毛病，而不只是给个分数糊弄了。",
       "url": "http://arxiv.org/abs/2607.01225v1",
       "date": "2026-07-02"
     },
@@ -47,7 +47,7 @@
       "title_cn": "AutoMem ：将记忆作为一种认知技能的自动学习",
       "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me...",
       "summary_cn": "记忆专业知识是一种学到的技能：知道编码什么、何时检索以及如何组织知识--在认知科学中被称为元记忆的能力。我们通过将记忆管理视为一种可培训的技能，将这种观点带给LLM。我们向一流的我推广文件系统操作...",
-      "comment": "AutoMem把元记忆训练引入大模型，让AI学会“该记什么、何时调取”而非被动存储，直击长上下文场景下的信息冗余与检索低效痛点，但“先学后忘”的迁移成本仍是落地门槛。",
+      "comment": "把记忆管理从系统级黑盒变成可训练的认知技能，让大模型学会“何时记、怎么取”——但别忘了，人类自己都还没搞明白元记忆的边界在哪。",
       "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
@@ -57,7 +57,7 @@
       "title_cn": "印度科技巨头自资3000万$打赌打造微软Office人工智能替代品",
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
       "summary_cn": "Neo是Bhavin Turakhia的第五家合资企业，也是他最新的企业软件合资企业。这一次，他将与微软Office、谷歌应用程序和人工智能展开竞争。",
-      "comment": "砸3000万美元做AI办公套件，勇气可嘉，但挑战微软Office和谷歌生态的壁垒，不靠颠覆性体验而靠“AI加持”，恐怕又是一场烧钱换存在感的豪赌。",
+      "comment": "砸3000万美元做AI办公套件，勇气可嘉，但Office和Google的生态壁垒不是靠烧钱就能砸穿的——除非它真能一键把老板的废话PPT变成能用的Excel。",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch",
       "date": "2026-07-02"
@@ -68,7 +68,7 @@
       "title_cn": "在$ 180亿首次公开募股后， Bending Spoons创始人表示，成功来自最大限度地减少运气",
       "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
       "summary_cn": "意大利公司Bending Spoons的联合创始人从自己的创业公司的失败中吸取了重大教训。Bending Spoons是一家悄悄收购心爱的、生病的互联网品牌的公司。",
-      "comment": "靠收购“过气”互联网品牌翻身的Bending Spoons，用18亿IPO证明：与其赌运气，不如当“数字遗产”的接盘侠。",
+      "comment": "烧掉18亿IPO换来的教训：与其赌运气，不如靠系统化“抄底+改造”过气品牌来对冲创业失败风险——这碗醒酒汤专治“风口论”上头者。",
       "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -79,7 +79,7 @@
       "title_cn": "WhatsApp用户名已经引发了冒充危险信号",
       "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
       "summary_cn": "Meta表示，用户名可以改善隐私，但批评者质疑其保护措施是否可以防止模仿。",
-      "comment": "用户名看似提升隐私，实则让冒名顶替从“猜号码”变成“抄名字”——防伪机制若跟不上，新功能不过是给骗子发了张更顺手的名片。",
+      "comment": "用户名防泄露但防不了冒充，等于给隐私上了把锁，却把钥匙挂在锁眼上。",
       "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -90,7 +90,7 @@
       "title_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
       "summary": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "summary_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
-      "comment": "Kimi K2.7接入GitHub Copilot，等于给开发者塞了个“代码翻译官”——省去来回切换工具的心智负担，但前提是你得接受它偶尔把变量名写成火星文。",
+      "comment": "Kimi K2.7接入Copilot，本质是给开发者多一个“能看懂中文注释”的代码补全选项，但若不能真正理解复杂业务逻辑，就只是换了个更听话的自动补全工具。",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "source": "Hacker News",
       "date": "2026-07-02"
@@ -101,7 +101,7 @@
       "title_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
       "summary": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "summary_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
-      "comment": "用“高级工程师”的标准去考AI，本质上是把职场晋升的玄学包装成了可量化的代码分数，但现实里架构师的价值从来不是靠刷题刷出来的。",
+      "comment": "号称“资深工程师”的评测基准，不过是把代码修补题包装成高级考核，真正衡量的是模型对历史bug的拟合程度，而非工程决策的深度。",
       "url": "https://senior-swe-bench.snorkel.ai/",
       "source": "Hacker News",
       "date": "2026-07-02"
