@@ -17,7 +17,7 @@
       "title_cn": "LLM从头开始",
       "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "summary_cn": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "date": "2026-07-02"
     },
@@ -37,7 +37,7 @@
       "title_cn": "从次优演示中学习语言批判性模仿",
       "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about ta...",
       "summary_cn": "先前从次优演示中模仿学习的工作通常依赖于压缩的监督信号，如置信度估计、鉴别器分数或重要性权重。这些标量信号本质上是有限的，因为它们不能明确表达关于...",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
       "url": "http://arxiv.org/abs/2607.01225v1",
       "date": "2026-07-02"
     },
@@ -47,7 +47,7 @@
       "title_cn": "AutoMem ：将记忆作为一种认知技能的自动学习",
       "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me...",
       "summary_cn": "记忆专业知识是一种学到的技能：知道编码什么、何时检索以及如何组织知识--在认知科学中被称为元记忆的能力。我们通过将记忆管理视为一种可培训的技能，将这种观点带给LLM。我们向一流的我推广文件系统操作...",
-      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
       "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
@@ -101,7 +101,7 @@
       "title_cn": "老油条身上掉下来的骨肉。",
       "summary": "Chip Off The Old Block",
       "summary_cn": "老油条身上掉下来的骨肉。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
       "source": "Hacker News",
       "date": "2026-07-01"
