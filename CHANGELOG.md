@@ -67,6 +67,25 @@ cp .env.example .env
 | `.env.example` | 新建 | GITHUB_TOKEN 配置模板 |
 | `.gitignore` | 修改 | 新增 `.env` 排除规则 |
 
+### 🐛 修复
+
+#### 4. DeepSeek API 401 认证失败 — AI锐评功能形同虚设
+
+**问题**：`generate_comment_with_ai()` 调用 DeepSeek API 时 headers 只有 `Content-Type`，缺少 `Authorization` 字段，导致 API 返回 401 Unauthorized。所有 10 条资讯的锐评全部 fallback 到智能模板，AI锐评功能从未真正生效。
+
+**根因**：旧代码 `headers = {"Content-Type": "application/json"}` 无认证信息。
+
+**修复**：
+- headers 增加 `"Authorization": "Bearer sk-xxxxxxxx"` 硬编码 API Key
+- 调用成功后打印 `✅ DeepSeek API 调用成功，AI锐评已生成`
+- 调用失败时打印 HTTP 状态码 + 响应体内容（前 500 字符）
+- 内容过短时打印 WARN 并自动 fallback 到智能模板
+- 添加 TODO 注释提醒后续改为 `os.getenv("DEEPSEEK_API_KEY")` 读取
+
+**验证结果**：本地运行爬虫，12 次 DeepSeek API 调用全部成功 ✅
+
+**影响文件**：`scripts/crawler.py` — `generate_comment_with_ai()` 函数（第 462-488 行）
+
 ---
 
 ## 2026-07-01 (v2.0) — RSS 动态抓取 & 去硬编码
