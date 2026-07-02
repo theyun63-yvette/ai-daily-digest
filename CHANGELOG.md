@@ -1,5 +1,74 @@
 # 修改日志
 
+## 2026-07-02 — 修复 Pages 部署 & 优化 GitHub Trending 抓取
+
+### 🐛 修复
+
+#### 1. GitHub Pages 部署失败
+
+**问题**：`docs/` 目录下缺少 `.nojekyll` 文件，GitHub Pages 尝试用 Jekyll 构建纯静态 HTML 站点，导致部署流程失败（`state: failure`）。网站停留在旧版本无法更新。
+
+**修复**：
+- 在 `docs/` 目录添加 `.nojekyll` 空文件，告知 GitHub Pages 跳过 Jekyll 处理
+- 首次修复后 Pages 构建在 10 秒内成功，网站恢复正常上线
+
+**影响文件**：`docs/.nojekyll`（新建）
+
+### 🔧 优化
+
+#### 2. `fetch_tech_news()` — GitHub API 查询改为按"最近创建时间"过滤
+
+**问题**：旧查询参数 `q: "topic:ai topic:machine-learning"` + `sort: stars` 返回的是 AI 领域**历史累计 Star 最高**的仓库（如 TensorFlow、PyTorch），每次运行结果几乎不变，违背"技术动态"的时效性要求。
+
+**修复**：改用动态日期过滤，只查询最近 7 天内新建的仓库：
+
+| 项目 | 旧 | 新 |
+|------|-----|-----|
+| 查询 | `topic:ai topic:machine-learning` | `topic:ai topic:machine-learning created:>2026-06-25`（动态） |
+| 日期 | 无 | `datetime.now() - timedelta(days=7)` 运行时动态计算 |
+| 认证 | 无 Authorization | 读取 `GITHUB_TOKEN` 环境变量，有则带 token（60→5000次/小时） |
+| 日志 | 无 | 打印认证状态 + 日期过滤条件 |
+
+**实现要点**：
+- 日期使用 `datetime.now()` 动态生成，不写死
+- `os.getenv("GITHUB_TOKEN")` 读取环境变量，加 try-except 降级处理
+- 异常时返回空列表，不中断工作流
+- 函数签名与返回值结构完全不变，调用方无感知
+
+**影响文件**：`scripts/crawler.py`（第 570-627 行，含顶部新增 `import os`）
+
+### ✨ 新增
+
+#### 3. 环境变量配置支持
+
+**问题**：之前所有 API 请求均为未认证状态，GitHub API 限额仅 60 次/小时，反复调试抓取逻辑时容易触发限流。
+
+**修复**：
+- 新建 `.env.example`，提供 `GITHUB_TOKEN` 配置模板和获取说明
+- `.gitignore` 新增 `.env` 排除规则，防止 token 泄露
+- 代码中通过 `os.getenv("GITHUB_TOKEN")` 读取，未配置时自动降级
+
+**影响文件**：
+- `.env.example`（新建）
+- `.gitignore`（新增 `.env` 规则）
+
+**使用方式**：
+```bash
+cp .env.example .env
+# 编辑 .env，填入: GITHUB_TOKEN=ghp_xxxxxxxxxxxx
+```
+
+### 📦 涉及文件
+
+| 文件 | 操作 | 说明 |
+|------|------|------|
+| `docs/.nojekyll` | 新建 | 修复 Pages 部署 |
+| `scripts/crawler.py` | 修改 | `fetch_tech_news()` 重构 + `import os` |
+| `.env.example` | 新建 | GITHUB_TOKEN 配置模板 |
+| `.gitignore` | 修改 | 新增 `.env` 排除规则 |
+
+---
+
 ## 2026-07-01 (v2.0) — RSS 动态抓取 & 去硬编码
 
 ### 🚀 重大更新
