@@ -461,7 +461,11 @@ def generate_comment_with_ai(title, description):
     # 方案1：DeepSeek API
     try:
         url = "https://api.deepseek.com/v1/chat/completions"
-        headers = {"Content-Type": "application/json"}
+        # TODO: 验证通过后请立即改为从 os.getenv("DEEPSEEK_API_KEY") 读取，并删除这行硬编码
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer sk-8118521d0c534fc0b6e67a1d6f5b0533"
+        }
         data = {
             "model": "deepseek-chat",
             "messages": [{"role": "user", "content": prompt}],
@@ -469,13 +473,20 @@ def generate_comment_with_ai(title, description):
             "temperature": 0.7
         }
         resp = requests.post(url, json=data, headers=headers, timeout=15)
+
         if resp.status_code == 200:
             result = resp.json()
             comment = result.get("choices", [{}])[0].get("message", {}).get("content", "")
             if comment and len(comment) > 5:
+                print("✅ DeepSeek API 调用成功，AI锐评已生成")
                 return sanitize_text(comment.strip())
+            else:
+                print(f"[WARN] DeepSeek API 返回内容过短或为空: {comment}")
+        else:
+            print(f"[ERROR] DeepSeek API 返回非 200 状态码: {resp.status_code}")
+            print(f"[ERROR] 响应体: {resp.text[:500]}")
     except Exception as e:
-        print(f"DeepSeek API 调用失败: {e}")
+        print(f"[ERROR] DeepSeek API 调用异常: {e}")
 
     # 方案2：智能模板
     return sanitize_text(generate_smart_comment(title, description))
