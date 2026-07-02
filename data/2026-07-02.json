@@ -7,7 +7,7 @@
       "title_cn": "现实引擎",
       "summary": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
       "summary_cn": "2026年顶级动态人工智能世界模拟和讲故事工具",
-      "comment": "号称动态世界模拟与叙事工具的“天花板”，但2026年还停留在“工具列表”层面——与其说它解决了创作痛点，不如说它先制造了“选择困难症”。",
+      "comment": "号称动态世界模拟与叙事工具，实则不过是把“生成式PPT”包装成元宇宙，离真正可交互的开放世界还差十个《西部世界》。",
       "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "date": "2026-07-02"
     },
@@ -17,7 +17,7 @@
       "title_cn": "埃塞兰",
       "summary": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
       "summary_cn": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
-      "comment": "吹得再玄乎，知识图谱引擎的核心价值还是把碎片信息拧成逻辑网，让AI少说胡话——但落地时别指望它替你炼丹，数据清洗和关系建模的苦活一样少不了。",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
       "url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "date": "2026-07-02"
     },
@@ -27,7 +27,7 @@
       "title_cn": "衡量人类研究理念与法学硕士研究理念之间的差距",
       "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f...",
       "summary_cn": "LLM越来越多地被用来头脑风暴研究想法，但现有的评估主要通过新颖性、可行性或专家偏好来判断个人想法。相反，我们会问：当前法学硕士产生的想法与人类研究人员的距离有多远？为了表征这一差距，我们构建了一个大规模的评估...",
-      "comment": "所谓“AI替代人类科研”的焦虑可以歇了——这篇研究不过是用数据证明：LLM擅长批量生产“看起来像模像样”的学术点子，但距离真正能落地的原创思想，还差一个“人类专家随手一划就毙掉”的鸿沟。",
+      "comment": "所谓“AI科研点子评测”，不过是把人类同行评议的玄学标准，硬塞给机器去复刻——它测出的不是创意高低，而是人类与LLM在“被认可”这件事上的社交距离。",
       "url": "http://arxiv.org/abs/2607.01233v1",
       "date": "2026-07-02"
     },
@@ -37,7 +37,7 @@
       "title_cn": "从次优演示中学习语言批判性模仿",
       "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about ta...",
       "summary_cn": "先前从次优演示中模仿学习的工作通常依赖于压缩的监督信号，如置信度估计、鉴别器分数或重要性权重。这些标量信号本质上是有限的，因为它们不能明确表达关于...",
-      "comment": "用语言模型替代标量信号来评价次优示范，本质上是把“模糊打分”升级为“可解释的纠错指导”——亮点在于让模仿学习不再盲从，但依赖语言模型本身的推理质量仍是潜在瓶颈。",
+      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
       "url": "http://arxiv.org/abs/2607.01225v1",
       "date": "2026-07-02"
     },
@@ -47,7 +47,7 @@
       "title_cn": "AutoMem ：将记忆作为一种认知技能的自动学习",
       "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me...",
       "summary_cn": "记忆专业知识是一种学到的技能：知道编码什么、何时检索以及如何组织知识--在认知科学中被称为元记忆的能力。我们通过将记忆管理视为一种可培训的技能，将这种观点带给LLM。我们向一流的我推广文件系统操作...",
-      "comment": "把记忆管理从“系统配置”升级成“可训练技能”，等于让AI学会像人类一样“该记的记、该忘的忘”，但本质仍是用规则模拟认知，离真正的元记忆还有一层“人工”滤镜。",
+      "comment": "把记忆管理从“系统配置”升级为“可训练的认知技能”，让LLM学会像人一样主动编码和检索，但本质仍是在补长上下文窗口的短板，而非真正理解记忆的语义权重。",
       "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
@@ -57,7 +57,7 @@
       "title_cn": "印度科技巨头自资3000万$打赌打造微软Office人工智能替代品",
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
       "summary_cn": "Neo是Bhavin Turakhia的第五家合资企业，也是他最新的企业软件合资企业。这一次，他将与微软Office、谷歌应用程序和人工智能展开竞争。",
-      "comment": "砸3000万美元做AI办公套件，本质是用“AI原生”的噱头挑战微软和谷歌的生态壁垒——但用户真正缺的不是又一个Office，而是能彻底打破文件格式锁定、协作孤岛的智能工作流。",
+      "comment": "砸3000万美元自研AI办公套件，勇气可嘉，但挑战微软与谷歌的护城河，光靠烧钱和情怀远不够，关键是能否在协作与生态上真正撕开缺口。",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch",
       "date": "2026-07-02"
@@ -68,7 +68,7 @@
       "title_cn": "在$ 180亿首次公开募股后， Bending Spoons创始人表示，成功来自最大限度地减少运气",
       "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
       "summary_cn": "意大利公司Bending Spoons的联合创始人从自己的创业公司的失败中吸取了重大教训。Bending Spoons是一家悄悄收购心爱的、生病的互联网品牌的公司。",
-      "comment": "靠买下“情怀烂摊子”做18亿美金IPO，成功不是靠运气，而是把“收割用户怀旧税”做成了可复制的生意。",
+      "comment": "靠收购“过气”但仍有用户基础的互联网品牌来续命翻身，与其说是“最小化运气”，不如说是把“抄底情怀”做成了可复制的套利生意。",
       "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -79,32 +79,32 @@
       "title_cn": "WhatsApp用户名已经引发了冒充危险信号",
       "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
       "summary_cn": "Meta表示，用户名可以改善隐私，但批评者质疑其保护措施是否可以防止模仿。",
-      "comment": "用户名防伪的初衷是好的，但Meta的“隐私盾牌”挡不住有心人换个马甲继续演你。",
+      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
       "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
       "source": "TechCrunch",
       "date": "2026-07-01"
     },
     {
       "category": "行业热点",
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "title_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
-      "summary": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "summary_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
-      "comment": "号称“高级工程师”的测试基准，实际不过是把代码补全任务包装成职场头衔游戏——对真正解决复杂工程问题的能力，依然隔靴搔痒。",
-      "url": "https://senior-swe-bench.snorkel.ai/",
+      "title": "MarketFish – Simulate a market with 128 AI consumers before you launch",
+      "title_cn": "MarketFish –在推出之前模拟128名AI消费者的市场",
+      "summary": "MarketFish – Simulate a market with 128 AI consumers before you launch",
+      "summary_cn": "MarketFish –在推出之前模拟128名AI消费者的市场",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://github.com/Key-wxh/market-fish",
       "source": "Hacker News",
       "date": "2026-07-02"
     },
     {
       "category": "行业热点",
-      "title": "Chip Off The Old Block",
-      "title_cn": "老油条身上掉下来的骨肉。",
-      "summary": "Chip Off The Old Block",
-      "summary_cn": "老油条身上掉下来的骨肉。",
-      "comment": "“Chip Off The Old Block”这个标题玩了个文字游戏，但内容空洞得像块没刻电路的硅片——除了暗示“老芯片”有点新花样，既没讲清具体技术突破，也没指明它到底能解决算力、功耗还是成本哪个真痛点。",
-      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "title_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
+      "summary": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
+      "comment": "Kimi K2.7接入GitHub Copilot，等于给码农配了个能读懂中文注释的免费外脑，但别指望它替你搞定架构级难题——补点模板代码还行，真要重构屎山还得自己来。",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "source": "Hacker News",
-      "date": "2026-07-01"
+      "date": "2026-07-02"
     }
   ]
 }
