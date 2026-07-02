@@ -7,7 +7,7 @@
       "title_cn": "现实引擎",
       "summary": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
       "summary_cn": "2026年顶级动态人工智能世界模拟和讲故事工具",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "号称动态世界模拟与叙事工具，实则仍是“高级剧本生成器”——距离真正理解因果与物理规律，还差一个《模拟人生》的深度。",
       "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "date": "2026-07-02"
     },
@@ -17,38 +17,8 @@
       "title_cn": "埃塞兰",
       "summary": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
       "summary_cn": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
-      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
+      "comment": "号称AI时代的“知识骨架”，但若只是把图谱做得更快更炫，却解决不了数据清洗和语义对齐的老问题，终究是给聪明人配了把钝刀。",
       "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-      "date": "2026-07-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "Measuring the Gap Between Human and LLM Research Ideas",
-      "title_cn": "衡量人类研究理念与法学硕士研究理念之间的差距",
-      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f...",
-      "summary_cn": "LLM越来越多地被用来头脑风暴研究想法，但现有的评估主要通过新颖性、可行性或专家偏好来判断个人想法。相反，我们会问：当前法学硕士产生的想法与人类研究人员的距离有多远？为了表征这一差距，我们构建了一个大规模的评估...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "http://arxiv.org/abs/2607.01233v1",
-      "date": "2026-07-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
-      "title_cn": "从次优演示中学习语言批判性模仿",
-      "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about ta...",
-      "summary_cn": "先前从次优演示中模仿学习的工作通常依赖于压缩的监督信号，如置信度估计、鉴别器分数或重要性权重。这些标量信号本质上是有限的，因为它们不能明确表达关于...",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
-      "url": "http://arxiv.org/abs/2607.01225v1",
-      "date": "2026-07-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-      "title_cn": "AutoMem ：将记忆作为一种认知技能的自动学习",
-      "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me...",
-      "summary_cn": "记忆专业知识是一种学到的技能：知道编码什么、何时检索以及如何组织知识--在认知科学中被称为元记忆的能力。我们通过将记忆管理视为一种可培训的技能，将这种观点带给LLM。我们向一流的我推广文件系统操作...",
-      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
-      "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
     {
@@ -57,7 +27,7 @@
       "title_cn": "印度科技巨头自资3000万$打赌打造微软Office人工智能替代品",
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
       "summary_cn": "Neo是Bhavin Turakhia的第五家合资企业，也是他最新的企业软件合资企业。这一次，他将与微软Office、谷歌应用程序和人工智能展开竞争。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "砸3000万美元自建AI办公套件，勇气可嘉，但挑战微软和谷歌的生态壁垒，更像是用个人情怀对抗整个行业惯性——技术或许能弯道超车，用户习惯却难一夜翻盘。",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch",
       "date": "2026-07-02"
@@ -68,7 +38,7 @@
       "title_cn": "在$ 180亿首次公开募股后， Bending Spoons创始人表示，成功来自最大限度地减少运气",
       "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
       "summary_cn": "意大利公司Bending Spoons的联合创始人从自己的创业公司的失败中吸取了重大教训。Bending Spoons是一家悄悄收购心爱的、生病的互联网品牌的公司。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
       "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -79,7 +49,7 @@
       "title_cn": "WhatsApp用户名已经引发了冒充危险信号",
       "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
       "summary_cn": "Meta表示，用户名可以改善隐私，但批评者质疑其保护措施是否可以防止模仿。",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
       "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
       "source": "TechCrunch",
       "date": "2026-07-01"
@@ -90,7 +60,7 @@
       "title_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
       "summary": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "summary_cn": "Kimi K2.7代码通常在GitHub Copilot中提供",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "Kimi K2.7 Code接入GitHub Copilot，等于给代码补全装了个“外挂大脑”——解决的是大模型写代码时总爱“自由发挥”的痛点，亮点是实时纠错与上下文理解更稳了，但局限是仍依赖Copilot生态，独立场景下未必比本地模型灵活。",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "source": "Hacker News",
       "date": "2026-07-02"
@@ -101,7 +71,7 @@
       "title_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
       "summary": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "summary_cn": "高级SWE-Bench ：评估代理作为高级工程师的开源基准",
-      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
+      "comment": "说是评估“高级工程师”，实际只是把代码修修补补的活儿包装成考题，离真正解决复杂系统设计还差着十万八千里。",
       "url": "https://senior-swe-bench.snorkel.ai/",
       "source": "Hacker News",
       "date": "2026-07-02"
