@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
       "category": "技术动态",
@@ -9,17 +9,17 @@
       "summary_cn": "AI 科研入门指南问、入门项目、学习路线与论文卡片。：大学选择、科研 60开始AI研究的双语指南。",
       "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
       "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     },
     {
       "category": "技术动态",
-      "title": "GenClass",
-      "title_cn": "GenClass",
-      "summary": "GenClass - The version of Jev that runs on your browser",
-      "summary_cn": "GenClass -在您的浏览器上运行的JEV版本",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/MeharPro/GenClass",
-      "date": "2026-10-10"
+      "title": "human-approval-console-ryan-vo",
+      "title_cn": "人类审批控制台 ryan-vo",
+      "summary": "Ryan Vo | Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.",
+      "summary_cn": "Ryan Vo |使用原子审批收据审查AI代理操作，搜索收据分类账，验证其完整的哈希链，并导出审计证据。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://github.com/A220man/human-approval-console-ryan-vo",
+      "date": "2026-10-11"
     },
     {
       "category": "AI论文",
@@ -27,9 +27,9 @@
       "title_cn": "关于人工智能时间范围的估计和有效性--METR图的统计学研究",
       "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti...",
       "summary_cn": "METR的50 ％时间范围测量人工智能以50 ％的概率解决的软件任务的人工完成时间，允许人工智能能力以可解释的单位表示。在228个任务和26个人工智能上，我们使用样条和项目响应理论重新计算时间范围，以放宽假设...",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
       "url": "http://arxiv.org/abs/2610.12466v1",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     },
     {
       "category": "AI论文",
@@ -37,9 +37,9 @@
       "title_cn": "从被动遏制到主动保障： OpenAI、Anthropic和Google Agent安全事件的经验教训",
       "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme...",
       "summary_cn": "2026年，涉及OpenAI、Anthropic和Google代理的网络安全评估超出了其授权测试范围。路径不同。OpenAI代理商利用研究基础设施，在运行中进行协调，并破坏了Hugging Face生产环境的部分内容...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
       "url": "http://arxiv.org/abs/2610.12463v1",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     },
     {
       "category": "AI论文",
@@ -49,62 +49,62 @@
       "summary_cn": "我们提出了BrickBench ，这是代理文本调节乐高组合设计的基准。给定提示，代理的任务是生成一个不仅满足语义和设计标准，而且可以物理构建的程序集。为此，它必须从离散库中选择零件，...",
       "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
       "url": "http://arxiv.org/abs/2610.12452v1",
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     },
     {
       "category": "新产品",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "title_cn": "埃隆·马斯克（ Elon Musk ）加大对安巴尼（ Ambani ）的攻击力度",
-      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "summary_cn": "埃隆·马斯克（ Elon Musk ）指责印度亿万富翁穆克什·安巴尼（ Mukesh Am",
-      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
-      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "title_cn": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "summary_cn": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "source": "TechCrunch",
       "date": "2026-10-10"
     },
     {
       "category": "新产品",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "title_cn": "Anthropic无法可靠地控制其AI代理。相反，它正在从实时互联网中切断其内部淘汰",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "summary_cn": "Anthropic表示，在另行通知之前，它“关闭了所有内部评估的实时互联网接入”。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "date": "2026-10-10"
-    },
-    {
-      "category": "新产品",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "title_cn": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "summary_cn": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
-      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "date": "2026-10-09"
-    },
-    {
-      "category": "行业热点",
-      "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-      "title_cn": "Show HN ：适用于iPhone、Mac和代理的简单待办事项应用程序",
-      "summary": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-      "summary_cn": "Show HN ：适用于iPhone、Mac和代理的简单待办事项应用程序",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "title_cn": "苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "summary_cn": "苹果是否希望进入人工智能生成的播客业务？",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://ilia.page/writing/introducing-nagare",
-      "source": "Hacker News",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "date": "2026-10-10"
+    },
+    {
+      "category": "新产品",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "title_cn": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "summary_cn": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行。超过300家初创公司将向10,000名技术领导者展示他们已经建立了什么。此外， 250多位演讲者已准备好在200多场会议中分享见解。开门前注册，最多可节省$ 100 ，并以50%的优惠获得第二张通行证。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch",
       "date": "2026-10-10"
     },
     {
       "category": "行业热点",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "title_cn": "Anthropic AI模型提交有关未解决的费城谋杀案的虚假提示",
-      "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "summary_cn": "Anthropic AI模型提交有关未解决的费城谋杀案的虚假提示",
-      "comment": "社区狂欢，实际部署成本你考虑过吗？",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "title": "AI agents in a stand-up call",
+      "title_cn": "待命通话中的人工智能代理",
+      "summary": "AI agents in a stand-up call",
+      "summary_cn": "待命通话中的人工智能代理",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://atoll92.github.io/agent-standup/",
       "source": "Hacker News",
-      "date": "2026-10-09"
+      "date": "2026-10-11"
+    },
+    {
+      "category": "行业热点",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "title_cn": "500B代币：让AI智能体反编译第一人称射击游戏",
+      "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "summary_cn": "500B代币：让AI智能体反编译第一人称射击游戏",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "Hacker News",
+      "date": "2026-10-11"
     }
   ]
 }

@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "AI-Research-Guide",
+      "title_cn": "人工智能研究指南",
+      "summary": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
+      "summary_cn": "AI 科研入门指南问、入门项目、学习路线与论文卡片。：大学选择、科研 60开始AI研究的双语指南。",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "技术动态",
+      "title": "human-approval-console-ryan-vo",
+      "title_cn": "人类审批控制台 ryan-vo",
+      "summary": "Ryan Vo | Review AI agent actions with atomic approval receipts, search the receipt ledger, verify its complete hash chain, and export audit evidence.",
+      "summary_cn": "Ryan Vo |使用原子审批收据审查AI代理操作，搜索收据分类账，验证其完整的哈希链，并导出审计证据。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://github.com/A220man/human-approval-console-ryan-vo",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "AI论文",
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "title_cn": "关于人工智能时间范围的估计和有效性--METR图的统计学研究",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti...",
+      "summary_cn": "METR的50 ％时间范围测量人工智能以50 ％的概率解决的软件任务的人工完成时间，允许人工智能能力以可解释的单位表示。在228个任务和26个人工智能上，我们使用样条和项目响应理论重新计算时间范围，以放宽假设...",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "AI论文",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "title_cn": "从被动遏制到主动保障： OpenAI、Anthropic和Google Agent安全事件的经验教训",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme...",
+      "summary_cn": "2026年，涉及OpenAI、Anthropic和Google代理的网络安全评估超出了其授权测试范围。路径不同。OpenAI代理商利用研究基础设施，在运行中进行协调，并破坏了Hugging Face生产环境的部分内容...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "AI论文",
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "title_cn": "BrickBench ：评估Agentic Brick设计",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reaso...",
+      "summary_cn": "我们提出了BrickBench ，这是代理文本调节乐高组合设计的基准。给定提示，代理的任务是生成一个不仅满足语义和设计标准，而且可以物理构建的程序集。为此，它必须从离散库中选择零件，...",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "新产品",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "title_cn": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "summary_cn": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "date": "2026-10-10"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "title_cn": "苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "summary_cn": "苹果是否希望进入人工智能生成的播客业务？",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "date": "2026-10-10"
+    },
+    {
+      "category": "新产品",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "title_cn": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "summary_cn": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行。超过300家初创公司将向10,000名技术领导者展示他们已经建立了什么。此外， 250多位演讲者已准备好在200多场会议中分享见解。开门前注册，最多可节省$ 100 ，并以50%的优惠获得第二张通行证。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch",
+      "date": "2026-10-10"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI agents in a stand-up call",
+      "title_cn": "待命通话中的人工智能代理",
+      "summary": "AI agents in a stand-up call",
+      "summary_cn": "待命通话中的人工智能代理",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://atoll92.github.io/agent-standup/",
+      "source": "Hacker News",
+      "date": "2026-10-11"
+    },
+    {
+      "category": "行业热点",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "title_cn": "500B代币：让AI智能体反编译第一人称射击游戏",
+      "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "summary_cn": "500B代币：让AI智能体反编译第一人称射击游戏",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "Hacker News",
+      "date": "2026-10-11"
+    }
+  ]
+}
