@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "attention-span",
+      "title_cn": "注意长度（集中力时间）",
+      "summary": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it. Open data, built nightly on free Gemini and Groq tiers.",
+      "summary_cn": "每日AI新闻，经过事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。",
+      "comment": "开源阵营再下一城，光看参数没用，能跑起来、好不好用才是关键。",
+      "url": "https://github.com/shashikantdev3/attention-span",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "技术动态",
+      "title": "best-of-ai",
+      "title_cn": "best-of-ai",
+      "summary": "Open-source AI, ranked: apps, agents, models and the tools around them, each with strengths, weaknesses and a score from real GitHub signals. Re-checked twice a day.",
+      "summary_cn": "开源人工智能，排名：应用程序、代理、模型及其周围的工具，每个都有优势、劣势和来自真实GitHub信号的分数。每天复查两次。",
+      "comment": "社区狂欢，实际部署成本你考虑过吗？",
+      "url": "https://github.com/archestack/best-of-ai",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "title_cn": "语言模型可以玩维基百科游戏吗？",
+      "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. I...",
+      "summary_cn": "语言模型越来越多地支持或自动从文档集合中检索信息，这些文档集合太大而无法编制索引。当需要专业的语言或科学知识时，这项任务很困难。我们使用维基百科游戏在类似的信息检索任务上测试语言模型。...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.13948v1",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "title_cn": "捉迷藏：隐藏概念以寻求黑盒模型的解释",
+      "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They requi...",
+      "summary_cn": "解释机器学习模型预测是一个核心挑战，特别是对于黑盒视觉模型。基于概念的归因方法使用人类可理解的概念来解释模型。现有的基于概念的方法只能解释分类和回归模型。它们需要...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.13935v1",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+      "title_cn": "重新审视表格深度回归：全球早期停止的目标和局限性",
+      "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences ...",
+      "summary_cn": "虽然表格数据的深度学习模型最近受到了重大的研究关注，但回归任务的目标函数的选择仍然是一个未得到充分研究的自由度。几条研究路线提供了标准均方误差（ MSE ）的替代方案，但存在差异...",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "http://arxiv.org/abs/2610.13909v1",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "title_cn": "Meta发布其首款前沿车型Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "summary_cn": "Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更有能力，在编码等复杂任务上具有更高的基准分数和更好的结果。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
+      "date": "2026-10-12"
+    },
+    {
+      "category": "新产品",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "title_cn": "WindBorne因其气球数据赢得了美国空军的巨额合同",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "summary_cn": "一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "date": "2026-10-12"
+    },
+    {
+      "category": "新产品",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "title_cn": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "summary_cn": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。但人工智能真的能让事情变得更好吗？",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch",
+      "date": "2026-10-12"
+    },
+    {
+      "category": "行业热点",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "title_cn": "国际货币基金组织表示，人工智能份额崩溃的威胁使世界金融稳定面临风险",
+      "summary": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "summary_cn": "国际货币基金组织表示，人工智能份额崩溃的威胁使世界金融稳定面临风险",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "source": "Hacker News",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "title_cn": "看看OpenAI声称的数学计算更快的傅里叶变换",
+      "summary": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "summary_cn": "看看OpenAI声称的数学计算更快的傅里叶变换",
+      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "Hacker News",
+      "date": "2026-10-13"
+    }
+  ]
+}
