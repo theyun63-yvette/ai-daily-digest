@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-14",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "attention-span",
+      "title_cn": "注意长度（集中力时间）",
+      "summary": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it. Open data, built nightly on free Gemini and Groq tiers.",
+      "summary_cn": "每日AI新闻，经过事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://github.com/shashikantdev3/attention-span",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "技术动态",
+      "title": "trending-skill-radar",
+      "title_cn": "趋势技能雷达",
+      "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
+      "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://github.com/JAI4213H/trending-skill-radar",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "title_cn": "ChunkAct ： Agentic Robotics的动作分块",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficie...",
+      "summary_cn": "Agentic机器人在机器人控制循环中放置一个大型语言模型（ LLM ）代理，它在记忆的指导下组合感知、运动和视觉-语言-动作（ VLA ）工具，从而在不重新训练的情况下推广到新任务。这种通用性在效率上代价高昂...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.18874v1",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "title_cn": "质量感知VLA预培训的重要性：基准和实证研究",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and...",
+      "summary_cn": "在视觉-语言-动作（ VLA ）预训练期间应如何使用演示质量来提高目标任务微调后的性能？我们使用5,000个自然次优的人类演示来比较奖励定义和标签粒度的加权、过滤和调节，...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.18869v1",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "title_cn": "TEV ：通过密集的进步奖励来扩展长期代理环境",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely fo...",
+      "summary_cn": "长期代理因其能够自主工作（从几小时到几天）执行具有经济价值的任务的能力而受到越来越多的关注，这是自动发现和递归自我改进（ RSI ）所必需的能力。然而，开源模型仍然在长期任务上苦苦挣扎，主要是...",
+      "comment": "社区狂欢，实际部署成本你考虑过吗？",
+      "url": "http://arxiv.org/abs/2610.18868v1",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "新产品",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "title_cn": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary_cn": "Neuralink前总裁兼联合创始人马克斯·霍达克（ Max Hodak ）在TechCrunch Disrupt的舞台上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "title_cn": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "summary_cn": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云中运行。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "title_cn": "Cerebras首席执行官拒绝接受人工智能世界末日警告",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "summary_cn": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）向人工智能领导者发出了世界末日警告：也许停止说话？在TechCrunch Disrupt上，他认为业界对人工智能风险的关注正在淹没其潜在的好处。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "title_cn": "我构建了一个工具来跟踪人工智能领导者所说的话以及他们对视频的看法如何变化",
+      "summary": "I built a tool to track what AI leaders say and how their views change on video",
+      "summary_cn": "我构建了一个工具来跟踪人工智能领导者所说的话以及他们对视频的看法如何变化",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://blumify.io/people",
+      "source": "Hacker News",
+      "date": "2026-10-14"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "title_cn": "Show HN ： Pulse Local ，一款Mac预算应用程序，其AI模型在您的机器上运行",
+      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and oc",
+      "summary_cn": "HN ，您好！我是Niz。Pulse Local是一款适用于Mac （ Apple Silicon ，测试版）的预算应用程序，可通过在您的机器上运行的型号回答有关您的支出的问题。本地模式不需要帐户。分类帐和您的问题保留在机器上，应用程序不会发送分析或崩溃日志。我觉得没有足够的消费者应用程序在本地运行，没有与外界的通话，帮助我们管理生活中的敏感角落。此应用程序在其本地变体中仅下载几个模型和oc",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://pulseos.finance",
+      "source": "Hacker News",
+      "date": "2026-10-13"
+    }
+  ]
+}
