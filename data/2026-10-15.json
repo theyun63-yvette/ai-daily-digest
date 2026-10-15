@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-15",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "trending-skill-radar",
+      "title_cn": "trending-skill-radar",
+      "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
+      "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://github.com/JAI4213H/trending-skill-radar",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "技术动态",
+      "title": "cineverse",
+      "title_cn": "cineverse",
+      "summary": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
+      "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/codexanjan/cineverse",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "title_cn": "使用扩散技术建模和理解人形策略的神经权重",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to direct...",
+      "summary_cn": "机器人学习的最新进展推动了人形控制的快速发展，在现实世界中实现了越来越敏捷的行为。然而，人形控制网络通常是通过传统的训练程序获得的，而相对较少关注直接...",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "title_cn": "基于稀疏人工引导的真实世界移动操作分层剩余策略学习",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manip...",
+      "summary_cn": "移动操作（ MoMa ）是自主机器人系统的基石，但由于高维动作空间和异构模块之间的复杂耦合，真实世界的微调仍然是一项艰巨的挑战。在本文中，我们提出HiRe-MoMa （ Hierarchical Residual Mobile Manip...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "title_cn": "语言代理协同进化表演和预测",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets tha...",
+      "summary_cn": "培训语言代理受到长期推出的高成本的瓶颈，但标准的代理强化学习（ RL ）仅从终端标量奖励中学习，使得中间步骤的监督基本上没有使用。之前的工作通过价值目标利用这种监督...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "title_cn": "Figma宣布推出新功能，以定义客服代表在其平台上的工作方式",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "summary_cn": "Figma还在公开测试版中发布其代码层功能。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "title_cn": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "summary_cn": "创始人详细介绍了他们的创业公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的人工智能，所有这些都是为了实现芯片设计过程的自动化和加速。",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "title_cn": "Gudea利用人工智能帮助组织预防社交媒体危机爆发",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+      "summary_cn": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后果--无论是人工智能产生的错误信息、仇恨言论还是破坏性的谣言--都可能很快引发更大的公众争议。Gudea是一家追踪故事和谣言如何在网上传播的公司，自称是“互联网的风暴追踪器” ， […]",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: My Terminal Themes Web App",
+      "title_cn": "显示HN ：我的终端主题网络应用程序",
+      "summary": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An ac",
+      "summary_cn": "好吧，经过15年的说“总有一天我会把它变成一个网络应用程序” ，我终于做到了！我一直在https://github.com/mbadolato/iTerm2-Color-Schemes上维护一个流行的终端主题存储库，现在终于是时候构建具有我想要的所有功能的应用程序了！因此，新一代版本已在https://terminalthemes.com上线！它目前有800多个主题，并提供近40种不同格式（ iTerm、Ghostty、Windows等）的下载。每个人都可以免费使用。",
+      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
+      "url": "https://news.ycombinator.com/item?id=50098454",
+      "source": "Hacker News",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "行业热点",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "title_cn": "LFM2.5-24B-A2B ：专为快速设备上代理构建",
+      "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "summary_cn": "LFM2.5-24B-A2B ：专为快速设备上代理构建",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "Hacker News",
+      "date": "2026-10-14"
+    }
+  ]
+}

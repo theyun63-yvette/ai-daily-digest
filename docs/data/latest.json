@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
       "category": "技术动态",
-      "title": "attention-span",
-      "title_cn": "注意长度（集中力时间）",
-      "summary": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it. Open data, built nightly on free Gemini and Groq tiers.",
-      "summary_cn": "每日AI新闻，经过事实检查并追溯到其根源。自1943年以来由来源检查的人工智能历史，包含血统及其背后的实验室和人员的术语表。开放数据，每晚在免费的Gemini和Groq层级上构建。",
-      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
-      "url": "https://github.com/shashikantdev3/attention-span",
-      "date": "2026-10-14"
-    },
-    {
-      "category": "技术动态",
       "title": "trending-skill-radar",
-      "title_cn": "趋势技能雷达",
+      "title_cn": "trending-skill-radar",
       "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
       "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
       "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
       "url": "https://github.com/JAI4213H/trending-skill-radar",
-      "date": "2026-10-14"
+      "date": "2026-10-15"
+    },
+    {
+      "category": "技术动态",
+      "title": "cineverse",
+      "title_cn": "cineverse",
+      "summary": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
+      "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/codexanjan/cineverse",
+      "date": "2026-10-15"
     },
     {
       "category": "AI论文",
-      "title": "ChunkAct: Action Chunking for Agentic Robotics",
-      "title_cn": "ChunkAct ： Agentic Robotics的动作分块",
-      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficie...",
-      "summary_cn": "Agentic机器人在机器人控制循环中放置一个大型语言模型（ LLM ）代理，它在记忆的指导下组合感知、运动和视觉-语言-动作（ VLA ）工具，从而在不重新训练的情况下推广到新任务。这种通用性在效率上代价高昂...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.18874v1",
-      "date": "2026-10-14"
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "title_cn": "使用扩散技术建模和理解人形策略的神经权重",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to direct...",
+      "summary_cn": "机器人学习的最新进展推动了人形控制的快速发展，在现实世界中实现了越来越敏捷的行为。然而，人形控制网络通常是通过传统的训练程序获得的，而相对较少关注直接...",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "date": "2026-10-15"
     },
     {
       "category": "AI论文",
-      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-      "title_cn": "质量感知VLA预培训的重要性：基准和实证研究",
-      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and...",
-      "summary_cn": "在视觉-语言-动作（ VLA ）预训练期间应如何使用演示质量来提高目标任务微调后的性能？我们使用5,000个自然次优的人类演示来比较奖励定义和标签粒度的加权、过滤和调节，...",
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "title_cn": "基于稀疏人工引导的真实世界移动操作分层剩余策略学习",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manip...",
+      "summary_cn": "移动操作（ MoMa ）是自主机器人系统的基石，但由于高维动作空间和异构模块之间的复杂耦合，真实世界的微调仍然是一项艰巨的挑战。在本文中，我们提出HiRe-MoMa （ Hierarchical Residual Mobile Manip...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "title_cn": "语言代理协同进化表演和预测",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets tha...",
+      "summary_cn": "培训语言代理受到长期推出的高成本的瓶颈，但标准的代理强化学习（ RL ）仅从终端标量奖励中学习，使得中间步骤的监督基本上没有使用。之前的工作通过价值目标利用这种监督...",
       "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
-      "url": "http://arxiv.org/abs/2610.18869v1",
-      "date": "2026-10-14"
-    },
-    {
-      "category": "AI论文",
-      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "title_cn": "TEV ：通过密集的进步奖励来扩展长期代理环境",
-      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely fo...",
-      "summary_cn": "长期代理因其能够自主工作（从几小时到几天）执行具有经济价值的任务的能力而受到越来越多的关注，这是自动发现和递归自我改进（ RSI ）所必需的能力。然而，开源模型仍然在长期任务上苦苦挣扎，主要是...",
-      "comment": "社区狂欢，实际部署成本你考虑过吗？",
-      "url": "http://arxiv.org/abs/2610.18868v1",
-      "date": "2026-10-14"
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "date": "2026-10-15"
     },
     {
       "category": "新产品",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "title_cn": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "summary_cn": "Neuralink前总裁兼联合创始人马克斯·霍达克（ Max Hodak ）在TechCrunch Disrupt的舞台上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分。",
-      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "title_cn": "Figma宣布推出新功能，以定义客服代表在其平台上的工作方式",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "summary_cn": "Figma还在公开测试版中发布其代码层功能。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "source": "TechCrunch",
-      "date": "2026-10-13"
+      "date": "2026-10-15"
     },
     {
       "category": "新产品",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "title_cn": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "summary_cn": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云中运行。",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "title_cn": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "summary_cn": "创始人详细介绍了他们的创业公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的人工智能，所有这些都是为了实现芯片设计过程的自动化和加速。",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "date": "2026-10-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "title_cn": "Gudea利用人工智能帮助组织预防社交媒体危机爆发",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+      "summary_cn": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后果--无论是人工智能产生的错误信息、仇恨言论还是破坏性的谣言--都可能很快引发更大的公众争议。Gudea是一家追踪故事和谣言如何在网上传播的公司，自称是“互联网的风暴追踪器” ， […]",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch",
-      "date": "2026-10-13"
-    },
-    {
-      "category": "新产品",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "title_cn": "Cerebras首席执行官拒绝接受人工智能世界末日警告",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "summary_cn": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）向人工智能领导者发出了世界末日警告：也许停止说话？在TechCrunch Disrupt上，他认为业界对人工智能风险的关注正在淹没其潜在的好处。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch",
-      "date": "2026-10-13"
+      "date": "2026-10-15"
     },
     {
       "category": "行业热点",
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "title_cn": "我构建了一个工具来跟踪人工智能领导者所说的话以及他们对视频的看法如何变化",
-      "summary": "I built a tool to track what AI leaders say and how their views change on video",
-      "summary_cn": "我构建了一个工具来跟踪人工智能领导者所说的话以及他们对视频的看法如何变化",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://blumify.io/people",
+      "title": "Show HN: My Terminal Themes Web App",
+      "title_cn": "显示HN ：我的终端主题网络应用程序",
+      "summary": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An ac",
+      "summary_cn": "好吧，经过15年的说“总有一天我会把它变成一个网络应用程序” ，我终于做到了！我一直在https://github.com/mbadolato/iTerm2-Color-Schemes上维护一个流行的终端主题存储库，现在终于是时候构建具有我想要的所有功能的应用程序了！因此，新一代版本已在https://terminalthemes.com上线！它目前有800多个主题，并提供近40种不同格式（ iTerm、Ghostty、Windows等）的下载。每个人都可以免费使用。",
+      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
+      "url": "https://news.ycombinator.com/item?id=50098454",
       "source": "Hacker News",
-      "date": "2026-10-14"
+      "date": "2026-10-15"
     },
     {
       "category": "行业热点",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "title_cn": "Show HN ： Pulse Local ，一款Mac预算应用程序，其AI模型在您的机器上运行",
-      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and oc",
-      "summary_cn": "HN ，您好！我是Niz。Pulse Local是一款适用于Mac （ Apple Silicon ，测试版）的预算应用程序，可通过在您的机器上运行的型号回答有关您的支出的问题。本地模式不需要帐户。分类帐和您的问题保留在机器上，应用程序不会发送分析或崩溃日志。我觉得没有足够的消费者应用程序在本地运行，没有与外界的通话，帮助我们管理生活中的敏感角落。此应用程序在其本地变体中仅下载几个模型和oc",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://pulseos.finance",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "title_cn": "LFM2.5-24B-A2B ：专为快速设备上代理构建",
+      "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "summary_cn": "LFM2.5-24B-A2B ：专为快速设备上代理构建",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "source": "Hacker News",
-      "date": "2026-10-13"
+      "date": "2026-10-14"
     }
   ]
 }
