@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-17",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "trending-skill-radar",
+      "title_cn": "trending-skill-radar",
+      "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
+      "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://github.com/JAI4213H/trending-skill-radar",
+      "date": "2026-10-17"
+    },
+    {
+      "category": "技术动态",
+      "title": "cineverse",
+      "title_cn": "cineverse",
+      "summary": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
+      "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/codexanjan/cineverse",
+      "date": "2026-10-17"
+    },
+    {
+      "category": "新产品",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "title_cn": "马克·沃尔伯格（ Mark Wahlberg ）希望以经济实惠的健身房概念来迎接长寿的创业人群",
+      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "summary_cn": "马克·沃尔伯格（ Mark Wahlberg ）曾经把钱投入了一家被纽约证券交易所踢出的健身房连锁店，现在他正在建造自己的健身房，他向你保证，你会在不需要信托基金的情况下得到一个冷落，一个血液面板和一个蛋白质松饼。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch",
+      "date": "2026-10-17"
+    },
+    {
+      "category": "新产品",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title_cn": "首席执行官表示， Replit不再与Anthropic合作",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "summary_cn": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit于8月宣布与OpenAI建立合作伙伴关系，但从未有任何迹象表明它不再与Anthropic合作。",
+      "comment": "API 上线了，功能强大但按量付费，小团队用前要算好账。",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-16"
+    },
+    {
+      "category": "新产品",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title_cn": "印度成为报告流氓AI代理活动的最新国家",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "summary_cn": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch",
+      "date": "2026-10-16"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "title_cn": "Show HN: Fakeipedia –不存在世界的维基百科",
+      "summary": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writi",
+      "summary_cn": "HN ，您好！ Fakeipedia是一个自动构建世界的平台，它采用了一个想象中的世界，并创建了一个完整的维基，您可以通过点击红色链接无休止地探索。几个月前，我在双子座玩过世界建筑之后想出了这个主意，但在一个足够强大的模型可以做到公正之前，我不想发布它，我决定Argon有足够的创造力来写出值得阅读的文章。我很惊讶它的结果有多好，以及一些作品的吸引力有多大",
+      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
+      "url": "https://fakeipedia.org",
+      "source": "Hacker News",
+      "date": "2026-10-16"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nine-Inch Snails",
+      "title_cn": "九寸蜗牛",
+      "summary": "Nine-Inch Snails",
+      "summary_cn": "九寸蜗牛",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "source": "Hacker News",
+      "date": "2026-10-16"
+    }
+  ]
+}
