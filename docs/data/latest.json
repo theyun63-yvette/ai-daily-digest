@@ -1,80 +1,110 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
       "category": "技术动态",
       "title": "trending-skill-radar",
-      "title_cn": "trending-skill-radar",
+      "title_cn": "趋势技能雷达",
       "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
       "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
-      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
       "url": "https://github.com/JAI4213H/trending-skill-radar",
-      "date": "2026-10-17"
+      "date": "2026-10-18"
     },
     {
       "category": "技术动态",
       "title": "cineverse",
-      "title_cn": "cineverse",
+      "title_cn": "电影宇宙",
       "summary": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
       "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
       "url": "https://github.com/codexanjan/cineverse",
-      "date": "2026-10-17"
+      "date": "2026-10-18"
     },
     {
-      "category": "新产品",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "title_cn": "马克·沃尔伯格（ Mark Wahlberg ）希望以经济实惠的健身房概念来迎接长寿的创业人群",
-      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-      "summary_cn": "马克·沃尔伯格（ Mark Wahlberg ）曾经把钱投入了一家被纽约证券交易所踢出的健身房连锁店，现在他正在建造自己的健身房，他向你保证，你会在不需要信托基金的情况下得到一个冷落，一个血液面板和一个蛋白质松饼。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "source": "TechCrunch",
-      "date": "2026-10-17"
+      "category": "AI论文",
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "title_cn": "LIBERO-PeRM ：个性化机器人操作基准测试",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ...",
+      "summary_cn": "个性化对于通用机器人过渡到家庭环境并实现真正的实用性至关重要。虽然一般的机器人操作已被广泛研究，但个性化机器人操作（ PeRM ）缺乏将任务完成与...",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "date": "2026-10-18"
     },
     {
-      "category": "新产品",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "title_cn": "首席执行官表示， Replit不再与Anthropic合作",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "summary_cn": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit于8月宣布与OpenAI建立合作伙伴关系，但从未有任何迹象表明它不再与Anthropic合作。",
-      "comment": "API 上线了，功能强大但按量付费，小团队用前要算好账。",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-16"
-    },
-    {
-      "category": "新产品",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "title_cn": "印度成为报告流氓AI代理活动的最新国家",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "summary_cn": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "date": "2026-10-16"
-    },
-    {
-      "category": "行业热点",
-      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "title_cn": "Show HN: Fakeipedia –不存在世界的维基百科",
-      "summary": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writi",
-      "summary_cn": "HN ，您好！ Fakeipedia是一个自动构建世界的平台，它采用了一个想象中的世界，并创建了一个完整的维基，您可以通过点击红色链接无休止地探索。几个月前，我在双子座玩过世界建筑之后想出了这个主意，但在一个足够强大的模型可以做到公正之前，我不想发布它，我决定Argon有足够的创造力来写出值得阅读的文章。我很惊讶它的结果有多好，以及一些作品的吸引力有多大",
+      "category": "AI论文",
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "title_cn": "使用大型语言模型探索最先进的量子电路",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated...",
+      "summary_cn": "目前正在实施大规模量子信息处理器方面做出重大努力，但实现有用的量子优势还需要开发高效的量子算法。虽然对于许多实际问题，主要的资源成本与...",
       "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
-      "url": "https://fakeipedia.org",
-      "source": "Hacker News",
-      "date": "2026-10-16"
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "date": "2026-10-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "title_cn": "T2-z ：机器人世界模型环境潜力的测试时间优化",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z ...",
+      "summary_cn": "预测世界对行动的反应需要的不仅仅是可以看到的：机器人必须考虑既不能直接观察到也不能明确指定的环境因素，从摩擦和质量等物理特性到人类定义的环境规则。我们介绍T2-Z...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "date": "2026-10-18"
+    },
+    {
+      "category": "新产品",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "title_cn": "Meta删除了引起抓取和人工智能培训问题的语言",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "summary_cn": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。",
+      "comment": "企业级解决方案，听着高大上，适不适合你的需求另说。",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-10-17"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "title_cn": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "summary_cn": "在过去的一年中， Anthropic的员工构成和工作类型发生了显着变化。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "date": "2026-10-17"
+    },
+    {
+      "category": "新产品",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "title_cn": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary_cn": "上周末， Masad澄清说， OpenAI将取代Anthropic作为其默认模型提供商。Claude仍将向平台上的客户提供服务。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-17"
     },
     {
       "category": "行业热点",
-      "title": "Nine-Inch Snails",
-      "title_cn": "九寸蜗牛",
-      "summary": "Nine-Inch Snails",
-      "summary_cn": "九寸蜗牛",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_cn": "Show HN: Sphinx –在发货前对您的AI代码进行测验的钩子",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+      "summary_cn": "FOSS ，基本上，它插入到您现有的编码代理工作流程中，每次您按下prod时，它都会抛出一份调查问卷，检查您是否了解您正在推送的代码的工作原理。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://sphinx-six-theta.vercel.app/",
       "source": "Hacker News",
-      "date": "2026-10-16"
+      "date": "2026-10-18"
+    },
+    {
+      "category": "行业热点",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "title_cn": "贝利–美人鱼图作为主题SVG",
+      "summary": "Pele – Mermaid diagrams as themeable SVG",
+      "summary_cn": "贝利–美人鱼图作为主题SVG",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://pele.run/",
+      "source": "Hacker News",
+      "date": "2026-10-17"
     }
   ]
 }
