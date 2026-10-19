@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
       "category": "技术动态",
@@ -9,7 +9,7 @@
       "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
       "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
       "url": "https://github.com/JAI4213H/trending-skill-radar",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "技术动态",
@@ -19,92 +19,92 @@
       "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
       "url": "https://github.com/codexanjan/cineverse",
-      "date": "2026-10-18"
+      "date": "2026-10-19"
     },
     {
       "category": "AI论文",
-      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-      "title_cn": "LIBERO-PeRM ：个性化机器人操作基准测试",
-      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ...",
-      "summary_cn": "个性化对于通用机器人过渡到家庭环境并实现真正的实用性至关重要。虽然一般的机器人操作已被广泛研究，但个性化机器人操作（ PeRM ）缺乏将任务完成与...",
-      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
-      "url": "http://arxiv.org/abs/2610.22372v1",
-      "date": "2026-10-18"
-    },
-    {
-      "category": "AI论文",
-      "title": "Discovering state-of-the-art quantum circuits with large language models",
-      "title_cn": "使用大型语言模型探索最先进的量子电路",
-      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated...",
-      "summary_cn": "目前正在实施大规模量子信息处理器方面做出重大努力，但实现有用的量子优势还需要开发高效的量子算法。虽然对于许多实际问题，主要的资源成本与...",
-      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
-      "url": "http://arxiv.org/abs/2610.22367v1",
-      "date": "2026-10-18"
-    },
-    {
-      "category": "AI论文",
-      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-      "title_cn": "T2-z ：机器人世界模型环境潜力的测试时间优化",
-      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z ...",
-      "summary_cn": "预测世界对行动的反应需要的不仅仅是可以看到的：机器人必须考虑既不能直接观察到也不能明确指定的环境因素，从摩擦和质量等物理特性到人类定义的环境规则。我们介绍T2-Z...",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "http://arxiv.org/abs/2610.22364v1",
-      "date": "2026-10-18"
-    },
-    {
-      "category": "新产品",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "title_cn": "Meta删除了引起抓取和人工智能培训问题的语言",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "summary_cn": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。",
-      "comment": "企业级解决方案，听着高大上，适不适合你的需求另说。",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "date": "2026-10-17"
-    },
-    {
-      "category": "新产品",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "title_cn": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "summary_cn": "在过去的一年中， Anthropic的员工构成和工作类型发生了显着变化。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "date": "2026-10-17"
-    },
-    {
-      "category": "新产品",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_cn": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "summary_cn": "上周末， Masad澄清说， OpenAI将取代Anthropic作为其默认模型提供商。Claude仍将向平台上的客户提供服务。",
+      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+      "title_cn": "重新思考香草像素扩散变压器的设计空间",
+      "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity ...",
+      "summary_cn": "像素空间扩散模型最近重新出现，成为潜在扩散的引人注目的替代方案，避免了有损的潜在瓶颈和单独训练的自动编码器。JiT表明，通过替换常用的速度，香草扩散变压器可以直接在像素空间中产生...",
       "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-17"
+      "url": "http://arxiv.org/abs/2610.23854v1",
+      "date": "2026-10-19"
     },
     {
-      "category": "行业热点",
-      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
-      "title_cn": "Show HN: Sphinx –在发货前对您的AI代码进行测验的钩子",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
-      "summary_cn": "FOSS ，基本上，它插入到您现有的编码代理工作流程中，每次您按下prod时，它都会抛出一份调查问卷，检查您是否了解您正在推送的代码的工作原理。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "source": "Hacker News",
+      "category": "AI论文",
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "title_cn": "行为耦合：从语言模型的形成到行为出现",
+      "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relatio...",
+      "summary_cn": "微调大型语言模型（ LLM ）可能会诱发超出明确目标的行为。例如，训练模型做出更热烈的反应可能会使其更加讽刺，而训练它编写不安全的代码可能会导致在与编码无关的提示上出现广泛的不一致。我们指的是一个相对...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.23847v1",
+      "date": "2026-10-19"
+    },
+    {
+      "category": "AI论文",
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "title_cn": "科学发现中的人工智能驱动的可重复性和分析鲁棒性",
+      "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the S...",
+      "summary_cn": "可重复和分析可靠的研究结果对于科学进步至关重要，但评估这些特性通常需要花费昂贵的人工精力。我们使用基于S的医学案例研究来调查LLM代理是否可以帮助自动繁殖和稳健性分析...",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "http://arxiv.org/abs/2610.23845v1",
+      "date": "2026-10-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title_cn": "Anthropic表示，它将把5%的股份投入“公益基金”",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary_cn": "Anthropic表示，它将向该基金承诺其5%的股份。",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "date": "2026-10-18"
+    },
+    {
+      "category": "新产品",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title_cn": "迪士尼同意雇用Character.AI的大部分员工",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "summary_cn": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。然而，这是一个跟踪马的出价，所以另一家公司可能会提出更高的报价。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "date": "2026-10-18"
+    },
+    {
+      "category": "新产品",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "title_cn": "TechCrunch Mobility ： Rivian的下一步行动",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "summary_cn": "欢迎回到TechCrunch Mobility ，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "source": "TechCrunch",
       "date": "2026-10-18"
     },
     {
       "category": "行业热点",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "title_cn": "贝利–美人鱼图作为主题SVG",
-      "summary": "Pele – Mermaid diagrams as themeable SVG",
-      "summary_cn": "贝利–美人鱼图作为主题SVG",
+      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+      "title_cn": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策",
+      "summary": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+      "summary_cn": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://pele.run/",
+      "url": "https://github.com/strot-ai/Project-STROT",
       "source": "Hacker News",
-      "date": "2026-10-17"
+      "date": "2026-10-19"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "title_cn": "显示HN ：在Cloudflare上免费运行的WhatsApp MCP",
+      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a singl",
+      "summary_cn": "我希望我的卑微的Claude在手机上访问我的WhatsApp消息，但我能找到的唯一选项是需要WhatsApp Business或运行Baileys的实际服务器。我想在ClaudeFlare和我的个人WhatsApp帐户上免费运行它，所以我构建了这个。重要功能-它连接到您的Google帐户以及WhatsApp以获取您所有WhatsApp联系人的姓名，否则您只会获得其中许多联系人的电话号码，搜索无法正常工作。这是一个单身",
+      "comment": "社区狂欢，实际部署成本你考虑过吗？",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "Hacker News",
+      "date": "2026-10-18"
     }
   ]
 }
