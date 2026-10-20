@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
       "category": "技术动态",
-      "title": "trending-skill-radar",
-      "title_cn": "趋势技能雷达",
-      "summary": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.",
-      "summary_cn": "使用当前趋势、工作需求、未来潜力和实际学习路径，研究和排名任何领域值得学习的五大技能。",
-      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
-      "url": "https://github.com/JAI4213H/trending-skill-radar",
-      "date": "2026-10-19"
+      "title": "DogCatTrace",
+      "title_cn": "DogCatTrace",
+      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
+      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/xiebaiyuan/DogCatTrace",
+      "date": "2026-10-20"
     },
     {
       "category": "技术动态",
-      "title": "cineverse",
-      "title_cn": "电影宇宙",
-      "summary": "🎬 Intelligent Cinematic Universe & AI Movie Recommendation Engine powered by Latent Semantic NLP, Hybrid SVD Collaborative Filtering, and GSAP/Framer Motion.",
-      "summary_cn": "基于Latent Semantic NLP、混合SVD协作过滤和GSAP/Framer Motion的🎬智能电影宇宙和人工智能电影推荐引擎。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/codexanjan/cineverse",
-      "date": "2026-10-19"
+      "title": "awesome-free-ai",
+      "title_cn": "awesome-free-ai",
+      "summary": "A curated list of free & open-source AI tools, models, APIs and learning resources for developers.",
+      "summary_cn": "面向开发人员的免费和开源AI工具、模型、API和学习资源的精选列表。",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://github.com/Faizan-khan144/awesome-free-ai",
+      "date": "2026-10-20"
     },
     {
       "category": "AI论文",
-      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-      "title_cn": "重新思考香草像素扩散变压器的设计空间",
-      "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity ...",
-      "summary_cn": "像素空间扩散模型最近重新出现，成为潜在扩散的引人注目的替代方案，避免了有损的潜在瓶颈和单独训练的自动编码器。JiT表明，通过替换常用的速度，香草扩散变压器可以直接在像素空间中产生...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.23854v1",
-      "date": "2026-10-19"
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "title_cn": "OpenVLHarness ：真实世界的视觉代理工具-使用多模态内存",
+      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only m...",
+      "summary_cn": "多模态大型语言模型（ MLLM ）在视觉推理方面取得了快速进展，但许多任务需要仅通过内部推理难以获得的证据：我们对22个基准的对照研究表明，简单地增加基本模型的推理预算只会产生...",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "http://arxiv.org/abs/2610.26860v1",
+      "date": "2026-10-20"
     },
     {
       "category": "AI论文",
-      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-      "title_cn": "行为耦合：从语言模型的形成到行为出现",
-      "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relatio...",
-      "summary_cn": "微调大型语言模型（ LLM ）可能会诱发超出明确目标的行为。例如，训练模型做出更热烈的反应可能会使其更加讽刺，而训练它编写不安全的代码可能会导致在与编码无关的提示上出现广泛的不一致。我们指的是一个相对...",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "http://arxiv.org/abs/2610.23847v1",
-      "date": "2026-10-19"
-    },
-    {
-      "category": "AI论文",
-      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-      "title_cn": "科学发现中的人工智能驱动的可重复性和分析鲁棒性",
-      "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the S...",
-      "summary_cn": "可重复和分析可靠的研究结果对于科学进步至关重要，但评估这些特性通常需要花费昂贵的人工精力。我们使用基于S的医学案例研究来调查LLM代理是否可以帮助自动繁殖和稳健性分析...",
-      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
-      "url": "http://arxiv.org/abs/2610.23845v1",
-      "date": "2026-10-19"
-    },
-    {
-      "category": "新产品",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "title_cn": "Anthropic表示，它将把5%的股份投入“公益基金”",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "summary_cn": "Anthropic表示，它将向该基金承诺其5%的股份。",
-      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch",
-      "date": "2026-10-18"
-    },
-    {
-      "category": "新产品",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "title_cn": "迪士尼同意雇用Character.AI的大部分员工",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "summary_cn": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。然而，这是一个跟踪马的出价，所以另一家公司可能会提出更高的报价。",
-      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "date": "2026-10-18"
-    },
-    {
-      "category": "新产品",
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "title_cn": "TechCrunch Mobility ： Rivian的下一步行动",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "summary_cn": "欢迎回到TechCrunch Mobility ，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+      "title_cn": "使用可视归因的策略自我蒸馏进行强化学习",
+      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teach...",
+      "summary_cn": "具有可验证奖励的多模态强化学习（ RLVR ）提供可靠的任务级监督，但为定位视觉推理中的错误提供有限的指导。随机自蒸馏（ OPSD ）通过特权教师的密集令牌级更正来补充这种监督...",
       "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "source": "TechCrunch",
-      "date": "2026-10-18"
+      "url": "http://arxiv.org/abs/2610.26856v1",
+      "date": "2026-10-20"
     },
     {
-      "category": "行业热点",
-      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-      "title_cn": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策",
-      "summary": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-      "summary_cn": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/strot-ai/Project-STROT",
-      "source": "Hacker News",
+      "category": "AI论文",
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+      "title_cn": "CoopUQ ：通过不确定性感知合作预测实现强大的多机器人社交导航",
+      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distri...",
+      "summary_cn": "强化学习使移动机器人能够在受限的人类共享环境中做出快速且可扩展的导航决策。然而，直接将单机器人方法扩展到多机器人设置通常无法确保安全性和效率，特别是在堵塞和异常情况下...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.26852v1",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "title_cn": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "summary_cn": "市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的监管。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "title_cn": "据报道， Nscale和Anthropic正在就另一笔450亿美元的计算机交易进行谈判",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "summary_cn": "如果这笔交易获得通过，这将是Anthropic在过去一年中达成的一系列巨型计算交易中的最新一笔。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "date": "2026-10-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "title_cn": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "summary_cn": "在过去的几个月里，随着人工智能实验室努力应对一系列安全事故，引发了对其技术潜在危害的担忧，嵌入式评估人员的想法--据称是“中立”的第三方观察员被安置在人工智能组织内部--已经普及开来。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
       "date": "2026-10-19"
     },
     {
       "category": "行业热点",
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "title_cn": "显示HN ：在Cloudflare上免费运行的WhatsApp MCP",
-      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a singl",
-      "summary_cn": "我希望我的卑微的Claude在手机上访问我的WhatsApp消息，但我能找到的唯一选项是需要WhatsApp Business或运行Baileys的实际服务器。我想在ClaudeFlare和我的个人WhatsApp帐户上免费运行它，所以我构建了这个。重要功能-它连接到您的Google帐户以及WhatsApp以获取您所有WhatsApp联系人的姓名，否则您只会获得其中许多联系人的电话号码，搜索无法正常工作。这是一个单身",
-      "comment": "社区狂欢，实际部署成本你考虑过吗？",
-      "url": "https://github.com/finereli/whatsapp-mcp",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "title_cn": "Go将拒绝包含八个不受信任的SPKI的证书链",
+      "summary": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "summary_cn": "Go将拒绝包含八个不受信任的SPKI的证书链",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/golang/go/issues/82345",
       "source": "Hacker News",
-      "date": "2026-10-18"
+      "date": "2026-10-20"
+    },
+    {
+      "category": "行业热点",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "title_cn": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
+      "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "summary_cn": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News",
+      "date": "2026-10-19"
     }
   ]
 }

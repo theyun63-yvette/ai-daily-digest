@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "DogCatTrace",
+      "title_cn": "DogCatTrace",
+      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
+      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/xiebaiyuan/DogCatTrace",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "awesome-free-ai",
+      "summary": "A curated list of free & open-source AI tools, models, APIs and learning resources for developers.",
+      "summary_cn": "面向开发人员的免费和开源AI工具、模型、API和学习资源的精选列表。",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://github.com/Faizan-khan144/awesome-free-ai",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "AI论文",
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "title_cn": "OpenVLHarness ：真实世界的视觉代理工具-使用多模态内存",
+      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only m...",
+      "summary_cn": "多模态大型语言模型（ MLLM ）在视觉推理方面取得了快速进展，但许多任务需要仅通过内部推理难以获得的证据：我们对22个基准的对照研究表明，简单地增加基本模型的推理预算只会产生...",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "http://arxiv.org/abs/2610.26860v1",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "AI论文",
+      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+      "title_cn": "使用可视归因的策略自我蒸馏进行强化学习",
+      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teach...",
+      "summary_cn": "具有可验证奖励的多模态强化学习（ RLVR ）提供可靠的任务级监督，但为定位视觉推理中的错误提供有限的指导。随机自蒸馏（ OPSD ）通过特权教师的密集令牌级更正来补充这种监督...",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "http://arxiv.org/abs/2610.26856v1",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "AI论文",
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+      "title_cn": "CoopUQ ：通过不确定性感知合作预测实现强大的多机器人社交导航",
+      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distri...",
+      "summary_cn": "强化学习使移动机器人能够在受限的人类共享环境中做出快速且可扩展的导航决策。然而，直接将单机器人方法扩展到多机器人设置通常无法确保安全性和效率，特别是在堵塞和异常情况下...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.26852v1",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "title_cn": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "summary_cn": "市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的监管。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "title_cn": "据报道， Nscale和Anthropic正在就另一笔450亿美元的计算机交易进行谈判",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "summary_cn": "如果这笔交易获得通过，这将是Anthropic在过去一年中达成的一系列巨型计算交易中的最新一笔。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "date": "2026-10-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "title_cn": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "summary_cn": "在过去的几个月里，随着人工智能实验室努力应对一系列安全事故，引发了对其技术潜在危害的担忧，嵌入式评估人员的想法--据称是“中立”的第三方观察员被安置在人工智能组织内部--已经普及开来。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-19"
+    },
+    {
+      "category": "行业热点",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "title_cn": "Go将拒绝包含八个不受信任的SPKI的证书链",
+      "summary": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "summary_cn": "Go将拒绝包含八个不受信任的SPKI的证书链",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/golang/go/issues/82345",
+      "source": "Hacker News",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "行业热点",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "title_cn": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
+      "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "summary_cn": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News",
+      "date": "2026-10-19"
+    }
+  ]
+}
