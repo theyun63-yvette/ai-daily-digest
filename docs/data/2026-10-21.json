@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "DogCatTrace",
+      "title_cn": "DogCatTrace",
+      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
+      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/xiebaiyuan/DogCatTrace",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "awesome-free-ai",
+      "summary": "A curated list of free & open-source AI tools, models, APIs and learning resources for developers.",
+      "summary_cn": "面向开发人员的免费和开源AI工具、模型、API和学习资源的精选列表。",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://github.com/Faizan-khan144/awesome-free-ai",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "AI论文",
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "title_cn": "关节、摄像头、动作！为任意钻机共同生成3D动作和视频",
+      "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump a...",
+      "summary_cn": "视频生成模型现在可以描绘出非常逼真的运动。然而，目前尚不清楚如何在像素之外使用此运动：为特定的3D资源制作动画并在其3D场景中重播动画。例如，视频模型可以显示一只猴子跳过横杆，但它不能返回跳过...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.28632v1",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "AI论文",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "title_cn": "GBClaw ：一种用于原子晶界研究和机械发现的代理人工智能框架",
+      "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the struct...",
+      "summary_cn": "代理人工智能（ AI ）系统在材料发现和设计的复杂工作流程自动化方面拥有巨大的潜力，但将其扩展到领域密集型机械研究仍然具有挑战性。在这里，我们展示了GBClaw ，一个用于调查结构的代理人工智能框架...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.28629v1",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "AI论文",
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "title_cn": "UniWALM ：用于具体化机器人控制的统一世界动作语言模型",
+      "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision t...",
+      "summary_cn": "在人类跨语言、感知和行动整合体验的能力的激励下，我们引入了UniWALM ，这是一种统一的世界行动语言模型，可在单个共享表示中学习视频、行动和语言，其中每种模式既是调节信号又是监督...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.28626v1",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "title_cn": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary_cn": "拟议的政策似乎提供了防止人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。",
+      "comment": "商业模型再升级，功能看着牛，钱包要捂紧。",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "title_cn": "Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary_cn": "在您分享Netflix纪录片《AI Gone Rogue》之前，请注意这一点。Hugging Face的联合创始人克莱姆·德朗格（ Clem Delangue ）是这部电影的主角，他说它进入了“全毁灭模式” ，并不准确。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "title_cn": "Anthropic的云合作伙伴关系变得混乱",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "summary_cn": "据报道， Anthropic正在努力从云提供商那里获得足够的计算，这些提供商越来越多地将其视为竞争对手，尽管其基础设施支出在计划于11月进行的首次公开募股之前激增。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch",
+      "date": "2026-10-20"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "title_cn": "Nexus-CLI –使用Claude Code和Ollama支持的Pure Go Bridge到DeepSeek R1/V3",
+      "summary": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "summary_cn": "Nexus-CLI –使用Claude Code和Ollama支持的Pure Go Bridge到DeepSeek R1/V3",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/xamrayev/nexus-cli",
+      "source": "Hacker News",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "行业热点",
+      "title": "Good type against all odds",
+      "title_cn": "不惜一切代价的良好类型",
+      "summary": "Good type against all odds",
+      "summary_cn": "不惜一切代价的良好类型",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "source": "Hacker News",
+      "date": "2026-10-21"
+    }
+  ]
+}
