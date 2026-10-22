@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "DogCatTrace",
+      "title_cn": "狗猫踪迹",
+      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
+      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/xiebaiyuan/DogCatTrace",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "技术动态",
+      "title": "Test-Series",
+      "title_cn": "试验系列",
+      "summary": "A responsive GATE DA test series platform featuring chapter-wise practice, subject-wise tests, PYQs, relevant GATE CSE questions, timed mock exams, and performance analytics.",
+      "summary_cn": "一个响应式GATE DA测试系列平台，具有章节式实践、主题式测试、PYQ、相关GATE CSE问题、定时模拟考试和绩效分析。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://github.com/mohdshamii/Test-Series",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "AI论文",
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "title_cn": "在重要的地方仔细思考：顺序推荐的项目级自适应递归",
+      "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items withi...",
+      "summary_cn": "现有的顺序推荐者通常会为用户交互历史记录中的每个项目分配固定的计算预算，无论该项目对最终预测的贡献如何。我们用两个诊断发现来挑战这种事实上的设计。（ 1 ）非均匀的计算需求：...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.30128v1",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "AI论文",
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "title_cn": "PhysiCalWorld ：世界模型的上下文物理校准",
+      "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrati...",
+      "summary_cn": "现有的世界模型通常通过当前的视觉框架或狭窄的历史窗口感知场景。然而，这些观测可能无法揭示决定过渡动力学的物理特性，例如物体的质量分布、关节阻尼或表面摩擦。...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.30125v1",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "AI论文",
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "title_cn": "环境决斗：法学硕士共同进化的缩影",
+      "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels, ...",
+      "summary_cn": "通过一系列真实世界的互动，从合成培训管道到开放网络上共享的数据， Frontier LLM吸收了他们的前辈和竞争对手创造的东西。作为创作者和解决者，每个模型在这个生态系统中的作用如何？我们引入了环境决斗，...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.30116v1",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "新产品",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "title_cn": "特斯拉表示将在年底前开始销售Cybercabs",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217;s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [&#8230;]",
+      "summary_cn": "特斯拉周三表示，它将在今年年底前开始向客户出售其Cybercab ，尽管联邦监管机构正在调查该车辆是否符合车辆安全标准。这款金色的双座自动驾驶汽车没有方向盘和其他传统控制装置。在公司第三季度财报电话会议上，特斯拉工程副总裁Lars Moravy […]",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "新产品",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "title_cn": "Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "summary_cn": "Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "新产品",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "title_cn": "Meta希望通过新创建的股票类别为其广泛的人工智能构建付费",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "summary_cn": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "date": "2026-10-21"
+    },
+    {
+      "category": "行业热点",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "title_cn": "WorldTUI ：我训练了一个360米模型来假装是一个终端",
+      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary_cn": "WorldTUI ：我训练了一个360米模型来假装是一个终端",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "Hacker News",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "行业热点",
+      "title": "LLM agents play Pokemon showdown",
+      "title_cn": "LLM代理商玩口袋妖怪对决",
+      "summary": "LLM agents play Pokemon showdown",
+      "summary_cn": "LLM代理商玩口袋妖怪对决",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "source": "Hacker News",
+      "date": "2026-10-22"
+    }
+  ]
+}
