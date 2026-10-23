@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "DogCatTrace",
+      "title_cn": "DogCatTrace",
+      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
+      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/xiebaiyuan/DogCatTrace",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "技术动态",
+      "title": "ai-handbook",
+      "title_cn": "ai-handbook",
+      "summary": "AI 手册：从入门到精通 —— 学 AI（六站课程 · 学习路径）· AI 工具（常用产品档案 · 同一套维度对比）· AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主，中英双语，每条判断带官方出处。How to learn AI, then use it, then run it — with sources.",
+      "summary_cn": "AI 手册：从入门到精通 学 --AI （六站课程 · 学习路径） · AI 工具（常用产品档案 · 同一套维度对比） · AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主中英双语 ，每条判断带官方出处。如何学习AI ，然后使用它，然后用源代码运行它。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/speculcom/ai-handbook",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "title_cn": "直接通过@ $ k $思维修剪的优化：在测试时间推理中平衡质量和多样性",
+      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes th...",
+      "summary_cn": "测试时间缩放已成为推理模型的关键推理策略，其中模型生成大量候选解决方案，希望找到至少一个正确的解。将所有候选解决方案运行到完成可能对计算要求很高，因此最近的工作...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "title_cn": "基于LLM的IT工单分类的成本意识弃权",
+      "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a...",
+      "summary_cn": "错误的IT支持工单自动路由可能比人工分流花费更多。我们将成本意识弃权评估为离线、成本条件准备评估：在显式成本下选择校准数据的路由策略，然后在保留的测试数据上评估该冻结策略。在...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.31657v1",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "title_cn": "METTA ：元强化学习的记忆增强测试时间适应",
+      "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ...",
+      "summary_cn": "元强化学习旨在训练快速适应有限交互中看不见的任务的代理，但这需要在漫长的交互历史中代表任务证据。经典的循环代理将体验压缩为隐藏状态，而基于变压器的代理从...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.31656v1",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "title_cn": "Oura再次起诉竞争对手Ultrahuman ，威胁其美国智能戒指卷土重来",
+      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "summary_cn": "Oura在其最新诉讼中指控Ultrahuman的Ring Pro侵犯了其两项专利。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title_cn": "优步的竞争对手inDrive eyes 2027与Pony.ai和Nvidia在中亚进行机器人出租车测试",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "summary_cn": "inDrive计划于2027年上半年在哈萨克斯坦首都开始测试Pony.ai的机器人出租车。",
+      "comment": "商业化产品发布，先看定价策略，再决定要不要入坑。",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "title_cn": "独自一人无事可做，人工智能特工开始玩",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "summary_cn": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "行业热点",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "title_cn": "LLM正在使正式的软件验证在更大的规模上可行",
+      "summary": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary_cn": "LLM正在使正式的软件验证在更大的规模上可行",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "date": "2026-10-22"
+    },
+    {
+      "category": "行业热点",
+      "title": "Railpass",
+      "title_cn": "铁路通行证",
+      "summary": "Railpass",
+      "summary_cn": "铁路通行证",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://train.samismith.com/",
+      "source": "Hacker News",
+      "date": "2026-10-22"
+    }
+  ]
+}
