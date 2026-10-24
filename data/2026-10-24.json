@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "beacon-pilot-alan-vo",
+      "title_cn": "信标飞行员阿兰沃",
+      "summary": "Alan Vo | Work in progress: beacon-pilot-alan-vo",
+      "summary_cn": "Alan Vo |正在进行的工作： beacon-pilot-alan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/ALANDVO/beacon-pilot-alan-vo",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-observatory-144-ryan-vo",
+      "title_cn": "公理天文台 144-ryan-vo",
+      "summary": "Ryan Vo | Work in progress: axiom-observatory-144-ryan-vo",
+      "summary_cn": "Ryan Vo |在建工程： axiom-observatory-144-ryan-vo",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/axiom-observatory-144-ryan-vo",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "title_cn": "直接通过@ $ k $思维修剪的优化：在测试时间推理中平衡质量和多样性",
+      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes th...",
+      "summary_cn": "测试时间缩放已成为推理模型的关键推理策略，其中模型生成大量候选解决方案，希望找到至少一个正确的解。将所有候选解决方案运行到完成可能对计算要求很高，因此最近的工作...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "title_cn": "基于LLM的IT工单分类的成本意识弃权",
+      "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a...",
+      "summary_cn": "错误的IT支持工单自动路由可能比人工分流花费更多。我们将成本意识弃权评估为离线、成本条件准备评估：在显式成本下选择校准数据的路由策略，然后在保留的测试数据上评估该冻结策略。在...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.31657v1",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "title_cn": "METTA ：元强化学习的记忆增强测试时间适应",
+      "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ...",
+      "summary_cn": "元强化学习旨在训练快速适应有限交互中看不见的任务的代理，但这需要在漫长的交互历史中代表任务证据。经典的循环代理将体验压缩为隐藏状态，而基于变压器的代理从...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.31656v1",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Startups don’t need to go viral to win customers",
+      "title_cn": "初创公司无需病毒式传播即可赢得客户",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "summary_cn": "在上周的TechCrunch Disrupt大会上，两位创始人和一位风险投资人讨论了如何不仅获得早期追随者，而且保留早期追随者。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "新产品",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title_cn": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "summary_cn": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "title_cn": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary_cn": "机器人跺着小脚，发出微小的R2-D2声音，坐了下来，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "行业热点",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "title_cn": "阿尔茨海默氏症的突破：在不清除脑斑块的情况下恢复2小时的睡眠",
+      "summary": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "summary_cn": "阿尔茨海默氏症的突破：在不清除脑斑块的情况下恢复2小时的睡眠",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "source": "Hacker News",
+      "date": "2026-10-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "title_cn": "Systemd-nspawn容器旋风之旅（ 2025年）",
+      "summary": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "summary_cn": "Systemd-nspawn容器旋风之旅（ 2025年）",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "source": "Hacker News",
+      "date": "2026-10-23"
+    }
+  ]
+}

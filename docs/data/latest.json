@@ -1,25 +1,25 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "category": "技术动态",
-      "title": "DogCatTrace",
-      "title_cn": "DogCatTrace",
-      "summary": "用一套数字指纹归因流程，把候选换成狗猫品种。附对照组：与库内任何品种都无生成关系的均匀随机整数，同样拿到 81.73%~99.999% 的品种族概率。",
-      "summary_cn": "把候选换成狗猫品种。附对照组：用一套数字指纹归因流程与库内任何品种都无生成关系的均匀随机整数 ，同样拿到 81.73% ~99.999% 的品种族概率。",
+      "title": "beacon-pilot-alan-vo",
+      "title_cn": "信标飞行员阿兰沃",
+      "summary": "Alan Vo | Work in progress: beacon-pilot-alan-vo",
+      "summary_cn": "Alan Vo |正在进行的工作： beacon-pilot-alan-vo",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://github.com/xiebaiyuan/DogCatTrace",
-      "date": "2026-10-23"
+      "url": "https://github.com/ALANDVO/beacon-pilot-alan-vo",
+      "date": "2026-10-24"
     },
     {
       "category": "技术动态",
-      "title": "ai-handbook",
-      "title_cn": "ai-handbook",
-      "summary": "AI 手册：从入门到精通 —— 学 AI（六站课程 · 学习路径）· AI 工具（常用产品档案 · 同一套维度对比）· AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主，中英双语，每条判断带官方出处。How to learn AI, then use it, then run it — with sources.",
-      "summary_cn": "AI 手册：从入门到精通 学 --AI （六站课程 · 学习路径） · AI 工具（常用产品档案 · 同一套维度对比） · AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主中英双语 ，每条判断带官方出处。如何学习AI ，然后使用它，然后用源代码运行它。",
+      "title": "axiom-observatory-144-ryan-vo",
+      "title_cn": "公理天文台 144-ryan-vo",
+      "summary": "Ryan Vo | Work in progress: axiom-observatory-144-ryan-vo",
+      "summary_cn": "Ryan Vo |在建工程： axiom-observatory-144-ryan-vo",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/speculcom/ai-handbook",
-      "date": "2026-10-23"
+      "url": "https://github.com/A220man/axiom-observatory-144-ryan-vo",
+      "date": "2026-10-24"
     },
     {
       "category": "AI论文",
@@ -29,7 +29,7 @@
       "summary_cn": "测试时间缩放已成为推理模型的关键推理策略，其中模型生成大量候选解决方案，希望找到至少一个正确的解。将所有候选解决方案运行到完成可能对计算要求很高，因此最近的工作...",
       "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
       "url": "http://arxiv.org/abs/2610.31667v1",
-      "date": "2026-10-23"
+      "date": "2026-10-24"
     },
     {
       "category": "AI论文",
@@ -37,9 +37,9 @@
       "title_cn": "基于LLM的IT工单分类的成本意识弃权",
       "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a...",
       "summary_cn": "错误的IT支持工单自动路由可能比人工分流花费更多。我们将成本意识弃权评估为离线、成本条件准备评估：在显式成本下选择校准数据的路由策略，然后在保留的测试数据上评估该冻结策略。在...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
       "url": "http://arxiv.org/abs/2610.31657v1",
-      "date": "2026-10-23"
+      "date": "2026-10-24"
     },
     {
       "category": "AI论文",
@@ -47,64 +47,64 @@
       "title_cn": "METTA ：元强化学习的记忆增强测试时间适应",
       "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ...",
       "summary_cn": "元强化学习旨在训练快速适应有限交互中看不见的任务的代理，但这需要在漫长的交互历史中代表任务证据。经典的循环代理将体验压缩为隐藏状态，而基于变压器的代理从...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
       "url": "http://arxiv.org/abs/2610.31656v1",
-      "date": "2026-10-23"
+      "date": "2026-10-24"
     },
     {
       "category": "新产品",
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "title_cn": "Oura再次起诉竞争对手Ultrahuman ，威胁其美国智能戒指卷土重来",
-      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "summary_cn": "Oura在其最新诉讼中指控Ultrahuman的Ring Pro侵犯了其两项专利。",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "title": "Startups don’t need to go viral to win customers",
+      "title_cn": "初创公司无需病毒式传播即可赢得客户",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "summary_cn": "在上周的TechCrunch Disrupt大会上，两位创始人和一位风险投资人讨论了如何不仅获得早期追随者，而且保留早期追随者。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
       "source": "TechCrunch",
       "date": "2026-10-23"
     },
     {
       "category": "新产品",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "title_cn": "优步的竞争对手inDrive eyes 2027与Pony.ai和Nvidia在中亚进行机器人出租车测试",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "summary_cn": "inDrive计划于2027年上半年在哈萨克斯坦首都开始测试Pony.ai的机器人出租车。",
-      "comment": "商业化产品发布，先看定价策略，再决定要不要入坑。",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title_cn": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "summary_cn": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
       "date": "2026-10-23"
     },
     {
       "category": "新产品",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "title_cn": "独自一人无事可做，人工智能特工开始玩",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "summary_cn": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
-      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "title_cn": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary_cn": "机器人跺着小脚，发出微小的R2-D2声音，坐了下来，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "source": "TechCrunch",
       "date": "2026-10-23"
     },
     {
       "category": "行业热点",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "title_cn": "LLM正在使正式的软件验证在更大的规模上可行",
-      "summary": "LLMs are making formal software verification feasible at a much larger scale",
-      "summary_cn": "LLM正在使正式的软件验证在更大的规模上可行",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "title_cn": "阿尔茨海默氏症的突破：在不清除脑斑块的情况下恢复2小时的睡眠",
+      "summary": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "summary_cn": "阿尔茨海默氏症的突破：在不清除脑斑块的情况下恢复2小时的睡眠",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://www.anthropic.com/research/formal-verification",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "source": "Hacker News",
-      "date": "2026-10-22"
+      "date": "2026-10-24"
     },
     {
       "category": "行业热点",
-      "title": "Railpass",
-      "title_cn": "铁路通行证",
-      "summary": "Railpass",
-      "summary_cn": "铁路通行证",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "title_cn": "Systemd-nspawn容器旋风之旅（ 2025年）",
+      "summary": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "summary_cn": "Systemd-nspawn容器旋风之旅（ 2025年）",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://train.samismith.com/",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
       "source": "Hacker News",
-      "date": "2026-10-22"
+      "date": "2026-10-23"
     }
   ]
 }
