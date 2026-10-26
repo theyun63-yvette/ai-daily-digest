@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-26",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "nlp-for-machine-learning-bootcamp",
+      "title_cn": "NLP 机器学习训练营",
+      "summary": "NLP for Machine Learning Bootcamp.",
+      "summary_cn": "机器学习训练营的NLP。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "技术动态",
+      "title": "beacon-pilot-alan-vo",
+      "title_cn": "信标飞行员阿兰沃",
+      "summary": "Alan Vo | Work in progress: beacon-pilot-alan-vo",
+      "summary_cn": "Alan Vo |正在进行的工作： beacon-pilot-alan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/ALANDVO/beacon-pilot-alan-vo",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "AI论文",
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "title_cn": "SceneBloom ：具有逼真和多样化布局的Agentic室内环境生成，用于体验式学习",
+      "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrang...",
+      "summary_cn": "训练可通用的具体化智能体需要逼真、多样和模拟就绪的室内环境。语言引导的方法支持语义规划和对象级推理，但精确的空间接地仍然很困难。视觉生成模型提供丰富的先验，而不是合理的安排...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "AI论文",
+      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "title_cn": "RobustRLlib ：健壮强化学习算法的统一库和基准",
+      "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusab...",
+      "summary_cn": "强大的强化学习（ RL ）对于可靠的实际部署至关重要，因为在不同的转变和中断下，政策可能会失败。现有的稳健RL算法提供了一套丰富的机制和原理，但有两个主要障碍限制了其更广泛的潜力：有限的算法reusab...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "AI论文",
+      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+      "title_cn": "DexPort ：灵巧手部数据采集的手持技能界面",
+      "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to...",
+      "summary_cn": "收集高质量的演示仍然是学习灵巧操纵的核心瓶颈。远程操作记录可执行的机器人动作，但它需要完整的机器人设置，并将协调许多手指关节的负担放在操作员身上。人类演示更容易...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.32969v1",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "新产品",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title_cn": "Grok发布其人工智能生成的“奥德赛”的前七分钟",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "summary_cn": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。",
+      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "新产品",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "title_cn": "“Cyberselfish”的作者瞄准了技术自由主义，因为她的书从死里复活",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "summary_cn": "“这是12年前的世界观。”",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "新产品",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title_cn": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "summary_cn": "“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为科技以外的美国企业带来了零财务回报。”",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "date": "2026-10-25"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "title_cn": "Show HN ： Proc-CLI -用于流程和端口管理的对代理友好的CLI工具",
+      "summary": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "summary_cn": "Show HN ： Proc-CLI -用于流程和端口管理的对代理友好的CLI工具",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://proc-cli.com/",
+      "source": "Hacker News",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "行业热点",
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "title_cn": "Microsoft Decision-1 ： 9B Qwen型号发布说明",
+      "summary": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "summary_cn": "Microsoft Decision-1 ： 9B Qwen型号发布说明",
+      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "source": "Hacker News",
+      "date": "2026-10-26"
+    }
+  ]
+}
