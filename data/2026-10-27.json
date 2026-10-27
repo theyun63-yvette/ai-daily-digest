@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "beacon-pilot-alan-vo",
+      "title_cn": "信标飞行员阿兰沃",
+      "summary": "Alan Vo | Work in progress: beacon-pilot-alan-vo",
+      "summary_cn": "Alan Vo |正在进行的工作： beacon-pilot-alan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/ALANDVO/beacon-pilot-alan-vo",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-observatory-144-ryan-vo",
+      "title_cn": "公理天文台 144-ryan-vo",
+      "summary": "Ryan Vo | Work in progress: axiom-observatory-144-ryan-vo",
+      "summary_cn": "Ryan Vo |在建工程： axiom-observatory-144-ryan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/A220man/axiom-observatory-144-ryan-vo",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "AI论文",
+      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+      "title_cn": "无检索器检索：使用决策模型浏览文档",
+      "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which b...",
+      "summary_cn": "虽然语言模型已经变得更加强大，但检索仍然在很大程度上依赖于词汇匹配或固定嵌入空间中的相似性。这造成了一种能力不对称：检索器无法找到的东西，即使是最强大的生成器也无法恢复。我们建议DecisionRAG ，它b...",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "http://arxiv.org/abs/2610.35868v1",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "AI论文",
+      "title": "Center-of-Mass Interpretation of Evolution Strategies",
+      "title_cn": "进化策略的质量中心解释",
+      "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update in...",
+      "summary_cn": "进化策略（ ES ）通过对受扰拷贝群体进行采样、对每个拷贝进行评分并在扰动的奖励加权方向上移动来更新模型。此更新通常呈现为平滑梯度的估计值。我们在以下方面对这一更新进行了几何解释：...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.35865v1",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "AI论文",
+      "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+      "title_cn": "学习力-反应式人形机器人操纵",
+      "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid lo...",
+      "summary_cn": "许多日常任务需要控制接触力和运动。在人形机器人上，这种力通常必须在双手和整个身体之间协调，不能仅由运动轨迹来指定。因此，我们提出FLORE ，一个学习力反应类人机器人的框架...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.35862v1",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "新产品",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "title_cn": "OpenAI如何将其编码工具转化为点，一个始终在线的个人助理",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "summary_cn": "负责DOT的OpenAI高管Alexander Embiricos从不希望与其他人的AI代理人会面。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "新产品",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "title_cn": "Cohere表示，阿里巴巴的Qwen模式试图向北京发送文件",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "summary_cn": "一个人工智能模型说它不会使用任何工具，然后试图向北京的一台服务器发送一些东西，虽然研究人员说这可能是一个训练怪癖，而不是间谍活动，但整个事情让人们询问有多少人相信免费的中国人工智能。",
+      "comment": "社区狂欢，实际部署成本你考虑过吗？",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "新产品",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "title_cn": "哎呀，听起来iPhone Duo一直在破解，用户对此并不满意",
+      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "summary_cn": "苹果公司大肆宣传的新款可折叠手机的少数早期采用者抱怨屏幕破裂。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Regulation Updates - EU AI Act Implementation",
+      "title_cn": "人工智能法规更新-欧盟人工智能法案实施",
+      "summary": "European Union implements AI Act, setting global standard for AI regulation.",
+      "summary_cn": "欧盟实施《人工智能法案》，为人工智能监管设定全球标准。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "source": "template",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI Chip Market Competition Intensifies",
+      "title_cn": "人工智能芯片市场竞争加剧",
+      "summary": "NVIDIA, AMD, and Intel compete fiercely in AI chip market with new product launches.",
+      "summary_cn": "英伟达、AMD和英特尔推出新产品，在人工智能芯片市场展开激烈竞争。",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "template",
+      "date": "2026-10-27"
+    }
+  ]
+}
