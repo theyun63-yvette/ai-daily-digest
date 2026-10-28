@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "beacon-lens-144-ryan-vo",
+      "title_cn": "信标透镜-144-ryan-vo",
+      "summary": "Ryan Vo | Work in progress: beacon-lens-144-ryan-vo",
+      "summary_cn": "Ryan Vo |在建工程： beacon-lens-144-ryan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/A220man/beacon-lens-144-ryan-vo",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "技术动态",
+      "title": "nexus-workbench-145-alan-vo",
+      "title_cn": "Nexus-workbench-145-alan-vo",
+      "summary": "Alan Vo | Work in progress: nexus-workbench-145-alan-vo",
+      "summary_cn": "Alan Vo |在建工程： nexus-workbench-145-alan-vo",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/ALANDVO/nexus-workbench-145-alan-vo",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "AI论文",
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "title_cn": "Honeycomb-Surfels ：紧凑的六边形图元，实现高效的场景渲染和重建",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for ef...",
+      "summary_cn": "新颖的视图合成和3D重建随着辐射场和飞溅而迅速发展，但它们的内存和计算需求限制了它们在资源受限环境中的使用。我们介绍了Hexels ：新颖的平面六边形表面元素，具有ef的一阶空间色域...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.37668v1",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "AI论文",
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "title_cn": "ThinkWorld ：世界想象力强化动力学推理链",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning fro...",
+      "summary_cn": "视觉-语言-动作（ VLA ）模型在机器人操纵方面取得了实质性进展，但其泛化仍然受到动作标签机器人演示的多样性和覆盖范围的限制。人类视频提供了更广泛的行为和环境体验，同时...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "AI论文",
+      "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "title_cn": "注意力作为格规理论：关系仅通过Wilson循环相互作用",
+      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate...",
+      "summary_cn": "关系是通过他们共享的实体构成的--爱丽丝是鲍勃的母亲，鲍勃是卡罗尔的父亲，所以爱丽丝是卡罗尔的祖母--秩序很重要，因为父亲的母亲不是母亲的父亲；验证稳定的关系意味着关闭循环。我们表明，如果每个实体的坐标...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.37656v1",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "新产品",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "title_cn": "风险投资公司将在Anthropic的首次公开募股中赚取数十亿美元，但亚马逊将赚取更多（更多）",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "summary_cn": "大量音符转换揭示了亚马逊在Anthropic所有权的真实程度。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "新产品",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "title_cn": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "summary_cn": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "新产品",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "title_cn": "数据中心热潮有一个好处：美国电网的创新",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "summary_cn": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "行业热点",
+      "title": "Early progress on accelerating drug development with Claude",
+      "title_cn": "与Claude一起加速药物开发的早期进展",
+      "summary": "Early progress on accelerating drug development with Claude",
+      "summary_cn": "与Claude一起加速药物开发的早期进展",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Hacker News",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "行业热点",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "title_cn": "Tailscale SSH ：调查和补救更新",
+      "summary": "Tailscale SSH: Investigation and remediation update",
+      "summary_cn": "Tailscale SSH ：调查和补救更新",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "source": "Hacker News",
+      "date": "2026-10-27"
+    }
+  ]
+}
