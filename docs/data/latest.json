@@ -1,25 +1,25 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
+    {
+      "category": "技术动态",
+      "title": "Inside-the-Game",
+      "title_cn": "游戏内幕",
+      "summary": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+      "summary_cn": "基于合成足球赛事数据的多经纪人比赛情报（未使用真正的英超联赛数据）。专为游戏内幕打造：开发者黑客马拉松。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+      "date": "2026-10-29"
+    },
     {
       "category": "技术动态",
       "title": "beacon-lens-144-ryan-vo",
       "title_cn": "信标透镜-144-ryan-vo",
       "summary": "Ryan Vo | Work in progress: beacon-lens-144-ryan-vo",
       "summary_cn": "Ryan Vo |在建工程： beacon-lens-144-ryan-vo",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
       "url": "https://github.com/A220man/beacon-lens-144-ryan-vo",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "技术动态",
-      "title": "nexus-workbench-145-alan-vo",
-      "title_cn": "Nexus-workbench-145-alan-vo",
-      "summary": "Alan Vo | Work in progress: nexus-workbench-145-alan-vo",
-      "summary_cn": "Alan Vo |在建工程： nexus-workbench-145-alan-vo",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://github.com/ALANDVO/nexus-workbench-145-alan-vo",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -29,7 +29,7 @@
       "summary_cn": "新颖的视图合成和3D重建随着辐射场和飞溅而迅速发展，但它们的内存和计算需求限制了它们在资源受限环境中的使用。我们介绍了Hexels ：新颖的平面六边形表面元素，具有ef的一阶空间色域...",
       "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
       "url": "http://arxiv.org/abs/2610.37668v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -37,9 +37,9 @@
       "title_cn": "ThinkWorld ：世界想象力强化动力学推理链",
       "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning fro...",
       "summary_cn": "视觉-语言-动作（ VLA ）模型在机器人操纵方面取得了实质性进展，但其泛化仍然受到动作标签机器人演示的多样性和覆盖范围的限制。人类视频提供了更广泛的行为和环境体验，同时...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
       "url": "http://arxiv.org/abs/2610.37666v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "AI论文",
@@ -47,64 +47,64 @@
       "title_cn": "注意力作为格规理论：关系仅通过Wilson循环相互作用",
       "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate...",
       "summary_cn": "关系是通过他们共享的实体构成的--爱丽丝是鲍勃的母亲，鲍勃是卡罗尔的父亲，所以爱丽丝是卡罗尔的祖母--秩序很重要，因为父亲的母亲不是母亲的父亲；验证稳定的关系意味着关闭循环。我们表明，如果每个实体的坐标...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
       "url": "http://arxiv.org/abs/2610.37656v1",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "新产品",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "title_cn": "风险投资公司将在Anthropic的首次公开募股中赚取数十亿美元，但亚马逊将赚取更多（更多）",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "summary_cn": "大量音符转换揭示了亚马逊在Anthropic所有权的真实程度。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "title_cn": "Upwind在退出Datadog收购要约后筹集了4亿美元$",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "summary_cn": "这家云安全初创公司以38亿美元的估值筹集了C轮融资，而不是以同样的价格出售自己。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
       "source": "TechCrunch",
       "date": "2026-10-28"
     },
     {
       "category": "新产品",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "title_cn": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "summary_cn": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "title_cn": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "summary_cn": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch",
-      "date": "2026-10-27"
+      "date": "2026-10-28"
     },
     {
       "category": "新产品",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "title_cn": "数据中心热潮有一个好处：美国电网的创新",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "summary_cn": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_cn": "微软从OpenAI获得了100亿美元的收入",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "summary_cn": "微软表示，截至9月30日的季度，它从与OpenAI的商业安排中获得了100亿美元的收入，包括收入分成付款。它强调了合作伙伴关系仍然存在巨大的财务依赖性。",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "TechCrunch",
-      "date": "2026-10-27"
+      "date": "2026-10-28"
     },
     {
       "category": "行业热点",
-      "title": "Early progress on accelerating drug development with Claude",
-      "title_cn": "与Claude一起加速药物开发的早期进展",
-      "summary": "Early progress on accelerating drug development with Claude",
-      "summary_cn": "与Claude一起加速药物开发的早期进展",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "title_cn": "Claude Code定期将每个后台代理的成绩单发送到其模型",
+      "summary": "Claude Code regularly sends each background agent’s transcript to its model",
+      "summary_cn": "Claude Code定期将每个后台代理的成绩单发送到其模型",
       "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "source": "Hacker News",
-      "date": "2026-10-27"
+      "date": "2026-10-29"
     },
     {
       "category": "行业热点",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "title_cn": "Tailscale SSH ：调查和补救更新",
-      "summary": "Tailscale SSH: Investigation and remediation update",
-      "summary_cn": "Tailscale SSH ：调查和补救更新",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://tailscale.com/ssh-investigation-update",
+      "title": "Gemini 4 Carbon",
+      "title_cn": "Gemini 4 碳纤维",
+      "summary": "Gemini 4 Carbon",
+      "summary_cn": "Gemini 4 碳纤维",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "source": "Hacker News",
-      "date": "2026-10-27"
+      "date": "2026-10-28"
     }
   ]
 }
