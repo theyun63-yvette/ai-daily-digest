@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "Inside-the-Game",
+      "title_cn": "游戏内幕",
+      "summary": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+      "summary_cn": "基于合成足球赛事数据的多经纪人比赛情报（未使用真正的英超联赛数据）。专为游戏内幕打造：开发者黑客马拉松。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "技术动态",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "AI论文",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "title_cn": "重新思考无权重干扰的神经厚度",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing...",
+      "summary_cn": "神经厚度假设假设预训练语言模型位于权重空间中特定任务专家的密集邻域，随机高斯扰动可以揭示这些邻域。我们重现了报告的增益，但表明它们不需要这种几何解释。扰乱歌声...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "AI论文",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "title_cn": "读取、分配、路由：像素空间生成变压器的角色耦合令牌化",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
+      "summary_cn": "像素空间生成变形金刚通常每个图像补丁使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全球关注变得越来越昂贵。我们观察到，更精细的细节不一定需要更多的全球沟通：低频结构受益于gl...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "AI论文",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "title_cn": "行李重新识别：对现实世界应用策略的研究",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ...",
+      "summary_cn": "行李重新识别（ ReID ）是视频监控中的一项关键任务，适用于取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李追回）。它可以跨越不相交的关联相同行李的观察...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "新产品",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "title_cn": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "summary_cn": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "新产品",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "title_cn": "Andy Jassy表示， Prime Video有望赚取“数百亿美元”",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary_cn": "亚马逊首席执行官表示，像Project Hail Mary和Verity这样的重磅炸弹的成功只是故事的一部分。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch",
+      "date": "2026-10-29"
+    },
+    {
+      "category": "新产品",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "title_cn": "Jassy说， AWS将是一个$ 1T的业务—但首先，它将花费大量",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "summary_cn": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "date": "2026-10-29"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "title_cn": "显示HN ： Lasm -在Lean for Node/serverless/edge中编写经过正式验证的Web应用程序",
+      "summary": "Lasm has been my dream for a good part of 2026. I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages. Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built d",
+      "summary_cn": "在2026年的大部分时间里， Lasm一直是我的梦想。我坚信，正式验证是软件工程和编程语言的下一次发展。下一波浪潮将在很大程度上由非常聪明的LLM推动，这些LLM了解形式验证及其编程语言。精益是允许正式验证的最流行的语言之一，对我来说非常强大，因为它是一种具有正式验证的通用编程语言，",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/Millillion/lasm",
+      "source": "Hacker News",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "行业热点",
+      "title": "Pico CSS is no longer maintained",
+      "title_cn": "不再维护Pico CSS",
+      "summary": "Pico CSS is no longer maintained",
+      "summary_cn": "不再维护Pico CSS",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "source": "Hacker News",
+      "date": "2026-10-30"
+    }
+  ]
+}

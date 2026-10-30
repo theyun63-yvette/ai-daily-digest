@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
       "category": "技术动态",
@@ -7,104 +7,104 @@
       "title_cn": "游戏内幕",
       "summary": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
       "summary_cn": "基于合成足球赛事数据的多经纪人比赛情报（未使用真正的英超联赛数据）。专为游戏内幕打造：开发者黑客马拉松。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
       "url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
-      "date": "2026-10-29"
+      "date": "2026-10-30"
     },
     {
       "category": "技术动态",
-      "title": "beacon-lens-144-ryan-vo",
-      "title_cn": "信标透镜-144-ryan-vo",
-      "summary": "Ryan Vo | Work in progress: beacon-lens-144-ryan-vo",
-      "summary_cn": "Ryan Vo |在建工程： beacon-lens-144-ryan-vo",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/A220man/beacon-lens-144-ryan-vo",
-      "date": "2026-10-29"
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-10-30"
     },
     {
       "category": "AI论文",
-      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-      "title_cn": "Honeycomb-Surfels ：紧凑的六边形图元，实现高效的场景渲染和重建",
-      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for ef...",
-      "summary_cn": "新颖的视图合成和3D重建随着辐射场和飞溅而迅速发展，但它们的内存和计算需求限制了它们在资源受限环境中的使用。我们介绍了Hexels ：新颖的平面六边形表面元素，具有ef的一阶空间色域...",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "title_cn": "重新思考无权重干扰的神经厚度",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing...",
+      "summary_cn": "神经厚度假设假设预训练语言模型位于权重空间中特定任务专家的密集邻域，随机高斯扰动可以揭示这些邻域。我们重现了报告的增益，但表明它们不需要这种几何解释。扰乱歌声...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "AI论文",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "title_cn": "读取、分配、路由：像素空间生成变压器的角色耦合令牌化",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
+      "summary_cn": "像素空间生成变形金刚通常每个图像补丁使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全球关注变得越来越昂贵。我们观察到，更精细的细节不一定需要更多的全球沟通：低频结构受益于gl...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "AI论文",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "title_cn": "行李重新识别：对现实世界应用策略的研究",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ...",
+      "summary_cn": "行李重新识别（ ReID ）是视频监控中的一项关键任务，适用于取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李追回）。它可以跨越不相交的关联相同行李的观察...",
       "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "http://arxiv.org/abs/2610.37668v1",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "AI论文",
-      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "title_cn": "ThinkWorld ：世界想象力强化动力学推理链",
-      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning fro...",
-      "summary_cn": "视觉-语言-动作（ VLA ）模型在机器人操纵方面取得了实质性进展，但其泛化仍然受到动作标签机器人演示的多样性和覆盖范围的限制。人类视频提供了更广泛的行为和环境体验，同时...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.37666v1",
-      "date": "2026-10-29"
-    },
-    {
-      "category": "AI论文",
-      "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-      "title_cn": "注意力作为格规理论：关系仅通过Wilson循环相互作用",
-      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate...",
-      "summary_cn": "关系是通过他们共享的实体构成的--爱丽丝是鲍勃的母亲，鲍勃是卡罗尔的父亲，所以爱丽丝是卡罗尔的祖母--秩序很重要，因为父亲的母亲不是母亲的父亲；验证稳定的关系意味着关闭循环。我们表明，如果每个实体的坐标...",
-      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
-      "url": "http://arxiv.org/abs/2610.37656v1",
-      "date": "2026-10-29"
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "date": "2026-10-30"
     },
     {
       "category": "新产品",
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "title_cn": "Upwind在退出Datadog收购要约后筹集了4亿美元$",
-      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "summary_cn": "这家云安全初创公司以38亿美元的估值筹集了C轮融资，而不是以同样的价格出售自己。",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "title_cn": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "summary_cn": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "新产品",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "title_cn": "Andy Jassy表示， Prime Video有望赚取“数百亿美元”",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary_cn": "亚马逊首席执行官表示，像Project Hail Mary和Verity这样的重磅炸弹的成功只是故事的一部分。",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "source": "TechCrunch",
-      "date": "2026-10-28"
+      "date": "2026-10-29"
     },
     {
       "category": "新产品",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "title_cn": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "summary_cn": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "title_cn": "Jassy说， AWS将是一个$ 1T的业务—但首先，它将花费大量",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "summary_cn": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "新产品",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "title_cn": "微软从OpenAI获得了100亿美元的收入",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "summary_cn": "微软表示，截至9月30日的季度，它从与OpenAI的商业安排中获得了100亿美元的收入，包括收入分成付款。它强调了合作伙伴关系仍然存在巨大的财务依赖性。",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "date": "2026-10-28"
-    },
-    {
-      "category": "行业热点",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "title_cn": "Claude Code定期将每个后台代理的成绩单发送到其模型",
-      "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-      "summary_cn": "Claude Code定期将每个后台代理的成绩单发送到其模型",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "source": "Hacker News",
       "date": "2026-10-29"
     },
     {
       "category": "行业热点",
-      "title": "Gemini 4 Carbon",
-      "title_cn": "Gemini 4 碳纤维",
-      "summary": "Gemini 4 Carbon",
-      "summary_cn": "Gemini 4 碳纤维",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "title_cn": "显示HN ： Lasm -在Lean for Node/serverless/edge中编写经过正式验证的Web应用程序",
+      "summary": "Lasm has been my dream for a good part of 2026. I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages. Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built d",
+      "summary_cn": "在2026年的大部分时间里， Lasm一直是我的梦想。我坚信，正式验证是软件工程和编程语言的下一次发展。下一波浪潮将在很大程度上由非常聪明的LLM推动，这些LLM了解形式验证及其编程语言。精益是允许正式验证的最流行的语言之一，对我来说非常强大，因为它是一种具有正式验证的通用编程语言，",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/Millillion/lasm",
       "source": "Hacker News",
-      "date": "2026-10-28"
+      "date": "2026-10-30"
+    },
+    {
+      "category": "行业热点",
+      "title": "Pico CSS is no longer maintained",
+      "title_cn": "不再维护Pico CSS",
+      "summary": "Pico CSS is no longer maintained",
+      "summary_cn": "不再维护Pico CSS",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "source": "Hacker News",
+      "date": "2026-10-30"
     }
   ]
 }
