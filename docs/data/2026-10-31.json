@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "技术动态",
+      "title": "Inside-the-Game",
+      "title_cn": "游戏内幕",
+      "summary": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+      "summary_cn": "基于合成足球赛事数据的多经纪人比赛情报（未使用真正的英超联赛数据）。专为游戏内幕打造：开发者黑客马拉松。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "AI论文",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "title_cn": "重新思考无权重干扰的神经厚度",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing...",
+      "summary_cn": "神经厚度假设假设预训练语言模型位于权重空间中特定任务专家的密集邻域，随机高斯扰动可以揭示这些邻域。我们重现了报告的增益，但表明它们不需要这种几何解释。扰乱歌声...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "AI论文",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "title_cn": "读取、分配、路由：像素空间生成变压器的角色耦合令牌化",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
+      "summary_cn": "像素空间生成变形金刚通常每个图像补丁使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全球关注变得越来越昂贵。我们观察到，更精细的细节不一定需要更多的全球沟通：低频结构受益于gl...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "AI论文",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "title_cn": "行李重新识别：对现实世界应用策略的研究",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ...",
+      "summary_cn": "行李重新识别（ ReID ）是视频监控中的一项关键任务，适用于取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李追回）。它可以跨越不相交的关联相同行李的观察...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "新产品",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "title_cn": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "summary_cn": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "新产品",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "title_cn": "Salesforce的并购热潮仍在继续，据报道，国防科技初创公司Rune获得了3.75亿美元的交易",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "summary_cn": "这家AI物流初创公司将加强CRM巨头的Missionforce防御平台。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "source": "TechCrunch",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "新产品",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "title_cn": "专注于隐私的人工智能助手Ollie正在关闭",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "summary_cn": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "date": "2026-10-30"
+    },
+    {
+      "category": "行业热点",
+      "title": "OpenAI raises less than half of $30B target",
+      "title_cn": "OpenAI筹集的资金不到300亿美元目标的一半",
+      "summary": "OpenAI raises less than half of $30B target",
+      "summary_cn": "OpenAI筹集的资金不到300亿美元目标的一半",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "source": "Hacker News",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "行业热点",
+      "title": "Tell HN: Scribd Breached",
+      "title_cn": "告诉HN ： Scribd违规",
+      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user da",
+      "summary_cn": "2026年10月26日（周一）未在任何地方看到任何与此相关的帖子：主题：安全事件通知本通知由Scribd Inc.的通知合作伙伴Epiq代表Scribd, Inc. （ Scribd、Slideshare、Everand和Fable的母公司）发送。，您好！我们在此通知您， Scribd, Inc.最近发生了一起可能影响您数据的安全事件。我们检测到未经授权的第三方可能已经获得了对某些用户数据的访问权限",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "source": "Hacker News",
+      "date": "2026-10-31"
+    }
+  ]
+}
