@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "技术动态",
+      "title": "Inside-the-Game",
+      "title_cn": "游戏内幕",
+      "summary": "Multi-agent match intelligence built on synthetic football event data (no real Premier League data used). Built for the Inside the Game: Developer Hackathon.",
+      "summary_cn": "基于合成足球赛事数据的多经纪人比赛情报（未使用真正的英超联赛数据）。专为游戏内幕打造：开发者黑客马拉松。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Inside-the-Game",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "AI论文",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "title_cn": "重新思考无权重干扰的神经厚度",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing...",
+      "summary_cn": "神经厚度假设假设预训练语言模型位于权重空间中特定任务专家的密集邻域，随机高斯扰动可以揭示这些邻域。我们重现了报告的增益，但表明它们不需要这种几何解释。扰乱歌声...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "AI论文",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "title_cn": "读取、分配、路由：像素空间生成变压器的角色耦合令牌化",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
+      "summary_cn": "像素空间生成变形金刚通常每个图像补丁使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全球关注变得越来越昂贵。我们观察到，更精细的细节不一定需要更多的全球沟通：低频结构受益于gl...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "AI论文",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "title_cn": "行李重新识别：对现实世界应用策略的研究",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ...",
+      "summary_cn": "行李重新识别（ ReID ）是视频监控中的一项关键任务，适用于取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李追回）。它可以跨越不相交的关联相同行李的观察...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "新产品",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "title_cn": "数据中心现在是一个中期问题，即使在布鲁克林",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "summary_cn": "在选举日前五天的布鲁克林中期派对上，从理事会成员的炉边谈话到关于民主党的辩论，每次谈话都不断回到人工智能和数据中心。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_cn": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "summary_cn": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "新产品",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title_cn": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "summary_cn": "全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "date": "2026-10-31"
+    },
+    {
+      "category": "行业热点",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "title_cn": "巴西法院制裁律师在法院备案时迅速注入",
+      "summary": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "summary_cn": "巴西法院制裁律师在法院备案时迅速注入",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "source": "Hacker News",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "行业热点",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "title_cn": "通过从RAM拼写无线电信号泄露气隙计算机的秘密（ 2024年）",
+      "summary": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "summary_cn": "通过从RAM拼写无线电信号泄露气隙计算机的秘密（ 2024年）",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "source": "Hacker News",
+      "date": "2026-11-01"
+    }
+  ]
+}
