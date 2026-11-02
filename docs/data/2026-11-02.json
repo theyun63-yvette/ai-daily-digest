@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-studio-145",
+      "title_cn": "公理工作室-145",
+      "summary": "Ryan Vo | Work in progress: axiom-studio-145",
+      "summary_cn": "Ryan Vo |在建工程： axiom-studio-145",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/axiom-studio-145",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "AI论文",
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "title_cn": "潜在稀疏注意力：向次二次超长语境注意力迈进",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which ...",
+      "summary_cn": "代理工作流程越来越多地转向长期任务，例如开放式科学工作，其中模型受益于长时间的上下文窗口。然而，在超长背景下（超过100万个代币） ，全神贯注的成本过于昂贵。一种有前途的方法是稀疏注意力，其中...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2610.42147v1",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "AI论文",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "title_cn": "具有隐式动态的层次世界模型",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent ski...",
+      "summary_cn": "使用世界模型进行规划可以实现具体代理的测试时间适应，提供比直接策略学习更优越的泛化。然而，长期任务仍然受到累积错误和搜索复杂性的阻碍。现有的分层方法通常使用刚性宏观动作或潜伏滑雪...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2610.42146v1",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "AI论文",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "title_cn": "RoboArchitect ：通过持久记忆实现机器人智能体的自动化设计",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that h...",
+      "summary_cn": "最近的工作表明，冷冻机器人策略在代理线束中的性能要好得多，其中控制代码决定何时查询策略、查阅视觉工具或直接命令ARM。然而今天，这些线束是手工制造的，并为每个新机器人或基准重新设计。我们证明了h...",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "http://arxiv.org/abs/2610.42141v1",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "新产品",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_cn": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "summary_cn": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "新产品",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_cn": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "summary_cn": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "新产品",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "title_cn": "TechCrunch Mobility ：新的、更大的自动驾驶汽车热潮来了",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "summary_cn": "欢迎回到TechCrunch Mobility ，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch",
+      "date": "2026-11-01"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "title_cn": "充满错误的AI粉丝维基正在混淆游戏文化的水域",
+      "summary": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "summary_cn": "充满错误的AI粉丝维基正在混淆游戏文化的水域",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "Hacker News",
+      "date": "2026-11-02"
+    },
+    {
+      "category": "行业热点",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "title_cn": "问问HN ：您推荐哪种电视来保护隐私？",
+      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV. I am curious wh",
+      "summary_cn": "我已经多年没有电视了，希望能有一台尊重我隐私的电视。有没有电视能很好地做到这一点？我正在寻找60英寸至80英寸范围内的产品，并希望拥有至少60赫兹显示屏的4k显示屏。我不介意支付额外费用。我听说Apple TV是大多数智能电视原生应用程序的更好替代品。在隐私方面，一些电视机会比其他电视机更好吗？我不想让电视做任何事情，除了成为Apple TV的显示器。我很好奇wh",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "source": "Hacker News",
+      "date": "2026-11-01"
+    }
+  ]
+}
