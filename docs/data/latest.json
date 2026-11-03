@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "很棒的免费人工智能",
+      "summary": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to date.",
+      "summary_cn": "免费的开源人工智能工具，您可以自己运行，通过设置工作，无论您是否可以销售您构建的内容，以及它运行的内容。始终保持最新。",
+      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
+      "url": "https://github.com/vinjivani777/awesome-free-ai",
+      "date": "2026-11-03"
+    },
     {
       "category": "技术动态",
       "title": "awesome-ai-news-sources-zh",
       "title_cn": "真棒-ai-新闻-来源-zh",
       "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
       "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
-      "date": "2026-11-02"
-    },
-    {
-      "category": "技术动态",
-      "title": "axiom-studio-145",
-      "title_cn": "公理工作室-145",
-      "summary": "Ryan Vo | Work in progress: axiom-studio-145",
-      "summary_cn": "Ryan Vo |在建工程： axiom-studio-145",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/A220man/axiom-studio-145",
-      "date": "2026-11-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-      "title_cn": "潜在稀疏注意力：向次二次超长语境注意力迈进",
-      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which ...",
-      "summary_cn": "代理工作流程越来越多地转向长期任务，例如开放式科学工作，其中模型受益于长时间的上下文窗口。然而，在超长背景下（超过100万个代币） ，全神贯注的成本过于昂贵。一种有前途的方法是稀疏注意力，其中...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2610.42147v1",
-      "date": "2026-11-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "Hierarchical World Models with Implicit Dynamics",
-      "title_cn": "具有隐式动态的层次世界模型",
-      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent ski...",
-      "summary_cn": "使用世界模型进行规划可以实现具体代理的测试时间适应，提供比直接策略学习更优越的泛化。然而，长期任务仍然受到累积错误和搜索复杂性的阻碍。现有的分层方法通常使用刚性宏观动作或潜伏滑雪...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2610.42146v1",
-      "date": "2026-11-02"
-    },
-    {
-      "category": "AI论文",
-      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-      "title_cn": "RoboArchitect ：通过持久记忆实现机器人智能体的自动化设计",
-      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that h...",
-      "summary_cn": "最近的工作表明，冷冻机器人策略在代理线束中的性能要好得多，其中控制代码决定何时查询策略、查阅视觉工具或直接命令ARM。然而今天，这些线束是手工制造的，并为每个新机器人或基准重新设计。我们证明了h...",
-      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
-      "url": "http://arxiv.org/abs/2610.42141v1",
-      "date": "2026-11-02"
-    },
-    {
-      "category": "新产品",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "title_cn": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "summary_cn": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "date": "2026-11-01"
-    },
-    {
-      "category": "新产品",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "title_cn": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "summary_cn": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "date": "2026-11-01"
-    },
-    {
-      "category": "新产品",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "title_cn": "TechCrunch Mobility ：新的、更大的自动驾驶汽车热潮来了",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "summary_cn": "欢迎回到TechCrunch Mobility ，这是您未来交通运输的枢纽，现在比以往任何时候都更需要人工智能在其中发挥作用。",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "AI论文",
+      "title": "Visual-to-Executable Procedural Reconstruction of Buildings",
+      "title_cn": "建筑物可视化可执行程序重建",
+      "summary": "Procedural modeling offers compact, editable, and reusable representations for architectural content, but building such models still depends heavily on manually authored grammars. We study image-based procedural building reconstruction from in-the-wild images, with the goal of recovering an executab...",
+      "summary_cn": "过程建模为建筑内容提供了紧凑、可编辑和可重用的表示，但构建此类模型仍然在很大程度上依赖于手动编写的语法。我们研究基于图像的程序性构建重建，从野生图像中恢复...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.03143v1",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "AI论文",
+      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+      "title_cn": "CUA-Master ：通过开放世界递归改进扩展计算机使用代理",
+      "summary": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated e...",
+      "summary_cn": "尽管CUA最近取得了进展，但其发展仍然受到交互数据有限的多样性、可控性和可靠性的限制。此外，传统的优化管线缺乏迭代反馈，而现有的递归改进方法通常依赖于自生成的...",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "http://arxiv.org/abs/2611.03126v1",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "AI论文",
+      "title": "ComplianceAtlas: A Taxonomy-Driven Agentic AI Framework for Automated AI Act Gap Analysis and Remediation",
+      "title_cn": "ComplianceAtlas ：用于自动化人工智能法案差距分析和补救的分类驱动代理人工智能框架",
+      "summary": "Assessing regulatory compliance for high-risk AI systems requires systematic identification of technical gaps such as missing controls, in- adequate processes, or shallow evaluation of practices. Compliance officers typically admin- ister structured questionnaires collecting evi- dence of current pr...",
+      "summary_cn": "评估高风险人工智能系统的监管合规性需要系统地识别技术差距，例如缺少控制、流程不当或对实践的评估较浅。合规官通常负责管理结构化调查问卷，收集当前计划的证据...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2611.03121v1",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "title_cn": "Apple Watch用于倒带和重新整理对话的人工智能功能开始测试",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "summary_cn": "现在处于测试阶段： Apple的新音频智能功能可以帮助您记住某人所说的话或在对话中做笔记。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
       "source": "TechCrunch",
-      "date": "2026-11-01"
+      "date": "2026-11-03"
+    },
+    {
+      "category": "新产品",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "title_cn": "谷歌将Dreambeans带到印度，将AI生成的个人故事带给大众",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "summary_cn": "谷歌最新的人工智能实验Dreambeans现在支持13种印度语言。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "title_cn": "苹果可能会尝试通过第三方人工智能应用来增加收入",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "summary_cn": "苹果在周一晚上的财报电话会议上暗示，它可以通过第三方“机会”刺激收入。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03"
     },
     {
       "category": "行业热点",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "title_cn": "充满错误的AI粉丝维基正在混淆游戏文化的水域",
-      "summary": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary_cn": "充满错误的AI粉丝维基正在混淆游戏文化的水域",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "title_cn": "英特尔股价崩盘因$ 3.5T芯片路由价差而恶化",
+      "summary": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "summary_cn": "英特尔股价崩盘因$ 3.5T芯片路由价差而恶化",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "source": "Hacker News",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "行业热点",
+      "title": "Scaling Git at OpenAI",
+      "title_cn": "在OpenAI上扩展Git",
+      "summary": "Scaling Git at OpenAI",
+      "summary_cn": "在OpenAI上扩展Git",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
       "source": "Hacker News",
       "date": "2026-11-02"
-    },
-    {
-      "category": "行业热点",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "title_cn": "问问HN ：您推荐哪种电视来保护隐私？",
-      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV. I am curious wh",
-      "summary_cn": "我已经多年没有电视了，希望能有一台尊重我隐私的电视。有没有电视能很好地做到这一点？我正在寻找60英寸至80英寸范围内的产品，并希望拥有至少60赫兹显示屏的4k显示屏。我不介意支付额外费用。我听说Apple TV是大多数智能电视原生应用程序的更好替代品。在隐私方面，一些电视机会比其他电视机更好吗？我不想让电视做任何事情，除了成为Apple TV的显示器。我很好奇wh",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "source": "Hacker News",
-      "date": "2026-11-01"
     }
   ]
 }
