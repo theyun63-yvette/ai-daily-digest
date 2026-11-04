@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-04",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "很棒的免费人工智能",
+      "summary": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to date.",
+      "summary_cn": "免费的开源人工智能工具，您可以自己运行，通过设置工作，无论您是否可以销售您构建的内容，以及它运行的内容。始终保持最新。",
+      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
+      "url": "https://github.com/vinjivani777/awesome-free-ai",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "技术动态",
+      "title": "awesome-ai-news-sources-zh",
+      "title_cn": "真棒-ai-新闻-来源-zh",
+      "summary": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+      "summary_cn": "精选 AI 资讯信源清单（人工智能中英双语） ·精心策划的AI新闻来源，智科每日阅读",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "AI论文",
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "title_cn": "DreamX ：视频扩散模型是通用的潜在动作学习器",
+      "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations of...",
+      "summary_cn": "从视频中学习通用动作表示需要建模动态，该建模动态在相同动作的不同执行中是一致的，但与实施例和外观的变化不变。现有的潜在动作模型从视觉转换中推断出动作，但它们的表示...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.05377v1",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "AI论文",
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "title_cn": "从自主智能体到认知共生体：走向人工智能增强的人类智能",
+      "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, f...",
+      "summary_cn": "十年来，人工智能的进步一直是通过机器自身可以做多少来衡量的。大型基础模型现在编写代码并运行多步任务，个人代理代表人员行事。然而，人们仍然忘记了他们曾经知道的东西，错过了他们没有看到的东西，...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.05376v1",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "AI论文",
+      "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "title_cn": "使语言模型与一般偏好保持一致：直接NASH优化的实证研究",
+      "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, large-...",
+      "summary_cn": "直接纳什优化（ DNO ）通过近似双人偏好游戏的纳什均衡，将语言模型与一般偏好函数对齐。它的实用变体DNO-Prct迭代了随机抽样，基于LLM的样本评级以及教师的黄金响应，...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.05373v1",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "title_cn": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "summary_cn": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "新产品",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title_cn": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "summary_cn": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "新产品",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "title_cn": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary_cn": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "行业热点",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "title_cn": "生成AI基础的小书：直观的数学入门",
+      "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary_cn": "生成AI基础的小书：直观的数学入门",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "Hacker News",
+      "date": "2026-11-03"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "title_cn": "显示HN ：未破解的城市，侦探游戏，您可以在其中质疑LLM嫌疑人撒谎",
+      "summary": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live. As of today: it's free on Android, the iOS version is still waiting to b",
+      "summary_cn": "为您提供一些有关该项目的背景信息。我是一名独奏创始人，我在工作中大量使用人工智能。这个想法来自于希望玩家发现城市。每个城市都有自己的历史，因此每个案例都设定在一个有着真实公共场所的真实城市中。另一方面，犯罪和人民是虚构的。我最关心的是游戏的可玩性，模特扮演侦探，必须在上线前解决问题。截至今日： Android免费， iOS版本仍在等待",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://uncracked.city",
+      "source": "Hacker News",
+      "date": "2026-11-03"
+    }
+  ]
+}
