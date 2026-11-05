@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "很棒的免费人工智能",
+      "summary": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to date.",
+      "summary_cn": "免费的开源人工智能工具，您可以自己运行，通过设置工作，无论您是否可以销售您构建的内容，以及它运行的内容。始终保持最新。",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
+      "url": "https://github.com/vinjivani777/awesome-free-ai",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "技术动态",
+      "title": "willitrun",
+      "title_cn": "威利特伦",
+      "summary": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
+      "summary_cn": "检查您的电脑实际上可以运行哪些AI模型，以及运行的速度。自动检测您的GPU、VRAM和RAM。100%离线。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/KentSimon07/willitrun",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "AI论文",
+      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "title_cn": "烧杯：自动驾驶化学实验室中体现大脑的专家策划的基准",
+      "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) a...",
+      "summary_cn": "自动驾驶化学实验室（ SDCL ）正在将化学实验推向具体的自动化，机器必须感知实验室场景，对实验状态进行推理，并在物理、程序和安全约束下行事。虽然多模态大型语言模型（ MLLM ） a...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.06911v1",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "AI论文",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "title_cn": "FrontierPhysics ：评估端到端物理研究的代理商",
+      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-...",
+      "summary_cn": "人工智能代理在物理研究中发挥着越来越重要的作用。然而，现有的物理基准仅使用给定的解决方案评估固定问题、孤立的子任务或纸质复制，很少检查研究质量和正确性。我们引入了FrontierPhysics ，...",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "http://arxiv.org/abs/2611.06910v1",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "AI论文",
+      "title": "Perceptive Humanoid Motion from Simulation",
+      "title_cn": "从模拟中感知人形运动",
+      "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data ex...",
+      "summary_cn": "人形机器人具有自动化各种物理任务的潜力。然而，通才人形自主的进展仍然受到数据瓶颈的限制：将像素和自由形式语言映射到低级联合命令需要配对监督，并且没有此类数据的语料库...",
+      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
+      "url": "http://arxiv.org/abs/2611.06908v1",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "title_cn": "据报道，苹果正在削减其内部人工智能使用的预算",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "summary_cn": "据说该公司正在大幅削减其工程团队在人工智能方面的支出。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "新产品",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "title_cn": "AI PAC花费数百万美元试图塑造国会—以下是他们的表现",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "summary_cn": "人工智能行业PAC花费数百万美元影响了2026年中期选举，结果喜忧参半。政治团体已经在期待下一个选举周期。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "新产品",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "title_cn": "首席执行官没有说公司神秘的人工智能优先设备将在下个月下架",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "summary_cn": "虽然目前尚不清楚这家智能手机初创公司正在酝酿什么样的产品，但Nothing的首席执行官表示，该产品旨在利用人工智能来提高生产力。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "行业热点",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "title_cn": "Qualcomm Cloud AI 100 Ultra – 150W AI加速器卡， 128GB ， 548GB/s",
+      "summary": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "summary_cn": "Qualcomm Cloud AI 100 Ultra – 150W AI加速器卡， 128GB ， 548GB/s",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News",
+      "date": "2026-11-04"
+    },
+    {
+      "category": "行业热点",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "title_cn": "Ripple-65B预览：美国开放式权重SOTA代理编码",
+      "summary": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "summary_cn": "Ripple-65B预览：美国开放式权重SOTA代理编码",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "date": "2026-11-04"
+    }
+  ]
+}
