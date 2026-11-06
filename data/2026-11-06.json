@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "awesome-free-ai",
+      "title_cn": "很棒的免费人工智能",
+      "summary": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to date.",
+      "summary_cn": "免费的开源人工智能工具，您可以自己运行，通过设置工作，无论您是否可以销售您构建的内容，以及它运行的内容。始终保持最新。",
+      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
+      "url": "https://github.com/vinjivani777/awesome-free-ai",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "技术动态",
+      "title": "willitrun",
+      "title_cn": "威利特伦",
+      "summary": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
+      "summary_cn": "检查您的电脑实际上可以运行哪些AI模型，以及运行的速度。自动检测您的GPU、VRAM和RAM。100%离线。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/KentSimon07/willitrun",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_cn": "SwarmEvolve ：用于进化发现和优化的潜在代理群",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep...",
+      "summary_cn": "LLM引导的进化搜索使用AI代理通过迭代细化解决方案并结合高分方法来改进数学和计算问题的程序。然而，这个过程往往是缓慢的，因为LLM为每轮产生了很长的文本思维链，并且必须代表...",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "title_cn": "科学家世界：为人工智能科学家创造一个研究世界",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea...",
+      "summary_cn": "人工智能科学家到来，但一个让他们成长的世界却没有到来。人类科学家理所当然地认为他们有$ - $个世纪的开放问题和共同的想法，在科学文献中等待。对于人工智能科学家来说，这个世界是可读的，但不是可运行的，所以我们为他们建立了科学家世界：每一个海域...",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "AI论文",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "title_cn": "XStack ： ML回购迁移的基准",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1...",
+      "summary_cn": "机器学习代码应该在研究人员选择的地方运行，而不是在最初编写的地方运行。如今，机器学习代码主要存在于两个生态系统中： NVIDIA GPU上的PyTorch和Google TPU上的JAX。在它们之间迁移存储库意味着跨框架和硬件构建和测试。此迁移是(1...",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "新产品",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "title_cn": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "summary_cn": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "新产品",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "title_cn": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "summary_cn": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "新产品",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "title_cn": "Serve Robotics推出新业务，成为面向机器人的AWS",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "summary_cn": "Serve Robotics在其第三季度财报中宣布，它将推出一个名为Physical AI Services的新业务线，为客户提供其连接和数据工具。",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "date": "2026-11-05"
+    },
+    {
+      "category": "行业热点",
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "title_cn": "我很难相信人工智能研发是巧妙的",
+      "summary": "I struggle to believe that AI R&D is ingenious",
+      "summary_cn": "我很难相信人工智能研发是巧妙的",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "source": "Hacker News",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "title_cn": "Nvidia Kubernetes引擎(NVKE)",
+      "summary": "Nvidia Kubernetes Engine (NVKE)",
+      "summary_cn": "Nvidia Kubernetes引擎(NVKE)",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "source": "Hacker News",
+      "date": "2026-11-06"
+    }
+  ]
+}
