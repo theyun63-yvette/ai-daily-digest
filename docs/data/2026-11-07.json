@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-07",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "willitrun",
+      "title_cn": "威利特伦",
+      "summary": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
+      "summary_cn": "检查您的电脑实际上可以运行哪些AI模型，以及运行的速度。自动检测您的GPU、VRAM和RAM。100%离线。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/KentSimon07/willitrun",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "技术动态",
+      "title": "tensor-station-144",
+      "title_cn": "张量站-144",
+      "summary": "Ryan Vo | Work in progress: tensor-station-144",
+      "summary_cn": "Ryan Vo |进行中的工作：张量站-144",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/tensor-station-144",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "AI论文",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_cn": "SwarmEvolve ：用于进化发现和优化的潜在代理群",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep...",
+      "summary_cn": "LLM引导的进化搜索使用AI代理通过迭代细化解决方案并结合高分方法来改进数学和计算问题的程序。然而，这个过程往往是缓慢的，因为LLM为每轮产生了很长的文本思维链，并且必须代表...",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "AI论文",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "title_cn": "科学家世界：为人工智能科学家创造一个研究世界",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea...",
+      "summary_cn": "人工智能科学家到来，但一个让他们成长的世界却没有到来。人类科学家理所当然地认为他们有$ - $个世纪的开放问题和共同的想法，在科学文献中等待。对于人工智能科学家来说，这个世界是可读的，但不是可运行的，所以我们为他们建立了科学家世界：每一个海域...",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "AI论文",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "title_cn": "XStack ： ML回购迁移的基准",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1...",
+      "summary_cn": "机器学习代码应该在研究人员选择的地方运行，而不是在最初编写的地方运行。如今，机器学习代码主要存在于两个生态系统中： NVIDIA GPU上的PyTorch和Google TPU上的JAX。在它们之间迁移存储库意味着跨框架和硬件构建和测试。此迁移是(1...",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "新产品",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "title_cn": "从前排到热门席位—期中考试对大型科技公司意味着什么",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "summary_cn": "在与白宫相处了两年之后，大型科技公司突然试图与民主党人交朋友，而悬而未决的问题是，这种形象改造是否可以抵御各州、当地社区和市场即将采取的行动。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "新产品",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_cn": "Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "summary_cn": "这笔交易凸显了开发大规模人工智能数据中心的挑战。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "新产品",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_cn": "据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "summary_cn": "据报道，作为一轮融资的一部分， OpenAI又筹集了110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-11-06"
+    },
+    {
+      "category": "行业热点",
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "title_cn": "与知名股市崩盘相比的人工智能抛售",
+      "summary": "The AI sell-off compared to well-known stock market crashes",
+      "summary_cn": "与知名股市崩盘相比的人工智能抛售",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "Hacker News",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI is dramatically accelerating AI research",
+      "title_cn": "人工智能正在大大加速人工智能研究",
+      "summary": "AI is dramatically accelerating AI research",
+      "summary_cn": "人工智能正在大大加速人工智能研究",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News",
+      "date": "2026-11-06"
+    }
+  ]
+}
