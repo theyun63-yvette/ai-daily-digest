@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "willitrun",
+      "title_cn": "willitrun",
+      "summary": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
+      "summary_cn": "检查您的电脑实际上可以运行哪些AI模型，以及运行的速度。自动检测您的GPU、VRAM和RAM。100%离线。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/KentSimon07/willitrun",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-pilot-144",
+      "title_cn": "axiom-pilot-144",
+      "summary": "Ryan Vo | Work in progress: axiom-pilot-144",
+      "summary_cn": "Ryan Vo |在建工程： axiom-pilot-144",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/axiom-pilot-144",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "AI论文",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "title_cn": "SwarmEvolve ：用于进化发现和优化的潜在代理群",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep...",
+      "summary_cn": "LLM引导的进化搜索使用AI代理通过迭代细化解决方案并结合高分方法来改进数学和计算问题的程序。然而，这个过程往往是缓慢的，因为LLM为每轮产生了很长的文本思维链，并且必须代表...",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "AI论文",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "title_cn": "科学家世界：为人工智能科学家创造一个研究世界",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea...",
+      "summary_cn": "人工智能科学家到来，但一个让他们成长的世界却没有到来。人类科学家理所当然地认为他们有$ - $个世纪的开放问题和共同的想法，在科学文献中等待。对于人工智能科学家来说，这个世界是可读的，但不是可运行的，所以我们为他们建立了科学家世界：每一个海域...",
+      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "AI论文",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "title_cn": "XStack ： ML回购迁移的基准",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1...",
+      "summary_cn": "机器学习代码应该在研究人员选择的地方运行，而不是在最初编写的地方运行。如今，机器学习代码主要存在于两个生态系统中： NVIDIA GPU上的PyTorch和Google TPU上的JAX。在它们之间迁移存储库意味着跨框架和硬件构建和测试。此迁移是(1...",
+      "comment": "论文看着高大上，代码开源了吗？复现了吗？别光说不练。",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "新产品",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title_cn": "根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "summary_cn": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "新产品",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "title_cn": "从前排到热门席位—期中考试对大型科技公司意味着什么",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "summary_cn": "在与白宫相处了两年之后，大型科技公司突然试图与民主党人交朋友，而悬而未决的问题是，这种形象改造是否可以抵御各州、当地社区和市场即将采取的行动。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "新产品",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_cn": "Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "summary_cn": "这笔交易凸显了开发大规模人工智能数据中心的挑战。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "date": "2026-11-07"
+    },
+    {
+      "category": "行业热点",
+      "title": "Goodbye Claude, Hello Pi",
+      "title_cn": "再见， Claude ， Hello Pi",
+      "summary": "Goodbye Claude, Hello Pi",
+      "summary_cn": "再见， Claude ， Hello Pi",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "date": "2026-11-08"
+    },
+    {
+      "category": "行业热点",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "title_cn": "消费者脑电波耳机威胁隐私",
+      "summary": "Consumer brain wave headsets threaten privacy",
+      "summary_cn": "消费者脑电波耳机威胁隐私",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "source": "Hacker News",
+      "date": "2026-11-08"
+    }
+  ]
+}
