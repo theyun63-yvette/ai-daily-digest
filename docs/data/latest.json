@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
-    {
-      "category": "技术动态",
-      "title": "willitrun",
-      "title_cn": "威利特伦",
-      "summary": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
-      "summary_cn": "检查您的电脑实际上可以运行哪些AI模型，以及运行的速度。自动检测您的GPU、VRAM和RAM。100%离线。",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "https://github.com/KentSimon07/willitrun",
-      "date": "2026-11-09"
-    },
     {
       "category": "技术动态",
       "title": "linguaverse-ai",
       "title_cn": "语言世界-ai",
       "summary": "An AI-powered language learning platform with interactive lessons, games, progress tracking, and personalized learning experiences.",
-      "summary_cn": "由人工智能驱动的语言学习平台，提供交互式课程、游戏、进度跟踪和个性化学习体验。",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "summary_cn": "一个人工智能驱动的语言学习平台，提供互动课程、游戏、进度跟踪和个性化学习体验。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
       "url": "https://github.com/arish096/linguaverse-ai",
-      "date": "2026-11-09"
+      "date": "2026-11-10"
+    },
+    {
+      "category": "技术动态",
+      "title": "tensor-studio-144",
+      "title_cn": "张量工作室-144",
+      "summary": "Ryan Vo | Work in progress: tensor-studio-144",
+      "summary_cn": "瑞恩·沃 |正在进行中的工作：tensor-studio-144",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/tensor-studio-144",
+      "date": "2026-11-10"
     },
     {
       "category": "AI论文",
-      "title": "On Agentic Manipulation Policies",
-      "title_cn": "关于代理操纵策略",
-      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze age...",
-      "summary_cn": "最近关于机器人操纵的工作侧重于经过演示培训的专业政策。我们表明，与视觉语言行为模型（ VLA ）和世界行为模型（ WAM ）等专业策略相比，通才人工智能模型可以更可靠地控制操纵器。我们系统地分析年龄...",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "title_cn": "HiVe-Mem：多模式代理的交错水平内存扩展和垂直证据组合",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, whic...",
+      "summary_cn": "随着多模式代理积累越来越长的交互历史，有效检索和利用过去的信息对于长期交互变得至关重要。现有的记忆系统通常依赖于压缩记忆的语义检索并公开预定义的表示，这...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2611.12872v1",
+      "date": "2026-11-10"
+    },
+    {
+      "category": "AI论文",
+      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "title_cn": "捷径和边界：可验证的强化学习错位和情境安全学习",
+      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains fea...",
+      "summary_cn": "强化学习（RL）可以提高代理的任务能力，同时强化违反上下文执行要求的行为。我们通过可验证的奖励-上下文冲突来研究这种奖励驱动的错位，包括奖励黑客，其中合规任务完成仍然是可行的...",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "http://arxiv.org/abs/2611.12865v1",
+      "date": "2026-11-10"
+    },
+    {
+      "category": "AI论文",
+      "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+      "title_cn": "编程预见：预测机器人的人类构建问题",
+      "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopted, human builders will shoulder the work of building and evaluating them. In th...",
+      "summary_cn": "人工智能模型复杂推理能力的不断增强，使其成为有吸引力的预测工具，或者根据过去和现在的数据对未来进行系统预测。然而，如果采用人工智能预测系统，人类建设者将承担构建和评估它们的工作。在...",
       "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2611.09892v1",
-      "date": "2026-11-09"
-    },
-    {
-      "category": "AI论文",
-      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-      "title_cn": "CPU-ARC ：用于CPU上推理重用的代理推理缓存",
-      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very...",
-      "summary_cn": "大型语言模型一直在重新发明轮子。他们将任务解决与解决方案的执行混为一谈，这迫使他们从头开始解决每个问题。我们表明，一旦任务经过推理，其解决方案对新问题实例的应用就可以非常...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2611.09891v1",
-      "date": "2026-11-09"
-    },
-    {
-      "category": "AI论文",
-      "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
-      "title_cn": "测试时强化学习中多数投票伪标签的可靠性研究",
-      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its ...",
-      "summary_cn": "测试时间强化学习（ TTRL ）使用自生成的伪标签将预训练语言模型适应未标记的目标域数据，其可靠性仍然知之甚少。我们使用在线直接偏好优化（ DPO ）分析TTRL的多数票监督，并分解其...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2611.09872v1",
-      "date": "2026-11-09"
+      "url": "http://arxiv.org/abs/2611.12834v1",
+      "date": "2026-11-10"
     },
     {
       "category": "新产品",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "title_cn": "Jensen Huang的工作在线吗？耶鲁大学的杰弗里·索南菲尔德（ Jeffrey Sonnenfeld ）估计， “大约是50-50”",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "summary_cn": "英伟达董事会正在调查Jensen Huang与中国间谍嫌疑人的关系，耶鲁大学的Jeffrey Sonnenfeld认为，无论Huang是否继续担任首席执行官，这大概是一个硬币翻转。",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "title_cn": "Otter AI 现在可以跟踪 30 多种语言的对话",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "summary_cn": "Otter AI 刚刚添加了对 27 种语言的支持，并透露了一项即将推出的功能，如果说话者在语言之间切换，该功能也可以跟进。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "date": "2026-11-10"
+    },
+    {
+      "category": "新产品",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "title_cn": "加州提议的“亿万富翁税”未能通过",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+      "summary_cn": "据美联社周一报道，加州选民否决了 40 号提案，即对亿万富翁一次性征收 5% 的税。科技领袖们以大约 10 比 1 的比例击败了支持者，投票前接受 TechCrunch 采访的创始人和经济学家对于该法案是否会赶走富裕居民或只是削减他们的财富存在分歧。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "source": "TechCrunch",
+      "date": "2026-11-10"
+    },
+    {
+      "category": "新产品",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "title_cn": "黄仁勋所谓的蜜罐丑闻激发了一些顶级模因",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "summary_cn": "英伟达 (Nvidia) 黄仁勋 (Jensen Huang) 涉嫌蜜罐丑闻在互联网上掀起轩然大波。",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
       "source": "TechCrunch",
-      "date": "2026-11-09"
-    },
-    {
-      "category": "新产品",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "title_cn": "英伟达将调查首席执行官黄延森与可能的中国间谍的关系",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "summary_cn": "在给公司的一份备忘录中，黄承认自己有外遇。",
-      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "date": "2026-11-08"
-    },
-    {
-      "category": "新产品",
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "title_cn": "据报道，当Roelof Botha加入SpaceX董事会时，红杉合作伙伴被蒙蔽了双眼",
-      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "summary_cn": "一份新报告声称，红杉最近的变化取消了该公司前管理员的遗产。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "source": "TechCrunch",
-      "date": "2026-11-08"
+      "date": "2026-11-10"
     },
     {
       "category": "行业热点",
-      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-      "title_cn": "Show HN: Flide ：使类似Jev的决策模型速度提高9.5倍",
-      "summary": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models. Flide achieves up to a 9.5x speedup over vLLM and SGLang. It now supports 30+ popular local Jev-like decision models. Start to make your decision immediately: pip install flide",
-      "summary_cn": "决策模型需要自己的推理引擎。因此，我们开发了Flide ，这是一种适用于类似Jev的决策模型的高性能和精确推理引擎。FLIDE比vLLM和SGLang加速高达9.5倍。它现在支持30多个流行的类似Jev的本地决策模型。立即开始做出决定： pip install flide",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "https://github.com/OmniJev/Flide",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "title_cn": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
+      "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "summary_cn": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News",
-      "date": "2026-11-09"
+      "date": "2026-11-10"
     },
     {
       "category": "行业热点",
-      "title": "A Critique of GPUI",
-      "title_cn": "对GPUI的批判",
-      "summary": "A Critique of GPUI",
-      "summary_cn": "对GPUI的批判",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "title_cn": "Claude Fable 5.2 人工分析得分 65，迄今为止最高",
+      "summary": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "summary_cn": "Claude Fable 5.2 人工分析得分 65，迄今为止最高",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "source": "Hacker News",
       "date": "2026-11-09"
     }
