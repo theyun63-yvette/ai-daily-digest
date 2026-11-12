@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-12",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "UnoGPT",
+      "title_cn": "UnoGPT",
+      "summary": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.",
+      "summary_cn": "一款完全使用纯 Python 从零开始构建的 GPT。隆重推出 UnoGPT ，这是一款小型自建语言模型，旨在理解对话并解决日常算术问题。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/aryanshrai03/UnoGPT",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-station-144",
+      "title_cn": "axiom-station-144",
+      "summary": "Alan Vo | Work in progress: axiom-station-144",
+      "summary_cn": "Alan Vo | 进行中：axiom-station-144",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/ALANDVO/axiom-station-144",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "AI论文",
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "title_cn": "医学影像分割：基础模型适配与任务特定训练的比较",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whos...",
+      "summary_cn": "在大型自然图像集合上进行预训练的基础模型正越来越多地被用于医学图像分割，人们期望它们将取代为每个任务单独训练的模型。然而，大多数比较都使用来自训练分布的数据和一个单一的任务特定基线，该基线...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "AI论文",
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "title_cn": "通过 EM-DETR 中的基于实例的接地实现基础检测模型",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and th...",
+      "summary_cn": "基于深度学习 (DL) 的计算机辅助诊断 (CAD) 系统在为临床医生提供支持方面显示出巨大潜力，但其性能在很大程度上取决于是否有大量标注完善的数据集。在医学病灶检测中，全面、标准化的标注和...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "AI论文",
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "title_cn": "对比发现：针对相互竞争的解释进行开放式科学发现",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternati...",
+      "summary_cn": "LLM 智能体越来越多地用于开放式、数据驱动的科学发现，但大多数 LLM 智能体都逐点评估假设，仅将经验性主张 $h$ 与其补集 $\\neg h$ 进行比较。当证据否定$h$时，智能体了解到某一种解释不太可能成立，但不知道哪种替代解释更合理。...",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "新产品",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "title_cn": "谁能接替黄仁勋？一份极不科学的可能继任者名单",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "summary_cn": "英伟达没有继任计划，而且首席执行官正深陷困境，因此我们拟定了一份候选人名单。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "新产品",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_cn": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "summary_cn": "随着美国和中国竞相发展最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-11"
+    },
+    {
+      "category": "新产品",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "title_cn": "据报道，英伟达董事会正准备罢免首席执行官黄仁勋，该公司股价应声下跌",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "summary_cn": "最早在周三晚上，英伟达董事会就可能决定罢免其已任职33年的创始人兼首席执行官。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "date": "2026-11-11"
+    },
+    {
+      "category": "行业热点",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "title_cn": "93% 的颜料飞溅是有效的 Perl 程序（2019 年）",
+      "summary": "93% of paint splatters are valid Perl programs (2019)",
+      "summary_cn": "93% 的颜料飞溅是有效的 Perl 程序（2019 年）",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "source": "Hacker News",
+      "date": "2026-11-11"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "title_cn": "英伟达正准备罢免黄仁勋",
+      "summary": "Nvidia is preparing to oust Jensen Huang",
+      "summary_cn": "英伟达正准备罢免黄仁勋",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "source": "Hacker News",
+      "date": "2026-11-11"
+    }
+  ]
+}
