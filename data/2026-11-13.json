@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "UnoGPT",
+      "title_cn": "乌诺GPT",
+      "summary": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.",
+      "summary_cn": "一款完全使用纯 Python 从头开始构建的 GPT。隆重推出 UnoGPT ，这是一款小型自建语言模型，旨在理解对话并解决日常算术问题。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/aryanshrai03/UnoGPT",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-station-144",
+      "title_cn": "公理站-144",
+      "summary": "Alan Vo | Work in progress: axiom-station-144",
+      "summary_cn": "Alan Vo | 进行中：axiom-station-144",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/ALANDVO/axiom-station-144",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "title_cn": "AgentSSL：MLE 代理是否可以利用未标记的数据？",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested ...",
+      "summary_cn": "将机器学习系统应用于新领域，会在有标签数据采集和手动管道工程方面带来瓶颈。虽然最近的机器学习工程（MLE）代理在自动化管道设计方面表现出良好前景，但它们几乎只在完全监督的环境中得到研究，因此尚未经过测试。...",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "title_cn": "CoReMem：用于具有前瞻性评估的连续编码任务的成本内化记忆",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting o...",
+      "summary_cn": "编码代理在一个不断演变的存储库上处理连续的任务，在知道下一个任务之前，先将编辑内容和写入内存延续下去。为未知的后续任务选择记忆需要权衡其未来效用与写入和读取记忆的成本。行为体还必须决定何时采取行动。...",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "AI论文",
+      "title": "Sketching Language Models for Context Attribution",
+      "title_cn": "为上下文归因勾勒语言模型",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorit...",
+      "summary_cn": "上下文归因探究的是，移除提示的部分内容如何改变语言模型的输出。我们研究了对于包含 $n$ 个标记的提示和固定测量函数的留一法（LOO）归因。直接计算所有LOO值需要进行$n$次模型评估。在稳定性假设下，我们的算法...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "title_cn": "民主党人发起对Nvidia的调查，就黄仁勋与特朗普的“勾当”撰写措辞严厉的信函",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "summary_cn": "这是自所谓间谍事件的消息曝出以来，迄今为止对英伟达在中国销售情况及其与特朗普的往来进行的第二次国会调查。",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "新产品",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "title_cn": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "summary_cn": "Muse 的人工智能现在可以向美国企业拨打出站电话，但这不是免费的。",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "新产品",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_cn": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "summary_cn": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "行业热点",
+      "title": "Scientists claim the universe is twice as old as believed",
+      "title_cn": "科学家声称宇宙的年龄比人们认为的要大一倍",
+      "summary": "Scientists claim the universe is twice as old as believed",
+      "summary_cn": "科学家声称宇宙的年龄比人们认为的要大一倍",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "source": "Hacker News",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+      "title_cn": "美国新车平均价格创历史新高：超过5.1万美元",
+      "summary": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+      "summary_cn": "美国新车平均售价创历史新高：超过5.1万美元",
+      "comment": "性能提升显著，能耗和成本呢？多维度权衡才是真实世界。",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+      "source": "Hacker News",
+      "date": "2026-11-13"
+    }
+  ]
+}
