@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-14",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "UnoGPT",
+      "title_cn": "乌诺GPT",
+      "summary": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.",
+      "summary_cn": "使用纯 Python 从头开始​​构建的 GPT。 UnoGPT 是一个小型的自建语言模型，旨在理解对话和解决日常算术。",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://github.com/aryanshrai03/UnoGPT",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "技术动态",
+      "title": "NeuroShaqma",
+      "title_cn": "神经沙克玛",
+      "summary": "小沙大脑：288,964 神经元脉冲皮层（果蝇 2.07x/4.16x），12 岁初中生在家用 2080Ti+4090 做的 SNN，主力开发 DeepSeek-V4-Pro",
+      "summary_cn": "小沙大脑：288,964神经元脉冲皮层（果蝇2.07x/4.16x），12岁初中生在家用2080Ti+4090做的SNN，主力开发DeepSeek-V4-Pro",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://github.com/haoqinhe8-boop/NeuroShaqma",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "title_cn": "AgentSSL：MLE 代理可以利用未标记的数据吗？",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested ...",
+      "summary_cn": "将机器学习系统应用于新领域会在标记数据采集和手动管道工程中引入瓶颈。虽然最近的 MLE 代理在自动化管道设计方面表现出了希望，但它们几乎完全是在完全监督的环境中进行研究的，因此未经测试...",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "title_cn": "CoReMem：具有前瞻性评估的连续编码任务的成本内部化内存",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting o...",
+      "summary_cn": "编码代理在不断发展的存储库中处理连续的任务，在知道下一个任务之前进行编辑并写入内存。为未知的下一个任务选择内存需要平衡未来的有用性和写入和读取的成本。演员在表演时也必须做出决定...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "AI论文",
+      "title": "Sketching Language Models for Context Attribution",
+      "title_cn": "绘制上下文归因的语言模型",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorit...",
+      "summary_cn": "上下文归因询问删除部分提示如何改变语言模型的输出。我们研究了 $n$ 代币提示和固定测量函数的留一法 (LOO) 归因。直接计算所有 LOO 值需要 $n$ 模型评估。在稳定性假设下，我们的算法...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "新产品",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "title_cn": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "summary_cn": "英伟达向黄仁勋领导下的人工智能初创公司投入了数百亿美元。没有他的掌舵，创始人和风险投资公司将面临较小的支票和较低的估值。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "title_cn": "“由于特殊情况”，美国政府停飞全美所有航班",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "summary_cn": "美国联邦航空局的一位发言人告诉 TechCrunch，“在影响管理美国空域的多个航线交通控制中心的通信问题之后”，该局发布了地面停车令。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "source": "TechCrunch",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "新产品",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "title_cn": "AI代理初创公司LangChain估值达到30亿美元",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "summary_cn": "LangChain 目前声称其模型和平台无关的代理管理工具 LangSmith 拥有 7,000 名客户。",
+      "comment": "开源阵营再下一城，光看参数没用，能跑起来、好不好用才是关键。",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "title_cn": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+      "summary": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "summary_cn": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "行业热点",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "title_cn": "Nvidia 董事在黄仁勋丑闻发生前几周出售了近 10 亿美元的股票",
+      "summary": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "summary_cn": "Nvidia 董事在黄仁勋丑闻发生前几周出售了近 10 亿美元的股票",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "source": "Hacker News",
+      "date": "2026-11-14"
+    }
+  ]
+}
