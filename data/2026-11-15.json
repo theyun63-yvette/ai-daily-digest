@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "ZehenSync",
+      "title_cn": "泽恩同步",
+      "summary": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
+      "summary_cn": "ZehenSync：一个面向患者、心理学家和心理学学生的心理健康多模态筛查支持平台。它只进行筛查，绝不做出诊断——每次诊断都由持证心理师做出。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/Hamzaviour/ZehenSync",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "技术动态",
+      "title": "UnoGPT",
+      "title_cn": "乌诺GPT",
+      "summary": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.",
+      "summary_cn": "一款完全使用纯 Python 从头开始构建的 GPT。隆重推出 UnoGPT ，这是一款小型自建语言模型，旨在理解对话并解决日常算术问题。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://github.com/aryanshrai03/UnoGPT",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "title_cn": "AgentSSL：MLE 代理是否可以利用未标记的数据？",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested ...",
+      "summary_cn": "将机器学习系统应用于新领域，会在有标签数据采集和手动管道工程方面带来瓶颈。虽然最近的 MLE 代理在自动化管道设计方面表现出良好前景，但它们几乎只在完全监督的环境中得到研究，因此尚未经过测试。...",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "title_cn": "CoReMem：用于具有前瞻性评估的连续编码任务的成本内化记忆",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting o...",
+      "summary_cn": "编码代理在一个不断演变的存储库上处理连续的任务，在知道下一个任务之前，先将编辑内容和写入的记忆延续下去。为未知后续任务选择记忆需要权衡其未来效用与写入和读取记忆的成本。行动者还必须决定何时采取行动。...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "AI论文",
+      "title": "Sketching Language Models for Context Attribution",
+      "title_cn": "为上下文归因勾勒语言模型",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorit...",
+      "summary_cn": "上下文归因旨在探究移除提示的部分内容如何改变语言模型的输出。我们研究了对于包含 $n$ 个标记的提示和固定测量函数的留一法（LOO）归因。直接计算所有LOO值需要进行$n$次模型评估。在稳定性假设下，我们的算法...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Where was Nvidia’s security team?",
+      "title_cn": "Nvidia 的安全团队在哪里？",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "summary_cn": "英伟达的安全主管于8月份悄然离职，而今首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司的某位高管的关系。一位前情报官员表示，这是一种在日常对话中发生的泄密，大多数公司的安全团队都缺乏应对此类泄密的手段。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "新产品",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "title_cn": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "summary_cn": "截至周六下午，该请愿书已获得超过11.5万个签名。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "新产品",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "title_cn": "特斯拉开放“个人使用”的Cybercab预订，但有地域限制，且每月需支付299美元的费用",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "summary_cn": "就连埃隆·马斯克也表示，月费“太高了”。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "行业热点",
+      "title": "Kiri – The Modern Container Runtime",
+      "title_cn": "Kiri – 现代容器运行时",
+      "summary": "Kiri – The Modern Container Runtime",
+      "summary_cn": "Kiri – 现代容器运行时",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://runkiri.com/",
+      "source": "Hacker News",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "行业热点",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "title_cn": "Show HN：Gawain – 要求所有Python变量都提供类型提示",
+      "summary": "Yes, i really hate \"dict[str, ANY]\"",
+      "summary_cn": "是的，我真的很讨厌“dict[str, ANY]”。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "date": "2026-11-15"
+    }
+  ]
+}
