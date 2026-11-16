@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-16",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "ZehenSync",
+      "title_cn": "泽恩同步",
+      "summary": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
+      "summary_cn": "ZehenSync：一个多模态心理健康筛查支持平台，专为患者、心理学家和心理学学生打造。它只进行筛查，绝不做出诊断——每次诊断都由持证心理师做出。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/Hamzaviour/ZehenSync",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "技术动态",
+      "title": "UnoGPT",
+      "title_cn": "乌诺GPT",
+      "summary": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.",
+      "summary_cn": "一款完全使用纯 Python 从零开始构建的 GPT。认识一下 UnoGPT ，这是一款小型自建语言模型，旨在理解对话并解决日常算术问题。",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://github.com/aryanshrai03/UnoGPT",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "title_cn": "WeightBench：将语言模型评估为权重空间编程器",
+      "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight...",
+      "summary_cn": "最近的研究表明，大型语言模型（LLM）可以直接对其他神经网络的参数进行操作。它们可以读取网络经过训练要执行的任务，修复出现故障的网络，并从头开始编写正常工作的网络，所有这些都不需要梯度下降。这种能力被称为权重...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.18553v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+      "title_cn": "模仿式自举多智能体强化学习",
+      "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behav...",
+      "summary_cn": "示范是一种加速单智能体强化学习 (RL) 的有效方法，但将这一思想扩展到多智能体强化学习 (MARL) 并非易事，因为单个人同时遥控多个智能体既困难又往往不可能。循环行为...",
+      "comment": "开源是好事，能不能用起来、改起来，才是衡量价值的标准。",
+      "url": "http://arxiv.org/abs/2611.18543v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "AI论文",
+      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+      "title_cn": "椭圆采样：高斯分布及其他分布的最佳插值方案",
+      "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discre...",
+      "summary_cn": "基于随机插值的生成建模需要指定两个关键选择：一个连接初始分布和目标分布的插值调度，以及对由此产生的概率流ODE进行高效的离散化。在本文中，我们介绍了一种用于联合调度/离散的新框架。...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.18542v1",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "title_cn": "Helsing的投资方Plural筹集11亿美元，为欧洲的下一个“登月计划”提供资金",
+      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+      "summary_cn": "由运营者主导的风险投资公司Plural已筹集了10亿欧元（11亿美元）的新资本，加入了日益壮大的大型欧洲基金行列，该行列还包括Mundi Ventures的Kembara和由EQT管理的Scaleup Europe Fund。",
+      "comment": "法规来了，短期阵痛难免，长期看是行业走向成熟的必经之路。",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple launches new app to study how people use AI for health",
+      "title_cn": "苹果推出新应用，研究人们如何使用人工智能来管理健康",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "summary_cn": "苹果公司的新研究应用程序将回答日常医疗问题",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "新产品",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "title_cn": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "summary_cn": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司（包括通用原子能公司）的设计认可。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "行业热点",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "title_cn": "面对持续的DDoS攻击，Tor项目发布快速响应的DoS防御补丁",
+      "summary": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "summary_cn": "面对持续的DDoS攻击，Tor项目发布快速响应的DoS防御补丁",
+      "comment": "商业化产品发布，先看定价策略，再决定要不要入坑。",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "行业热点",
+      "title": "What's Next for Nvidia?",
+      "title_cn": "英伟达接下来会怎样？",
+      "summary": "What's Next for Nvidia?",
+      "summary_cn": "英伟达接下来会怎样？",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "Hacker News",
+      "date": "2026-11-15"
+    }
+  ]
+}
