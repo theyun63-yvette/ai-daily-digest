@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "category": "技术动态",
+      "title": "ZehenSync",
+      "title_cn": "泽恩同步",
+      "summary": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
+      "summary_cn": "ZehenSync：一个面向患者、心理学家和心理学学生的心理健康多模态筛查支持平台。它只进行筛查，绝不做出诊断——每次诊断都由持证心理师做出。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/Hamzaviour/ZehenSync",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "技术动态",
+      "title": "axiom-station-144",
+      "title_cn": "公理站-144",
+      "summary": "Alan Vo | Work in progress: axiom-station-144",
+      "summary_cn": "Alan Vo | 进行中：axiom-station-144",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://github.com/ALANDVO/axiom-station-144",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "title_cn": "环境大语言模型：通过温度匹配实现数据高效的监督微调",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrop...",
+      "summary_cn": "为自回归语言模型收集大规模、多样化和高质量的后训练数据集具有挑战性。因此，监督式微调（SFT）通常应用于比用于预训练的数据集小得多的数据集，这会导致过拟合和灾难性遗忘。...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "title_cn": "StringQFT：用于人工智能辅助理论物理学的多用途教材资源",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory construction...",
+      "summary_cn": "我们推出StringQFT，作为量子场论弦构造的教科书集，以及人工智能辅助理论物理的基础设施。该丛书共18卷、190章、3795页，内容涵盖膜探测、膜网、几何工程、F理论构造...",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "AI论文",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "title_cn": "是否仍需要告诉 LLM 代理如何自我改进？",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-im...",
+      "summary_cn": "LLM 代理日益推动自身的学习。自我改进方法将模型优化的各种组成部分委派给模型本身。随着模型能力不断增强，这引发了一个基本问题：这些能力日益增强的模型是否还需要我们来指定它们应该如何自我改进？...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "新产品",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "title_cn": "英伟达的初创企业投资额飙升至650亿美元，但黄仁勋的退出让未来的交易蒙上阴影",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "summary_cn": "在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及其现有投资组合公司的估值不断攀升。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "新产品",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "title_cn": "英伟达承诺，目前营收将继续飙升",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "summary_cn": "尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，英伟达陷入了动荡，但该公司预计其创纪录的营收势头不会就此止步。",
+      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "新产品",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "title_cn": "在黄仁勋被罢免后，Nvidia 正撤离中国",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "summary_cn": "英伟达的临时首席执行官表示，该公司已停止向中国销售芯片。这会造成多大损失？",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "行业热点",
+      "title": "AI is killing All About Berlin",
+      "title_cn": "人工智能正在扼杀《柏林万象》",
+      "summary": "AI is killing All About Berlin",
+      "summary_cn": "人工智能正在扼杀《柏林万象》",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "Hacker News",
+      "date": "2026-11-18"
+    },
+    {
+      "category": "行业热点",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "title_cn": "为什么 Gemini 4 Carbon 需要这么长时间？",
+      "summary": "Why is Gemini 4 Carbon taking so long?",
+      "summary_cn": "为什么 Gemini 4 Carbon 需要这么长时间？",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "source": "Hacker News",
+      "date": "2026-11-18"
+    }
+  ]
+}
