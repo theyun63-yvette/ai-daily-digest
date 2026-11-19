@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
       "category": "技术动态",
-      "title": "ZehenSync",
-      "title_cn": "泽恩同步",
-      "summary": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
-      "summary_cn": "ZehenSync：一个面向患者、心理学家和心理学学生的心理健康多模态筛查支持平台。它只进行筛查，绝不做出诊断——每次诊断都由持证心理师做出。",
+      "title": "lumen-station-145",
+      "title_cn": "流明站-145",
+      "summary": "Ryan Vo | Work in progress: lumen-station-145",
+      "summary_cn": "Ryan Vo | 进行中的作品：lumen-station-145",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/Hamzaviour/ZehenSync",
-      "date": "2026-11-18"
+      "url": "https://github.com/A220man/lumen-station-145",
+      "date": "2026-11-19"
     },
     {
       "category": "技术动态",
-      "title": "axiom-station-144",
-      "title_cn": "公理站-144",
-      "summary": "Alan Vo | Work in progress: axiom-station-144",
-      "summary_cn": "Alan Vo | 进行中：axiom-station-144",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://github.com/ALANDVO/axiom-station-144",
-      "date": "2026-11-18"
+      "title": "axiom-lab-146",
+      "title_cn": "公理实验室-146",
+      "summary": "Ryan Vo | Work in progress: axiom-lab-146",
+      "summary_cn": "Ryan Vo | 进行中：axiom-lab-146",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://github.com/A220man/axiom-lab-146",
+      "date": "2026-11-19"
     },
     {
       "category": "AI论文",
-      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "title_cn": "环境大语言模型：通过温度匹配实现数据高效的监督微调",
-      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrop...",
-      "summary_cn": "为自回归语言模型收集大规模、多样化和高质量的后训练数据集具有挑战性。因此，监督式微调（SFT）通常应用于比用于预训练的数据集小得多的数据集，这会导致过拟合和灾难性遗忘。...",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "http://arxiv.org/abs/2611.23229v1",
-      "date": "2026-11-18"
+      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "title_cn": "了解您所知：关于人类-人工智能认知系统中审阅者价值的特质理论",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We de...",
+      "summary_cn": "当一个有能力的模型和一名人类审核员就同一项决策进行合作时，哪位人类审核员仍然能够增添价值？我们认为，这是一个关于单一认知特征的问题，即元认知校准：审核员的行为信心与其判断的实际正确性之间的一致性。我们...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "date": "2026-11-19"
     },
     {
       "category": "AI论文",
-      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-      "title_cn": "StringQFT：用于人工智能辅助理论物理学的多用途教材资源",
-      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory construction...",
-      "summary_cn": "我们推出StringQFT，作为量子场论弦构造的教科书集，以及人工智能辅助理论物理的基础设施。该丛书共18卷、190章、3795页，内容涵盖膜探测、膜网、几何工程、F理论构造...",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "http://arxiv.org/abs/2611.23225v1",
-      "date": "2026-11-18"
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "title_cn": "绘制人工智能供应链图谱：人工智能生态系统中的依赖性、脆弱性和市场集中度",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus ...",
+      "summary_cn": "人工智能系统由许多组织共同构建，这些组织提供模型、数据、计算能力、资本、人才和其他资产。虽然人们对人工智能技术栈的各层已有相对深入的了解，但各层参与者和组件之间的关系仍鲜有文献记载。在本文中，我们重点关注...",
+      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "date": "2026-11-19"
     },
     {
       "category": "AI论文",
-      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "title_cn": "是否仍需要告诉 LLM 代理如何自我改进？",
-      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-im...",
-      "summary_cn": "LLM 代理日益推动自身的学习。自我改进方法将模型优化的各种组成部分委派给模型本身。随着模型能力不断增强，这引发了一个基本问题：这些能力日益增强的模型是否还需要我们来指定它们应该如何自我改进？...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2611.23219v1",
-      "date": "2026-11-18"
-    },
-    {
-      "category": "新产品",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "title_cn": "英伟达的初创企业投资额飙升至650亿美元，但黄仁勋的退出让未来的交易蒙上阴影",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "summary_cn": "在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及其现有投资组合公司的估值不断攀升。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "source": "TechCrunch",
-      "date": "2026-11-18"
-    },
-    {
-      "category": "新产品",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "title_cn": "英伟达承诺，目前营收将继续飙升",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "summary_cn": "尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，英伟达陷入了动荡，但该公司预计其创纪录的营收势头不会就此止步。",
-      "comment": "基准测试成绩亮眼，但测试集和实际场景是两码事，别被数字忽悠。",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch",
-      "date": "2026-11-18"
-    },
-    {
-      "category": "新产品",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "title_cn": "在黄仁勋被罢免后，Nvidia 正撤离中国",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "summary_cn": "英伟达的临时首席执行官表示，该公司已停止向中国销售芯片。这会造成多大损失？",
+      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "title_cn": "Agentic Harness Engineering Beta：以需求为中心的Agent Harness演进",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmar...",
+      "summary_cn": "现实世界的线束工程由显性和隐性用户需求驱动，这些需求指导着开发和验证工作。然而，现有的线束演化方法往往忽视隐式要求和交互需求，同时使用单一演化代理来修改线束和基准。...",
       "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "title_cn": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "summary_cn": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案的原因，这实际上是在敦促他们自愿离职，而不是通过另一次大规模裁员来削减员工队伍。简短的答案是人工智能，但并不是你想象的那样。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
-      "date": "2026-11-17"
+      "date": "2026-11-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "title_cn": "埃隆·马斯克表示：“我不是MAGA。”",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "summary_cn": "埃隆·马斯克周三在《纽约时报》的DealBook峰会上亮相时表示，他不确定“MAGA”一词的含义，并表示他觉得在美国中期选举期间花费这么多钱“相当愚蠢”。",
+      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "新产品",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "title_cn": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "summary_cn": "微软首席执行官淡化了最近的Outlook宕机事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "date": "2026-11-18"
     },
     {
       "category": "行业热点",
-      "title": "AI is killing All About Berlin",
-      "title_cn": "人工智能正在扼杀《柏林万象》",
-      "summary": "AI is killing All About Berlin",
-      "summary_cn": "人工智能正在扼杀《柏林万象》",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "title_cn": "Ruby2ßhell：原生Rails上的预身份验证RCE",
+      "summary": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "summary_cn": "Ruby2ßhell：Rails 默认配置的预身份验证 RCE",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "url": "https://verialabs.com/ruby2shell/",
       "source": "Hacker News",
-      "date": "2026-11-18"
+      "date": "2026-11-19"
     },
     {
       "category": "行业热点",
-      "title": "Why is Gemini 4 Carbon taking so long?",
-      "title_cn": "为什么 Gemini 4 Carbon 需要这么长时间？",
-      "summary": "Why is Gemini 4 Carbon taking so long?",
-      "summary_cn": "为什么 Gemini 4 Carbon 需要这么长时间？",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "title_cn": "Gemini 4 Neon看起来像是Opus 5.5的竞争对手",
+      "summary": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "summary_cn": "Gemini 4 Neon 看起来像是 Opus 5.5 的竞争对手",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
       "source": "Hacker News",
-      "date": "2026-11-18"
+      "date": "2026-11-19"
     }
   ]
 }
