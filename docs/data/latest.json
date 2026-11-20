@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
       "category": "技术动态",
-      "title": "lumen-station-145",
-      "title_cn": "流明站-145",
-      "summary": "Ryan Vo | Work in progress: lumen-station-145",
-      "summary_cn": "Ryan Vo | 进行中的作品：lumen-station-145",
+      "title": "lumen-lab-147",
+      "title_cn": "流明实验室-147",
+      "summary": "Alan Vo | Work in progress: lumen-lab-147",
+      "summary_cn": "Alan Vo | 进行中：lumen-lab-147",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/A220man/lumen-station-145",
-      "date": "2026-11-19"
+      "url": "https://github.com/ALANDVO/lumen-lab-147",
+      "date": "2026-11-20"
     },
     {
       "category": "技术动态",
-      "title": "axiom-lab-146",
-      "title_cn": "公理实验室-146",
-      "summary": "Ryan Vo | Work in progress: axiom-lab-146",
-      "summary_cn": "Ryan Vo | 进行中：axiom-lab-146",
+      "title": "nexus-studio-145",
+      "title_cn": "Nexus-studio-145",
+      "summary": "Alan Vo | Work in progress: nexus-studio-145",
+      "summary_cn": "Alan Vo | 进行中：nexus-studio-145",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/A220man/axiom-lab-146",
-      "date": "2026-11-19"
+      "url": "https://github.com/ALANDVO/nexus-studio-145",
+      "date": "2026-11-20"
     },
     {
       "category": "AI论文",
-      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-      "title_cn": "了解您所知：关于人类-人工智能认知系统中审阅者价值的特质理论",
-      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We de...",
-      "summary_cn": "当一个有能力的模型和一名人类审核员就同一项决策进行合作时，哪位人类审核员仍然能够增添价值？我们认为，这是一个关于单一认知特征的问题，即元认知校准：审核员的行为信心与其判断的实际正确性之间的一致性。我们...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2611.24932v1",
-      "date": "2026-11-19"
-    },
-    {
-      "category": "AI论文",
-      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-      "title_cn": "绘制人工智能供应链图谱：人工智能生态系统中的依赖性、脆弱性和市场集中度",
-      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus ...",
-      "summary_cn": "人工智能系统由许多组织共同构建，这些组织提供模型、数据、计算能力、资本、人才和其他资产。虽然人们对人工智能技术栈的各层已有相对深入的了解，但各层参与者和组件之间的关系仍鲜有文献记载。在本文中，我们重点关注...",
-      "comment": "又是一个「史上最强」，基准测试刷得飞起，实际应用场景待检验。",
-      "url": "http://arxiv.org/abs/2611.24927v1",
-      "date": "2026-11-19"
-    },
-    {
-      "category": "AI论文",
-      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-      "title_cn": "Agentic Harness Engineering Beta：以需求为中心的Agent Harness演进",
-      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmar...",
-      "summary_cn": "现实世界的线束工程由显性和隐性用户需求驱动，这些需求指导着开发和验证工作。然而，现有的线束演化方法往往忽视隐式要求和交互需求，同时使用单一演化代理来修改线束和基准。...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "http://arxiv.org/abs/2611.24924v1",
-      "date": "2026-11-19"
-    },
-    {
-      "category": "新产品",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "title_cn": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "summary_cn": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案的原因，这实际上是在敦促他们自愿离职，而不是通过另一次大规模裁员来削减员工队伍。简短的答案是人工智能，但并不是你想象的那样。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch",
-      "date": "2026-11-19"
-    },
-    {
-      "category": "新产品",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "title_cn": "埃隆·马斯克表示：“我不是MAGA。”",
-      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-      "summary_cn": "埃隆·马斯克周三在《纽约时报》的DealBook峰会上亮相时表示，他不确定“MAGA”一词的含义，并表示他觉得在美国中期选举期间花费这么多钱“相当愚蠢”。",
-      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "date": "2026-11-19"
-    },
-    {
-      "category": "新产品",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "title_cn": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "summary_cn": "微软首席执行官淡化了最近的Outlook宕机事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch",
-      "date": "2026-11-18"
-    },
-    {
-      "category": "行业热点",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "title_cn": "Ruby2ßhell：原生Rails上的预身份验证RCE",
-      "summary": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "summary_cn": "Ruby2ßhell：Rails 默认配置的预身份验证 RCE",
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "title_cn": "PlayCraft：从智能体博弈体验中设计引人入胜的游戏",
+      "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its...",
+      "summary_cn": "最近的AI代理可以生成可玩的游戏，但这些游戏不一定具有吸引力。精通是吸引力的关键来源，但要实现精通的设计，需要大量的人类游玩和调整。我们提出了PlayCraft，这是一个自动化框架，使用基于视觉的智能体来玩游戏，并利用其...",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://verialabs.com/ruby2shell/",
-      "source": "Hacker News",
-      "date": "2026-11-19"
+      "url": "http://arxiv.org/abs/2611.26624v1",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "AI论文",
+      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "title_cn": "一个先验，两个动态：将视频扩散变换器用于自监督潜在动作学习的再利用",
+      "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for...",
+      "summary_cn": "视频揭示了世界是如何变化的，但很少揭示导致这些变化的动作。潜在动作学习从视觉过渡中恢复这种监督，但通常是从头开始学习潜在的动态。我们想知道，预训练的视频生成器是否可以替代性地为...",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "http://arxiv.org/abs/2611.26617v1",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "AI论文",
+      "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+      "title_cn": "SoK：评估大语言模型（LLM）在软件漏洞研究中的能力演变",
+      "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports an...",
+      "summary_cn": "基于大语言模型（LLM）的代理在发现、验证和修补真实软件中的漏洞方面正变得越来越有能力，供应商和研究人员报告称，这已经在改变发现和修补漏洞的方式。然而，这些说法散见于论文、供应商报告和...",
+      "comment": "新论文发布，先别急着引用，等社区复现和讨论再说。",
+      "url": "http://arxiv.org/abs/2611.26601v1",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title_cn": "苹果可能正在开发自己的AI代理来运行您的Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "summary_cn": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title_cn": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "summary_cn": "按照上调后的83美元/股的IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而该公司则获得了近1050亿美元。",
+      "comment": "跑分赢了，实际用起来怎么样？用户体感比数字更重要。",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "title_cn": "Anthropic的竞争对手表示，公司（大多）可以绕过昂贵的模型",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "summary_cn": "在Anthropic上市的当天，Fireworks AI的联合创始人为开源模型作为一种更便宜的替代方案进行了辩护，并谈到了让该公司失去一些客户信任的违规行为。",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "date": "2026-11-20"
     },
     {
       "category": "行业热点",
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "title_cn": "Gemini 4 Neon看起来像是Opus 5.5的竞争对手",
-      "summary": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "summary_cn": "Gemini 4 Neon 看起来像是 Opus 5.5 的竞争对手",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "title_cn": "谷歌正在推动原始设备制造商（OEM）反对GrapheneOS和引导加载程序解锁",
+      "summary": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "summary_cn": "谷歌正在推动原始设备制造商（OEM）抵制GrapheneOS和引导加载程序解锁",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
       "source": "Hacker News",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
+    },
+    {
+      "category": "行业热点",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "title_cn": "Postgres 19已发布，现已在Neon和Databricks Lakebase上提供",
+      "summary": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "summary_cn": "Postgres 19已发布，现已在Neon和Databricks Lakebase上提供",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "source": "Hacker News",
+      "date": "2026-11-20"
     }
   ]
 }
