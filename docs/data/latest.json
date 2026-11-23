@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
-    {
-      "category": "技术动态",
-      "title": "axiom-lab-146",
-      "title_cn": "公理实验室-146",
-      "summary": "Ryan Vo | Work in progress: axiom-lab-146",
-      "summary_cn": "Ryan Vo | 进行中：axiom-lab-146",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/A220man/axiom-lab-146",
-      "date": "2026-11-22"
-    },
     {
       "category": "技术动态",
       "title": "lumen-lab-147",
       "title_cn": "流明实验室-147",
       "summary": "Alan Vo | Work in progress: lumen-lab-147",
       "summary_cn": "Alan Vo | 进行中的工作：lumen-lab-147",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://github.com/ALANDVO/lumen-lab-147",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "AI论文",
-      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
-      "title_cn": "PlayCraft：从智能体博弈体验中设计引人入胜的游戏",
-      "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its...",
-      "summary_cn": "最近的AI代理可以生成可玩的游戏，但这些游戏不一定具有吸引力。精通是吸引力的关键来源，但要为此进行设计，就需要大量的人类游玩和调整。我们提出了PlayCraft，这是一个自动化框架，使用基于视觉的智能体来玩游戏，并借鉴其...",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "http://arxiv.org/abs/2611.26624v1",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "AI论文",
-      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-      "title_cn": "一个先验，两个动态：将视频扩散变换器用于自监督潜在动作学习",
-      "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for...",
-      "summary_cn": "视频揭示了世界是如何变化的，但很少揭示导致这些变化的行动。潜在动作学习从视觉过渡中恢复这种监督，但通常是从头开始学习潜在的动态。我们想知道，预训练的视频生成器是否可以替代地为...",
-      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
-      "url": "http://arxiv.org/abs/2611.26617v1",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "AI论文",
-      "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
-      "title_cn": "SoK：评估大语言模型（LLM）在软件漏洞研究中的能力演变",
-      "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports an...",
-      "summary_cn": "基于LLM的代理在发现、验证和修补真实软件中的漏洞方面正变得越来越有能力，供应商和研究人员报告称，这已经改变了发现和修复漏洞的方式。然而，这些说法散见于各种论文、供应商报告和...",
-      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
-      "url": "http://arxiv.org/abs/2611.26601v1",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "新产品",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "title_cn": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "summary_cn": "Signal 正在限制用户在其 Android 和 iOS 应用中进行屏幕截图的能力。",
-      "comment": "开源项目值得支持，文档和社区活跃度比 star 数更重要。",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "date": "2026-11-21"
-    },
-    {
-      "category": "新产品",
-      "title": "A tale of two Nvidias",
-      "title_cn": "两个英伟达的故事",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "summary_cn": "我们看到了有关英伟达的两个截然不同的景象：一个是该公司最新的财报，另一个是科技高管们大声疾呼黄仁勋回归。",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "date": "2026-11-21"
-    },
-    {
-      "category": "新产品",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "title_cn": "以下是可以在您的短信中使用的顶级 AI 代理",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "summary_cn": "我们列出了一份最值得关注的 AI 智能体清单，这些智能体可以存在于您的短信中，包括通用助手以及专为家庭、旅行和工作设计的智能体。",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "url": "https://github.com/ALANDVO/lumen-lab-147",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "技术动态",
+      "title": "nexus-studio-145",
+      "title_cn": "Nexus-studio-145",
+      "summary": "Alan Vo | Work in progress: nexus-studio-145",
+      "summary_cn": "Alan Vo | 进行中：nexus-studio-145",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/ALANDVO/nexus-studio-145",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "Optimal Linear Regression Without a Variance",
+      "title_cn": "无方差的最佳线性回归",
+      "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction tha...",
+      "summary_cn": "我们研究了无限方差情形下高概率线性回归，其中对于某个未知的 $α\\in(1,2)$，回归噪声仅具有有限的条件 $α$-阶矩 $ν$，并且协变量可能仅具有直至给定阶数（例如，4阶矩）的有限阶矩。我们提供了一种黑盒降阶方法，...",
+      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
+      "url": "http://arxiv.org/abs/2611.27983v1",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "Non-penetrating World Models",
+      "title_cn": "非穿透式世界模型",
+      "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can ...",
+      "summary_cn": "我们研究了一个新问题，即如何在交互式视频世界模型中防止物体穿透。为了了解现有模型如何处理这一问题，我们推出了NoPeBench，这是一个用于评估世界模型如何应对物理障碍的基准。我们的评估表明，所有开源模型都无法...",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "http://arxiv.org/abs/2611.27963v1",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "AI论文",
+      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "title_cn": "模型雕刻：训练优化自身拓扑结构的Transformer",
+      "summary": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order, and optimizes the weights within. This uniformity is a convention rather than a...",
+      "summary_cn": "机器学习在很大程度上将架构的选择和训练的过程分开。例如，经典的 Transformer 在每一层都以相同的顺序训练一组固定的注意力子层和 MLP 子层，并优化其中的权重。这种一致性是一种惯例，而不是...",
+      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
+      "url": "http://arxiv.org/abs/2611.27962v1",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "新产品",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "title_cn": "Notable Capital、GIC和Baillie Gifford如何在Anthropic上市前对其进行大手笔投资",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "summary_cn": "三位重要支持者分享了是什么让他们有信心在Anthropic上押注数十亿美元。",
+      "comment": "商业化产品发布，先看定价策略，再决定要不要入坑。",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "source": "TechCrunch",
-      "date": "2026-11-21"
+      "date": "2026-11-23"
+    },
+    {
+      "category": "新产品",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "title_cn": "OpenAI首席科学家对如何限制人工智能的发展发表了看法",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "summary_cn": "要对人工智能的发展设定速度限制，您需要就如何衡量速度达成一致。",
+      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "新产品",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "title_cn": "TechCrunch Mobility：A/B测试机器人与人类",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "summary_cn": "欢迎回到TechCrunch Mobility，这里是您了解交通运输未来以及人工智能在其中所扮演角色的中心，而现在，人工智能的作用比以往任何时候都更加重要。",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "date": "2026-11-22"
     },
     {
       "category": "行业热点",
-      "title": "The Engineering Manager's role is under attack (again)",
-      "title_cn": "工程经理的职位（再次）受到质疑",
-      "summary": "The Engineering Manager's role is under attack (again)",
-      "summary_cn": "工程经理的职位（再次）受到质疑",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "title_cn": "0rwx – 一种简单的人工智能使用模型，灵感源自 Unix 权限",
+      "summary": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "summary_cn": "0rwx – 一种简单的人工智能使用模型，灵感源自 Unix 权限",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "https://0rwx.com/",
       "source": "Hacker News",
       "date": "2026-11-22"
     },
     {
       "category": "行业热点",
-      "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "title_cn": "人工智能供应链安全：金丝雀令牌的发现",
-      "summary": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary_cn": "人工智能供应链安全：金丝雀令牌的发现",
-      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "title_cn": "LocalCode，在您的 Mac 上使用一条命令即可进行开源代理式编码",
+      "summary": "Localcode, open source agentic coding on your Mac with one command",
+      "summary_cn": "LocalCode，在您的 Mac 上使用一条命令即可进行开源代理式编码",
+      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
+      "url": "https://github.com/mjwsolo/localcode",
       "source": "Hacker News",
       "date": "2026-11-22"
     }
