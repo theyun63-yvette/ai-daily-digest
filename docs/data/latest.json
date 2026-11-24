@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
       "category": "技术动态",
-      "title": "lumen-lab-147",
-      "title_cn": "流明实验室-147",
-      "summary": "Alan Vo | Work in progress: lumen-lab-147",
-      "summary_cn": "Alan Vo | 进行中的工作：lumen-lab-147",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://github.com/ALANDVO/lumen-lab-147",
-      "date": "2026-11-23"
+      "title": "prism-foundry-145",
+      "title_cn": "棱镜铸造厂 145",
+      "summary": "Alan Vo | Work in progress: prism-foundry-145",
+      "summary_cn": "Alan Vo | 进行中：prism-foundry-145",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://github.com/ALANDVO/prism-foundry-145",
+      "date": "2026-11-24"
     },
     {
       "category": "技术动态",
@@ -19,92 +19,92 @@
       "summary_cn": "Alan Vo | 进行中：nexus-studio-145",
       "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
       "url": "https://github.com/ALANDVO/nexus-studio-145",
-      "date": "2026-11-23"
+      "date": "2026-11-24"
     },
     {
       "category": "AI论文",
-      "title": "Optimal Linear Regression Without a Variance",
-      "title_cn": "无方差的最佳线性回归",
-      "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction tha...",
-      "summary_cn": "我们研究了无限方差情形下高概率线性回归，其中对于某个未知的 $α\\in(1,2)$，回归噪声仅具有有限的条件 $α$-阶矩 $ν$，并且协变量可能仅具有直至给定阶数（例如，4阶矩）的有限阶矩。我们提供了一种黑盒降阶方法，...",
-      "comment": "学术研究值不值，看实验设计和数据集，光看摘要都是纸上谈兵。",
-      "url": "http://arxiv.org/abs/2611.27983v1",
-      "date": "2026-11-23"
+      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+      "title_cn": "语言模型受注入的不确定性标记的引导，但无法在实际应用中进行自我监测",
+      "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an ...",
+      "summary_cn": "提示语言模型在生成过程中逐级表达数值置信度，是触发代理推理中的回溯和纠错的一种日益流行的方法。该策略的前提是具备两种能力：(1) 原地监控保真度（当……时，置信度是否会下降）...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.31228v1",
+      "date": "2026-11-24"
     },
     {
       "category": "AI论文",
-      "title": "Non-penetrating World Models",
-      "title_cn": "非穿透式世界模型",
-      "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can ...",
-      "summary_cn": "我们研究了一个新问题，即如何在交互式视频世界模型中防止物体穿透。为了了解现有模型如何处理这一问题，我们推出了NoPeBench，这是一个用于评估世界模型如何应对物理障碍的基准。我们的评估表明，所有开源模型都无法...",
-      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
-      "url": "http://arxiv.org/abs/2611.27963v1",
-      "date": "2026-11-23"
-    },
-    {
-      "category": "AI论文",
-      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
-      "title_cn": "模型雕刻：训练优化自身拓扑结构的Transformer",
-      "summary": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order, and optimizes the weights within. This uniformity is a convention rather than a...",
-      "summary_cn": "机器学习在很大程度上将架构的选择和训练的过程分开。例如，经典的 Transformer 在每一层都以相同的顺序训练一组固定的注意力子层和 MLP 子层，并优化其中的权重。这种一致性是一种惯例，而不是...",
-      "comment": "开源大模型又添新成员，这次能否撼动闭源模型的地位？",
-      "url": "http://arxiv.org/abs/2611.27962v1",
-      "date": "2026-11-23"
-    },
-    {
-      "category": "新产品",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "title_cn": "Notable Capital、GIC和Baillie Gifford如何在Anthropic上市前对其进行大手笔投资",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "summary_cn": "三位重要支持者分享了是什么让他们有信心在Anthropic上押注数十亿美元。",
-      "comment": "商业化产品发布，先看定价策略，再决定要不要入坑。",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch",
-      "date": "2026-11-23"
-    },
-    {
-      "category": "新产品",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "title_cn": "OpenAI首席科学家对如何限制人工智能的发展发表了看法",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "summary_cn": "要对人工智能的发展设定速度限制，您需要就如何衡量速度达成一致。",
-      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "新产品",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "title_cn": "TechCrunch Mobility：A/B测试机器人与人类",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "summary_cn": "欢迎回到TechCrunch Mobility，这里是您了解交通运输未来以及人工智能在其中所扮演角色的中心，而现在，人工智能的作用比以往任何时候都更加重要。",
-      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "source": "TechCrunch",
-      "date": "2026-11-22"
-    },
-    {
-      "category": "行业热点",
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "title_cn": "0rwx – 一种简单的人工智能使用模型，灵感源自 Unix 权限",
-      "summary": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "summary_cn": "0rwx – 一种简单的人工智能使用模型，灵感源自 Unix 权限",
+      "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+      "title_cn": "CTLink：一种文本提示分割模型，用于将放射学报告结果与胸部3D CT扫描关联起来",
+      "summary": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was ...",
+      "summary_cn": "影像学报告仅以文字形式描述所见影像，未在扫描影像上进行可视化标记，因此读者无法直接看出每项所见影像所指的异常。我们推出了CTLink，这是一种基于文本提示的3D分割模型，可对胸部CT报告中描述的影像学表现进行分割。CTLink是...",
       "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "https://0rwx.com/",
-      "source": "Hacker News",
-      "date": "2026-11-22"
+      "url": "http://arxiv.org/abs/2611.31222v1",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "AI论文",
+      "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+      "title_cn": "在空间中寻找：对视觉-语言模型进行有目的的主动探索，以实现空间推理的基准测试",
+      "summary": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to th...",
+      "summary_cn": "人类有目的地探索陌生空间，决定在哪里观察，直到收集到解决空间问题所需的证据。然而，视觉-语言模型（VLM）在经过精心挑选的图像和视频上推理能力越来越强，但当证据没有直接提供给它们时，它们是否也能在空间中进行搜索呢？...",
+      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
+      "url": "http://arxiv.org/abs/2611.31215v1",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "新产品",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_cn": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "summary_cn": "随着人工智能生成的代码日益增多，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
+      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "title_cn": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "summary_cn": "您认为自己知道市场走向吗？一家名为Supertake的初创公司让您无需亲自挑选股票，即可将资金投入到您的想法中。",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "新产品",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "title_cn": "在丑闻发生之际，Jensen Huang重返Nvidia，埃隆·马斯克等人对此感到高兴",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "summary_cn": "“错误已经纠正了，”埃隆·马斯克插话道。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch",
+      "date": "2026-11-23"
     },
     {
       "category": "行业热点",
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "title_cn": "LocalCode，在您的 Mac 上使用一条命令即可进行开源代理式编码",
-      "summary": "Localcode, open source agentic coding on your Mac with one command",
-      "summary_cn": "LocalCode，在您的 Mac 上使用一条命令即可进行开源代理式编码",
-      "comment": "GitHub 上的新玩具，先 fork 再说，说不定哪天就成神器了。",
-      "url": "https://github.com/mjwsolo/localcode",
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "title_cn": "人工智能领域的杰文斯悖论：更便宜的代币无法支付资本支出",
+      "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "summary_cn": "人工智能领域的杰文斯悖论：更便宜的代币无法支付资本支出",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
       "source": "Hacker News",
-      "date": "2026-11-22"
+      "date": "2026-11-24"
+    },
+    {
+      "category": "行业热点",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "title_cn": "潜在内省：大语言模型（LLM）能够检测先验概念注入",
+      "summary": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "summary_cn": "潜在内省：大语言模型（LLM）能够检测先验概念注入",
+      "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "source": "Hacker News",
+      "date": "2026-11-23"
     }
   ]
 }
