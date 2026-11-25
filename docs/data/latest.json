@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
       "category": "技术动态",
-      "title": "prism-foundry-145",
-      "title_cn": "棱镜铸造厂 145",
-      "summary": "Alan Vo | Work in progress: prism-foundry-145",
-      "summary_cn": "Alan Vo | 进行中：prism-foundry-145",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/ALANDVO/prism-foundry-145",
-      "date": "2026-11-24"
+      "title": "from-scratch-neural-networks",
+      "title_cn": "从零开始的神经网络",
+      "summary": "A collection of real multilayer perceptrons (MLPs) implemented from scratch in pure JavaScript. No frameworks, no external libraries, no runtime dependencies. Each app is a self-contained single HTML file that trains and runs a neural network entirely in the browser, with live visualization of the learning process.",
+      "summary_cn": "一个由纯JavaScript从头开始实现的真实多层感知器（MLP）集合。无框架、无外部库、无运行时依赖项。每个应用程序都是一个独立的单个 HTML 文件，它完全在浏览器中训练和运行神经网络，并实时可视化学习过程。",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "https://github.com/smartlegionlab/from-scratch-neural-networks",
+      "date": "2026-11-25"
     },
     {
       "category": "技术动态",
-      "title": "nexus-studio-145",
-      "title_cn": "Nexus-studio-145",
-      "summary": "Alan Vo | Work in progress: nexus-studio-145",
-      "summary_cn": "Alan Vo | 进行中：nexus-studio-145",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://github.com/ALANDVO/nexus-studio-145",
-      "date": "2026-11-24"
-    },
-    {
-      "category": "AI论文",
-      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-      "title_cn": "语言模型受注入的不确定性标记的引导，但无法在实际应用中进行自我监测",
-      "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an ...",
-      "summary_cn": "提示语言模型在生成过程中逐级表达数值置信度，是触发代理推理中的回溯和纠错的一种日益流行的方法。该策略的前提是具备两种能力：(1) 原地监控保真度（当……时，置信度是否会下降）...",
-      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
-      "url": "http://arxiv.org/abs/2611.31228v1",
-      "date": "2026-11-24"
-    },
-    {
-      "category": "AI论文",
-      "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-      "title_cn": "CTLink：一种文本提示分割模型，用于将放射学报告结果与胸部3D CT扫描关联起来",
-      "summary": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was ...",
-      "summary_cn": "影像学报告仅以文字形式描述所见影像，未在扫描影像上进行可视化标记，因此读者无法直接看出每项所见影像所指的异常。我们推出了CTLink，这是一种基于文本提示的3D分割模型，可对胸部CT报告中描述的影像学表现进行分割。CTLink是...",
-      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
-      "url": "http://arxiv.org/abs/2611.31222v1",
-      "date": "2026-11-24"
-    },
-    {
-      "category": "AI论文",
-      "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-      "title_cn": "在空间中寻找：对视觉-语言模型进行有目的的主动探索，以实现空间推理的基准测试",
-      "summary": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to th...",
-      "summary_cn": "人类有目的地探索陌生空间，决定在哪里观察，直到收集到解决空间问题所需的证据。然而，视觉-语言模型（VLM）在经过精心挑选的图像和视频上推理能力越来越强，但当证据没有直接提供给它们时，它们是否也能在空间中进行搜索呢？...",
-      "comment": "模型发布热闹非凡，能不能用、好不好用，用户说了算。",
-      "url": "http://arxiv.org/abs/2611.31215v1",
-      "date": "2026-11-24"
-    },
-    {
-      "category": "新产品",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "title_cn": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "summary_cn": "随着人工智能生成的代码日益增多，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
-      "comment": "新模型发布，效果先观望，按 token 计费的玩法，用得起吗？",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch",
-      "date": "2026-11-23"
-    },
-    {
-      "category": "新产品",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "title_cn": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "summary_cn": "您认为自己知道市场走向吗？一家名为Supertake的初创公司让您无需亲自挑选股票，即可将资金投入到您的想法中。",
+      "title": "Mference",
+      "title_cn": "参考",
+      "summary": "Mference 2.0: Native Swift + Metal 3/4 Apple Silicon runtime for Qwen 3.6 35B-A3B — 16 GB NVMe MoE streaming, native ephemeral Vision & PDFs, MTP + hybrid PLD speculation, and lossless weight surgery.",
+      "summary_cn": "Mference 2.0：原生 Swift + Metal 3/4 Apple Silicon 运行时，适用于 Qwen 3.6 35B-A3B — 16 GB NVMe MoE 流式传输、原生临时 Vision 和 PDF、MTP + 混合 PLD 推测以及无损权重手术。",
       "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "date": "2026-11-23"
+      "url": "https://github.com/mference-ai/Mference",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "AI论文",
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "title_cn": "OmniAct：一项保单，一百万种形式",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how dif...",
+      "summary_cn": "控制多种机器人的单一策略不仅必须在不同实体之间传递任务知识，还必须根据每个机器人的能力调整其行为。现有方法通过共享动作表示来促进迁移，但这些表示并不一定能捕捉到……...",
+      "comment": "政策收紧，大厂合规团队又要扩编了，创新空间还剩多少？",
+      "url": "http://arxiv.org/abs/2611.33158v1",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "AI论文",
+      "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+      "title_cn": "MetaFORGE：用于并行计算自动化代码生成中线束优化的元学习框架",
+      "summary": "Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded meta-learning framework that iteratively optimizes persistent natural-language skill spec...",
+      "summary_cn": "大型语言模型（LLM）可以生成并行程序，但其正确性和性能在很大程度上取决于指导生成的指令。我们推出了\\textsc{MetaFORGE}，这是一个基于执行的元学习框架，可迭代优化持久的自然语言技能规范。...",
+      "comment": "新模型来了，是骡子是马拉出来遛遛，别光看宣传看实测。",
+      "url": "http://arxiv.org/abs/2611.33119v1",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "AI论文",
+      "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "title_cn": "用于推测性解码的草稿校准：通过匹配草稿和目标分布来加速大语言模型（LLM）服务",
+      "summary": "Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel to improve inference-time compute utilization. The speedup relies on the acceptance probability of d...",
+      "summary_cn": "推测性解码通过采用轻量级草稿模型来提出草稿token，并允许目标模型并行验证新token，从而提高推理时的计算利用率，进而加速大型语言模型 (LLM) 的推理。加速取决于 d 的接受概率...",
+      "comment": "AI 模型迭代快得飞起，有几个真正解决了实际问题？等落地案例。",
+      "url": "http://arxiv.org/abs/2611.33111v1",
+      "date": "2026-11-25"
     },
     {
       "category": "新产品",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "title_cn": "在丑闻发生之际，Jensen Huang重返Nvidia，埃隆·马斯克等人对此感到高兴",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "summary_cn": "“错误已经纠正了，”埃隆·马斯克插话道。",
-      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "title_cn": "耶鲁大学的森嫩菲尔德：英伟达对美国工业实力“有害”——而非捍卫者",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "summary_cn": "耶鲁大学的杰弗里·桑菲尔德（Jeffrey Sonnenfeld）警告称，周一市场欢呼雀跃的事件——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，使董事们面临日益增多的诉讼所带来的“历史性”个人责任，并引发人们质疑该国是否在为一家曾帮助将先进芯片交到其对手手中的公司欢呼。",
+      "comment": "监管落地对行业是双刃剑，合规成本飙升，小玩家可能被挤出市场。",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "category": "行业热点",
-      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "title_cn": "人工智能领域的杰文斯悖论：更便宜的代币无法支付资本支出",
-      "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "summary_cn": "人工智能领域的杰文斯悖论：更便宜的代币无法支付资本支出",
+      "category": "新产品",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "title_cn": "据报道，特朗普表示赦免黄仁勋“是一个选项”",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "summary_cn": "黄仁勋正面临着对其与Alice Huang关系的持续质疑，后者是一位据称与中国情报部门有联系的高管，此前曾就职于一家被指控非法将Nvidia芯片转运至中国的公司。",
+      "comment": "新趋势值得注意，别盲目跟风，适合自己的才是最好的。",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "source": "TechCrunch",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "新产品",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "title_cn": "在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "summary_cn": "英伟达创始人周二向员工道歉，并表示感谢大家给他第二次领导公司的机会。",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "source": "Hacker News",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch",
       "date": "2026-11-24"
     },
     {
       "category": "行业热点",
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "title_cn": "潜在内省：大语言模型（LLM）能够检测先验概念注入",
-      "summary": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "summary_cn": "潜在内省：大语言模型（LLM）能够检测先验概念注入",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "title_cn": "Show HN：旧版Nvidia和ATI技术演示，再次在浏览器中运行",
+      "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "summary_cn": "Show HN：老款Nvidia和ATI技术演示，在浏览器中再次运行",
       "comment": "AI 领域新动态，保持关注，别被营销号带节奏。",
-      "url": "https://arxiv.org/abs/2602.20031",
+      "url": "https://gpu-demo-gallery.pages.dev/",
       "source": "Hacker News",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
+    },
+    {
+      "category": "行业热点",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "title_cn": "以每个3美元的价格接管美国财政部子域名",
+      "summary": "Taking over US Treasury subdomains for $3 each",
+      "summary_cn": "以每个3美元的价格接管美国财政部子域名",
+      "comment": "行业变化快，今天的热点明天可能就凉了，理性看待。",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "source": "Hacker News",
+      "date": "2026-11-25"
     }
   ]
 }
